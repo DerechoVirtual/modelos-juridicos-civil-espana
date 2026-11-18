@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aprobación judicial del acuerdo de las parte
 
 # Aprobación judicial del acuerdo de las partes en medidas provisionales
 
-> Formulario 1148 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1148 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

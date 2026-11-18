@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de cantidad por venta de acciones sin
 
 # Demanda de cantidad por venta de acciones sin el consentimiento de todos los coherederos
 
-> Formulario 0416 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0416 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

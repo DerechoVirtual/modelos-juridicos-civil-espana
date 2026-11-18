@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ejecutiva del decreto que aprueba la 
 
 # Demanda ejecutiva del decreto que aprueba la tasación de costas
 
-> Formulario 0121 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0121 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

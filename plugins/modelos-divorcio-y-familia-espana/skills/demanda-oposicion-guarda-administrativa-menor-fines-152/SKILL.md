@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de oposición a la guarda administrat
 
 # Demanda de oposición a la guarda administrativa de un menor con fines de adopción
 
-> Formulario 0152 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0152 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

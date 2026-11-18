@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convocatoria de la asamblea general de obliga
 
 # Convocatoria de la asamblea general de obligacionistas
 
-> Formulario 0696 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0696 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la demanda de medidas paterno
 
 # Contestación a la demanda de medidas paternofiliales de pareja no casada, con medidas provisionales
 
-> Formulario 0375 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0375 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

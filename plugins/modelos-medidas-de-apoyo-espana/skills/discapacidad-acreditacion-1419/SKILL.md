@@ -5,7 +5,7 @@ description: "Redacta el escrito «Discapacidad: acreditación» (formulario 141
 
 # Discapacidad: acreditación
 
-> Formulario 1419 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1419 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

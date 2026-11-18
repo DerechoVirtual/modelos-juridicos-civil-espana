@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la ejecución hipotecaria por ab
 
 # Oposición a la ejecución hipotecaria por abusividad del interés IRPH
 
-> Formulario 0268 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0268 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Defensor judicial como cautelar junto a la de
 
 # Defensor judicial como cautelar junto a la demanda de medidas de apoyo
 
-> Formulario 0364 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0364 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

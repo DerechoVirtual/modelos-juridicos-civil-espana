@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra el auto que tiene por desis
 
 # Apelación contra el auto que tiene por desistido al actor
 
-> Formulario 0439 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0439 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

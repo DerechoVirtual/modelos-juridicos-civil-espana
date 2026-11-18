@@ -5,7 +5,7 @@ description: "Redacta el escrito «Denuncia a la sociedad rectora por robo, hurt
 
 # Denuncia a la sociedad rectora por robo, hurto o extravío de valores cotizados
 
-> Formulario 0693 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0693 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

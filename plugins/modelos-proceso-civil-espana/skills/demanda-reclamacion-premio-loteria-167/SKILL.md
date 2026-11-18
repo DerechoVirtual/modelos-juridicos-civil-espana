@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de reclamación de premio de lotería
 
 # Demanda de reclamación de premio de lotería
 
-> Formulario 0167 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0167 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

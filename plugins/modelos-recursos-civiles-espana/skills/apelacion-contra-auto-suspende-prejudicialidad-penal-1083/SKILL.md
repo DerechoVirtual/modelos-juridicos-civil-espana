@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra el auto que suspende por pr
 
 # Apelación contra el auto que suspende por prejudicialidad penal
 
-> Formulario 1083 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1083 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

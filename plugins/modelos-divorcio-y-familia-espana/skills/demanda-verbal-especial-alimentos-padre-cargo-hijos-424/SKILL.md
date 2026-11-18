@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal especial de alimentos del padr
 
 # Demanda verbal especial de alimentos del padre a cargo de los hijos
 
-> Formulario 0424 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0424 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

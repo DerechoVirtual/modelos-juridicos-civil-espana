@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convocatoria de junta extraordinaria para eje
 
 # Convocatoria de junta extraordinaria para ejercitar la acción de cesación
 
-> Formulario 1229 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1229 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

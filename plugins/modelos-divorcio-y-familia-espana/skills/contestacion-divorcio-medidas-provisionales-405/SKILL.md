@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación al divorcio con medidas provisi
 
 # Contestación al divorcio con medidas provisionales
 
-> Formulario 0405 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0405 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

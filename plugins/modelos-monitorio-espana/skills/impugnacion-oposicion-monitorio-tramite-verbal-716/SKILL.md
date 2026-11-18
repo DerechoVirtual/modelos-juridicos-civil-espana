@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de la oposición al monitorio po
 
 # Impugnación de la oposición al monitorio por el trámite del verbal
 
-> Formulario 0716 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0716 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

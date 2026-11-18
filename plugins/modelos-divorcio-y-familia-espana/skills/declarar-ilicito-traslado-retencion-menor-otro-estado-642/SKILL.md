@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declarar ilícito el traslado o retención de
 
 # Declarar ilícito el traslado o retención de un menor en otro Estado
 
-> Formulario 0642 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0642 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

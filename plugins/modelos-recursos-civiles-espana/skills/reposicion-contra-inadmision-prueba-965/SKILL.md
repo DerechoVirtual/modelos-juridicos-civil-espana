@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra la inadmisión de prueba»
 
 # Reposición contra la inadmisión de prueba
 
-> Formulario 0965 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0965 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

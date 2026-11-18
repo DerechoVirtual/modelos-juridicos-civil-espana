@@ -5,7 +5,7 @@ description: "Redacta el escrito «Proposición de prueba en juicio verbal» (fo
 
 # Proposición de prueba en juicio verbal
 
-> Formulario 0833 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0833 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

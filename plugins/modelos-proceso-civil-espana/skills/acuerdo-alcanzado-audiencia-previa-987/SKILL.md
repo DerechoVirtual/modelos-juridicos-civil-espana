@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo alcanzado en la audiencia previa» (f
 
 # Acuerdo alcanzado en la audiencia previa
 
-> Formulario 0987 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0987 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

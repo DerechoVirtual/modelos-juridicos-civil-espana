@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones complementarias y de aclaración�
 
 # Alegaciones complementarias y de aclaración
 
-> Formulario 0993 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0993 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

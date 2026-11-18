@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estatutos de la comunidad de monte vecinal en
 
 # Estatutos de la comunidad de monte vecinal en mano común
 
-> Formulario 0558 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0558 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

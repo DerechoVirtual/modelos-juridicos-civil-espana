@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ejecutiva por condena en acción de c
 
 # Demanda ejecutiva por condena en acción de cesación
 
-> Formulario 1358 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1358 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

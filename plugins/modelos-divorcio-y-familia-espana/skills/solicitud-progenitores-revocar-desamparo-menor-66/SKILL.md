@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de los progenitores para revocar el
 
 # Solicitud de los progenitores para revocar el desamparo de un menor
 
-> Formulario 0066 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0066 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

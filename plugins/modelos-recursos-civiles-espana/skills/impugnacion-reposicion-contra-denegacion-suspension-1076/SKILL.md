@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de la reposición contra la dene
 
 # Impugnación de la reposición contra la denegación de suspensión por prejudicialidad civil
 
-> Formulario 1076 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1076 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

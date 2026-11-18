@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ordinaria de cantidad por enriquecimi
 
 # Demanda ordinaria de cantidad por enriquecimiento injusto
 
-> Formulario 0594 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0594 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

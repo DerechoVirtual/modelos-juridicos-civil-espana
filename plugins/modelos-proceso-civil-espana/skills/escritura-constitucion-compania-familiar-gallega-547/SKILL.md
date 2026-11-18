@@ -5,7 +5,7 @@ description: "Redacta el escrito «Escritura de constitución de compañía fami
 
 # Escritura de constitución de compañía familiar gallega
 
-> Formulario 0547 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0547 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

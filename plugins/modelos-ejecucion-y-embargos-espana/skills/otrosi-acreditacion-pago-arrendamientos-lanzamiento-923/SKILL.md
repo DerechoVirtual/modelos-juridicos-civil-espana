@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: acreditación de pago en arrendamien
 
 # Otrosí: acreditación de pago en arrendamientos con lanzamiento
 
-> Formulario 0923 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0923 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

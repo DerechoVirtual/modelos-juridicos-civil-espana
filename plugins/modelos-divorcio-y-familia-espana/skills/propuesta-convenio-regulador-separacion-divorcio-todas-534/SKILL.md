@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propuesta de convenio regulador de separació
 
 # Propuesta de convenio regulador de separación o divorcio con todas las opciones
 
-> Formulario 0534 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0534 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Domicilio conyugal y vivienda habitual en des
 
 # Domicilio conyugal y vivienda habitual en desacuerdo de los cónyuges
 
-> Formulario 0745 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0745 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Plan contradictorio de custodia compartida de
 
 # Plan contradictorio de custodia compartida de un cónyuge
 
-> Formulario 0332 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0332 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

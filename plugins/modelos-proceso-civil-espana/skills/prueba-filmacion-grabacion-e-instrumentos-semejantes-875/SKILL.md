@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prueba por filmación, grabación e instrumen
 
 # Prueba por filmación, grabación e instrumentos semejantes
 
-> Formulario 0875 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0875 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

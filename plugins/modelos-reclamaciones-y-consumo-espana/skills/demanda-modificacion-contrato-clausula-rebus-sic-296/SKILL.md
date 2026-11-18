@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de modificación del contrato por la 
 
 # Demanda de modificación del contrato por la cláusula rebus sic stantibus
 
-> Formulario 0296 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0296 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

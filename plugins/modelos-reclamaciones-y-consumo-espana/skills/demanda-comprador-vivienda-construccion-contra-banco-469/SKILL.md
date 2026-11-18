@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda del comprador de vivienda en construc
 
 # Demanda del comprador de vivienda en construcción contra el banco avalista por cantidades entregadas
 
-> Formulario 0469 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0469 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunero pide incluir en el orden del día ob
 
 # Comunero pide incluir en el orden del día obras de accesibilidad
 
-> Formulario 1386 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1386 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

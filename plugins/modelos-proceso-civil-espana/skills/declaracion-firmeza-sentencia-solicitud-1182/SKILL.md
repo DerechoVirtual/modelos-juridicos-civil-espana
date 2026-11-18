@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declaración de firmeza de la sentencia: soli
 
 # Declaración de firmeza de la sentencia: solicitud
 
-> Formulario 1182 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1182 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

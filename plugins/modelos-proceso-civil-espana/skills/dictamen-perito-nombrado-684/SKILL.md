@@ -5,7 +5,7 @@ description: "Redacta el escrito «Dictamen del perito nombrado» (formulario 68
 
 # Dictamen del perito nombrado
 
-> Formulario 0684 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0684 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

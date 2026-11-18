@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición al juicio cambiario: demanda» (fo
 
 # Oposición al juicio cambiario: demanda
 
-> Formulario 1035 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 1035 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

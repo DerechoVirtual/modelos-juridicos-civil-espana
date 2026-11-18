@@ -5,7 +5,7 @@ description: "Redacta el escrito «Preguntas de la parte que no propuso al testi
 
 # Preguntas de la parte que no propuso al testigo
 
-> Formulario 0984 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0984 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

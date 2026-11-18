@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reserva previa al arrendamiento de vivienda h
 
 # Reserva previa al arrendamiento de vivienda habitual
 
-> Formulario 0506 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0506 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones sobre la competencia del Tribunal
 
 # Alegaciones sobre la competencia del Tribunal Supremo en la admisión
 
-> Formulario 1069 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1069 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

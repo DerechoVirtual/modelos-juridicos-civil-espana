@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pacto de modificación de la inscripción de 
 
 # Pacto de modificación de la inscripción de pareja de hecho con pactos (Galicia)
 
-> Formulario 0560 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0560 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

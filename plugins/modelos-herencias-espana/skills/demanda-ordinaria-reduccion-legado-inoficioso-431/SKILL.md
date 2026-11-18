@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ordinaria de reducción de legado por
 
 # Demanda ordinaria de reducción de legado por inoficioso
 
-> Formulario 0431 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0431 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

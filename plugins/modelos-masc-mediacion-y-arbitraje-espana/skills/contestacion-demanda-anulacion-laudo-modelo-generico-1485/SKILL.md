@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a demanda de anulación de laud
 
 # Contestación a demanda de anulación de laudo (modelo genérico)
 
-> Formulario 1485 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1485 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

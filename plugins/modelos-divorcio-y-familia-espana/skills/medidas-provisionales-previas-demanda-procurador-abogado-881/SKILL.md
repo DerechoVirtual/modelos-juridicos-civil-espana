@@ -5,7 +5,7 @@ description: "Redacta el escrito «Medidas provisionales previas a la demanda co
 
 # Medidas provisionales previas a la demanda con procurador y abogado
 
-> Formulario 0881 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0881 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

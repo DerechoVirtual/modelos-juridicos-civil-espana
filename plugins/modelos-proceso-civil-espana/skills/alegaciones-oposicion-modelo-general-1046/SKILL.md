@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones a la oposición: modelo general»
 
 # Alegaciones a la oposición: modelo general
 
-> Formulario 1046 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1046 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

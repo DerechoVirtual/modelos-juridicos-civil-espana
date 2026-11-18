@@ -5,7 +5,7 @@ description: "Redacta el escrito «Caución prestada por el demandante» (formul
 
 # Caución prestada por el demandante
 
-> Formulario 1110 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 1110 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

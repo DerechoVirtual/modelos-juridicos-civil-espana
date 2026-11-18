@@ -5,7 +5,7 @@ description: "Redacta el escrito «Decidir un acto concreto en desacuerdo de pro
 
 # Decidir un acto concreto en desacuerdo de progenitores: pasaporte del menor
 
-> Formulario 0453 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0453 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

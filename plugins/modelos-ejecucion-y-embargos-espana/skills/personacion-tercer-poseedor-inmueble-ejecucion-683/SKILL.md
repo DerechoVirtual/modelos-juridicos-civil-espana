@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personación del tercer poseedor de inmueble 
 
 # Personación del tercer poseedor de inmueble en la ejecución
 
-> Formulario 0683 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0683 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

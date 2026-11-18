@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de desahucio por impago en arrendamie
 
 # Demanda de desahucio por impago en arrendamiento para uso distinto de vivienda
 
-> Formulario 1288 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1288 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

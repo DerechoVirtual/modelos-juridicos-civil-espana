@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización de entrada en elemento privativ
 
 # Autorización de entrada en elemento privativo: solicitud
 
-> Formulario 1437 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1437 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

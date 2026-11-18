@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso de cambio de cerradura» (formulario 13
 
 # Aviso de cambio de cerradura
 
-> Formulario 1301 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1301 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

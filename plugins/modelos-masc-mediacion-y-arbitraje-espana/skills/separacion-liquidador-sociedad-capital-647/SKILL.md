@@ -5,7 +5,7 @@ description: "Redacta el escrito «Separación de un liquidador de sociedad de c
 
 # Separación de un liquidador de sociedad de capital
 
-> Formulario 0647 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0647 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

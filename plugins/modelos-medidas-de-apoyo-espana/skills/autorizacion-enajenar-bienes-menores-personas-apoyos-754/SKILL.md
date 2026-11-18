@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización para enajenar bienes de menores
 
 # Autorización para enajenar bienes de menores o personas con apoyos
 
-> Formulario 0754 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0754 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

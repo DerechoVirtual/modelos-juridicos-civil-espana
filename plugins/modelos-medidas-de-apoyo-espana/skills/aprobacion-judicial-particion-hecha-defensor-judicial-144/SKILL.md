@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aprobación judicial de la partición hecha p
 
 # Aprobación judicial de la partición hecha por un defensor judicial
 
-> Formulario 0144 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0144 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

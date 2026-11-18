@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda redhibitoria por vicios ocultos con g
 
 # Demanda redhibitoria por vicios ocultos con gastos y daños y perjuicios
 
-> Formulario 0466 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0466 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

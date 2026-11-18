@@ -5,7 +5,7 @@ description: "Redacta el escrito «Repercusión del IBI al arrendatario de vivie
 
 # Repercusión del IBI al arrendatario de vivienda anterior al 9-5-1985
 
-> Formulario 1253 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1253 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución del contrato con entrega de llave
 
 # Resolución del contrato con entrega de llaves y posesión del local al arrendador
 
-> Formulario 0808 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0808 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de condena a una obligación de hacer
 
 # Demanda de condena a una obligación de hacer
 
-> Formulario 0065 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0065 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de desahucio y rentas atrasadas en ar
 
 # Demanda de desahucio y rentas atrasadas en arrendamiento para uso distinto de vivienda
 
-> Formulario 1256 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1256 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

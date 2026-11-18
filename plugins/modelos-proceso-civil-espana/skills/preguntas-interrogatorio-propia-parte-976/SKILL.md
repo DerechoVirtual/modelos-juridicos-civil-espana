@@ -5,7 +5,7 @@ description: "Redacta el escrito «Preguntas para el interrogatorio de la propia
 
 # Preguntas para el interrogatorio de la propia parte
 
-> Formulario 0976 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0976 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

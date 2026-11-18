@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión del curso del procedimiento princ
 
 # Suspensión del curso del procedimiento principal
 
-> Formulario 0886 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0886 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

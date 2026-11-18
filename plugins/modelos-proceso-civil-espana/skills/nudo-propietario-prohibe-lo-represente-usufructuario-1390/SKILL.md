@@ -5,7 +5,7 @@ description: "Redacta el escrito «Nudo propietario prohíbe que lo represente e
 
 # Nudo propietario prohíbe que lo represente el usufructuario
 
-> Formulario 1390 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1390 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convocatoria de la junta general ordinaria de
 
 # Convocatoria de la junta general ordinaria de propietarios (Cataluña)
 
-> Formulario 0089 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0089 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

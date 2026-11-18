@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de la tasación de costas por pa
 
 # Impugnación de la tasación de costas por partidas excesivas o superfluas
 
-> Formulario 0914 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0914 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

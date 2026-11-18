@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición al deslinde de fincas no escritas�
 
 # Oposición al deslinde de fincas no escritas
 
-> Formulario 0157 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0157 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

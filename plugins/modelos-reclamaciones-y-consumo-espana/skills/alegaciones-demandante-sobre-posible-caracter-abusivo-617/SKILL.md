@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones del demandante sobre el posible c
 
 # Alegaciones del demandante sobre el posible carácter abusivo de una cláusula
 
-> Formulario 0617 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0617 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

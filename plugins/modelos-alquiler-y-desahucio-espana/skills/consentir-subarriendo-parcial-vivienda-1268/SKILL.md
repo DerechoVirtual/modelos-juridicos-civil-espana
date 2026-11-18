@@ -5,7 +5,7 @@ description: "Redacta el escrito «Consentir el subarriendo parcial de la vivien
 
 # Consentir el subarriendo parcial de la vivienda
 
-> Formulario 1268 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1268 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

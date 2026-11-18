@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cláusula de liquidación de gananciales con 
 
 # Cláusula de liquidación de gananciales con bienes adquiridos a plazos antes de la sociedad
 
-> Formulario 1160 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1160 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

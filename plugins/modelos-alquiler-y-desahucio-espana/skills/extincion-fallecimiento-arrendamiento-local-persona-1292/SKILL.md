@@ -5,7 +5,7 @@ description: "Redacta el escrito «Extinción por fallecimiento de arrendamiento
 
 # Extinción por fallecimiento de arrendamiento de local de persona física anterior al 9-5-1985
 
-> Formulario 1292 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1292 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

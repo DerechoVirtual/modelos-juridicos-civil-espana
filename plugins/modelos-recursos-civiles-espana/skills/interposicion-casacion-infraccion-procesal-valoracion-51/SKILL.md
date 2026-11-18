@@ -5,7 +5,7 @@ description: "Redacta el escrito «Interposición de casación por infracción p
 
 # Interposición de casación por infracción procesal en la valoración de la prueba (reforma RDL 5/2023)
 
-> Formulario 0051 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0051 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

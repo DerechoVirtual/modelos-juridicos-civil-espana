@@ -5,7 +5,7 @@ description: "Redacta el escrito «Renuncia a la dirección del asunto, dirigida
 
 # Renuncia a la dirección del asunto, dirigida al Tribunal
 
-> Formulario 1108 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1108 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

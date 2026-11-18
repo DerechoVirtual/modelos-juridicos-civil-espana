@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fijación de caución en diligencias prelimin
 
 # Fijación de caución en diligencias preliminares de propiedad horizontal
 
-> Formulario 1340 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 1340 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

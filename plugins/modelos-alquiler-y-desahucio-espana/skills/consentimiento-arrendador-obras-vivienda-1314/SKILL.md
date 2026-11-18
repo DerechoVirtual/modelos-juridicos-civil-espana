@@ -5,7 +5,7 @@ description: "Redacta el escrito «Consentimiento del arrendador a obras en la v
 
 # Consentimiento del arrendador a obras en la vivienda
 
-> Formulario 1314 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1314 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

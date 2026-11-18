@@ -5,7 +5,7 @@ description: "Redacta el escrito «Arrendamiento de derechos de caza» (formular
 
 # Arrendamiento de derechos de caza
 
-> Formulario 0200 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0200 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de adopción (art. 176.2.4.ª CC)»
 
 # Solicitud de adopción (art. 176.2.4.ª CC)
 
-> Formulario 0498 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0498 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

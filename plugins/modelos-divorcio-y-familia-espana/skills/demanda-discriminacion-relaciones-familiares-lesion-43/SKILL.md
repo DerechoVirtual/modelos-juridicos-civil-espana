@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda por discriminación en las relaciones
 
 # Demanda por discriminación en las relaciones familiares y lesión del honor
 
-> Formulario 0043 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0043 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

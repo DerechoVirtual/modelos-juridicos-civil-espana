@@ -5,7 +5,7 @@ description: "Redacta el escrito «Testimonio del acta que pone fin a la concili
 
 # Testimonio del acta que pone fin a la conciliación
 
-> Formulario 0705 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0705 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reconocimiento en España de actos de jurisdi
 
 # Reconocimiento en España de actos de jurisdicción voluntaria extranjeros
 
-> Formulario 0768 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0768 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

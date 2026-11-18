@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificación al vendedor de la demanda de ev
 
 # Notificación al vendedor de la demanda de evicción
 
-> Formulario 0413 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0413 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

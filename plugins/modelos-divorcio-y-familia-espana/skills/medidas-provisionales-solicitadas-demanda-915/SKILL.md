@@ -5,7 +5,7 @@ description: "Redacta el escrito «Medidas provisionales solicitadas con la dema
 
 # Medidas provisionales solicitadas con la demanda
 
-> Formulario 0915 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0915 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

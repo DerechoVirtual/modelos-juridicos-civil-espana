@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicación a los trabajadores de la instal
 
 # Comunicación a los trabajadores de la instalación del control horario
 
-> Formulario 0216 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0216 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

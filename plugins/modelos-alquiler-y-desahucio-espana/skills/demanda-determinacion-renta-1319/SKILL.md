@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de determinación de la renta» (form
 
 # Demanda de determinación de la renta
 
-> Formulario 1319 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1319 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

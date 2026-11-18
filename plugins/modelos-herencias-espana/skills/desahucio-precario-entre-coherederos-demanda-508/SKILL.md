@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desahucio por precario entre coherederos: dem
 
 # Desahucio por precario entre coherederos: demanda
 
-> Formulario 0508 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0508 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

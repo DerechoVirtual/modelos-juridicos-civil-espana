@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: alimentos» (formulario 1144 de fami
 
 # Otrosí: alimentos
 
-> Formulario 1144 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1144 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

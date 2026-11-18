@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de prórroga extraordinaria del arr
 
 # Solicitud de prórroga extraordinaria del arrendamiento (Ley 12/2023)
 
-> Formulario 0060 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0060 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

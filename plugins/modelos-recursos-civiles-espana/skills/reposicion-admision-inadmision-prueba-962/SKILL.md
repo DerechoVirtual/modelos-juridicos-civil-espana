@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición por admisión o inadmisión de pr
 
 # Reposición por admisión o inadmisión de prueba
 
-> Formulario 0962 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0962 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mantenimiento de medidas cautelares al recurr
 
 # Mantenimiento de medidas cautelares al recurrir la sentencia
 
-> Formulario 1062 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1062 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

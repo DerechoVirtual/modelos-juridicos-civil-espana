@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición de un interesado en jurisdicción 
 
 # Oposición de un interesado en jurisdicción voluntaria
 
-> Formulario 0669 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0669 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

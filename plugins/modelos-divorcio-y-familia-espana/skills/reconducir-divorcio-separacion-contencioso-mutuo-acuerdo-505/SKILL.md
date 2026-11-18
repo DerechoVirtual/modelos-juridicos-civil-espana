@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reconducir el divorcio o separación contenci
 
 # Reconducir el divorcio o separación contencioso al mutuo acuerdo
 
-> Formulario 0505 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0505 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

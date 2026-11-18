@@ -5,7 +5,7 @@ description: "Redacta el escrito «Intervención judicial de la herencia» (form
 
 # Intervención judicial de la herencia
 
-> Formulario 0264 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0264 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

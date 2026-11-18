@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso de revisión en jurisdicción volunta
 
 # Recurso de revisión en jurisdicción voluntaria (modelo genérico)
 
-> Formulario 0762 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0762 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

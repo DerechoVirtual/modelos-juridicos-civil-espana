@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sustitución de tutor: demanda» (formulario 
 
 # Sustitución de tutor: demanda
 
-> Formulario 0393 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0393 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

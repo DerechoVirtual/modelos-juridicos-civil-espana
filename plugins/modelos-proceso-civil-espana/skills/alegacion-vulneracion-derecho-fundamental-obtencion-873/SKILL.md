@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegación de vulneración de derecho fundame
 
 # Alegación de vulneración de derecho fundamental en la obtención de la prueba
 
-> Formulario 0873 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0873 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

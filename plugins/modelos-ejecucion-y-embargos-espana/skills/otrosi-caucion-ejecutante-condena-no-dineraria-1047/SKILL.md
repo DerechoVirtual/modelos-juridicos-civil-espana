@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: caución del ejecutante en condena n
 
 # Otrosí: caución del ejecutante en condena no dineraria
 
-> Formulario 1047 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1047 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

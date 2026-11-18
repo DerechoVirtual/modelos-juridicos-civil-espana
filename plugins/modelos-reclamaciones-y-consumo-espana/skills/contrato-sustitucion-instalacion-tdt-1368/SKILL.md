@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato de sustitución de la instalación d
 
 # Contrato de sustitución de la instalación de TDT
 
-> Formulario 1368 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1368 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

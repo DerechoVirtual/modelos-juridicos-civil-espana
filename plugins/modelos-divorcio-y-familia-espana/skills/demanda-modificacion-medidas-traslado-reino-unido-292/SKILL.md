@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de modificación de medidas por trasl
 
 # Demanda de modificación de medidas por traslado a Reino Unido del progenitor no custodio
 
-> Formulario 0292 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0292 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

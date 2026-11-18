@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de modificación de medidas fijadas p
 
 # Demanda de modificación de medidas fijadas por sentencia extranjera
 
-> Formulario 0422 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0422 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización judicial para disponer de la vi
 
 # Autorización judicial para disponer de la vivienda habitual por desacuerdo de los cónyuges
 
-> Formulario 0672 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0672 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

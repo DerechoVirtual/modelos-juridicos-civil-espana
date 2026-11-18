@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecución de acto de conciliación con avene
 
 # Ejecución de acto de conciliación con avenencia
 
-> Formulario 0668 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0668 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

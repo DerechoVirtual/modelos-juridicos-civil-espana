@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición por no indicar si cabe enervació
 
 # Reposición por no indicar si cabe enervación
 
-> Formulario 1354 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1354 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

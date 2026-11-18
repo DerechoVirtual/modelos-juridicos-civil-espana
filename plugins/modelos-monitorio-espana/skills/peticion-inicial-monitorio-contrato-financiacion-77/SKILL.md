@@ -5,7 +5,7 @@ description: "Redacta el escrito «Petición inicial de monitorio por contrato d
 
 # Petición inicial de monitorio por contrato de financiación de vehículos
 
-> Formulario 0077 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0077 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

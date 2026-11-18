@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de junta ordinaria o extraordinaria de p
 
 # Acta de junta ordinaria o extraordinaria de propietarios
 
-> Formulario 1175 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1175 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

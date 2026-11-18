@@ -5,7 +5,7 @@ description: "Redacta el escrito «Supuesto excluido del requisito de procedibil
 
 # Supuesto excluido del requisito de procedibilidad en demandas civiles (MASC)
 
-> Formulario 0013 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0013 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

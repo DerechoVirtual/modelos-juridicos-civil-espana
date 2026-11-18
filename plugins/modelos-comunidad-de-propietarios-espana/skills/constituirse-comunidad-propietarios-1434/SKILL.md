@@ -5,7 +5,7 @@ description: "Redacta el escrito «Constituirse en comunidad de propietarios» (
 
 # Constituirse en comunidad de propietarios
 
-> Formulario 1434 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1434 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

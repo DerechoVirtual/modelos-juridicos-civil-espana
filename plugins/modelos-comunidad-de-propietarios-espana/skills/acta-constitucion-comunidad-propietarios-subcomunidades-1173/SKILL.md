@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de constitución de comunidad de propiet
 
 # Acta de constitución de comunidad de propietarios con subcomunidades
 
-> Formulario 1173 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1173 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

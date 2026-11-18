@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la demanda por alteración de
 
 # Contestación a la demanda por alteración de elementos comunes en propiedad horizontal
 
-> Formulario 0005 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0005 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

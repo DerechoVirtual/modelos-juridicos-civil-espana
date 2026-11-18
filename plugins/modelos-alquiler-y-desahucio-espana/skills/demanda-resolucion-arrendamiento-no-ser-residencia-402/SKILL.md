@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de resolución del arrendamiento por 
 
 # Demanda de resolución del arrendamiento por no ser residencia habitual (posterior a 1995)
 
-> Formulario 0402 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0402 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

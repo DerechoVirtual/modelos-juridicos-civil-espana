@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra el auto que rechaza cláusu
 
 # Apelación contra el auto que rechaza cláusulas abusivas en el monitorio
 
-> Formulario 0635 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0635 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

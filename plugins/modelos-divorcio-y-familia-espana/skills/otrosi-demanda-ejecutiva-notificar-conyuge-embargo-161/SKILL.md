@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí de demanda ejecutiva: notificar al c�
 
 # Otrosí de demanda ejecutiva: notificar al cónyuge el embargo de bienes gananciales
 
-> Formulario 0161 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0161 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

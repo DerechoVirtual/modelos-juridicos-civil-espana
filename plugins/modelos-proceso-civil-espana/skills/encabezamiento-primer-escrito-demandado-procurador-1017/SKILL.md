@@ -5,7 +5,7 @@ description: "Redacta el escrito «Encabezamiento del primer escrito del demanda
 
 # Encabezamiento del primer escrito del demandado, con procurador de persona física
 
-> Formulario 1017 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1017 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «No aceptar la oferta motivada de la asegurado
 
 # No aceptar la oferta motivada de la aseguradora
 
-> Formulario 0231 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0231 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso de revisión directo contra decreto d
 
 # Recurso de revisión directo contra decreto del LAJ con medidas ejecutivas
 
-> Formulario 1464 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1464 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

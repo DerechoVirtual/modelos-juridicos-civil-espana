@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificación a la sociedad de la solicitud p
 
 # Notificación a la sociedad de la solicitud previa de disolución judicial
 
-> Formulario 0648 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0648 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

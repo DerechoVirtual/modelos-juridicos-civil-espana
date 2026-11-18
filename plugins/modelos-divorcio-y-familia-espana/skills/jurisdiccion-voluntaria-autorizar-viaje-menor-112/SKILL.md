@@ -5,7 +5,7 @@ description: "Redacta el escrito «Jurisdicción voluntaria para autorizar el vi
 
 # Jurisdicción voluntaria para autorizar el viaje de un menor
 
-> Formulario 0112 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0112 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

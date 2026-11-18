@@ -5,7 +5,7 @@ description: "Redacta el escrito «Preaviso de desistimiento del arrendatario en
 
 # Preaviso de desistimiento del arrendatario en vivienda de más de cinco años (LAU original)
 
-> Formulario 1309 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1309 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

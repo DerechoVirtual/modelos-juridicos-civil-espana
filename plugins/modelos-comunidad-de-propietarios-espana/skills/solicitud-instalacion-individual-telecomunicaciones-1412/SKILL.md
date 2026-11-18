@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de instalación individual de telec
 
 # Solicitud de instalación individual de telecomunicaciones
 
-> Formulario 1412 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1412 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

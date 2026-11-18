@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal especial de alimentos entre he
 
 # Demanda verbal especial de alimentos entre hermanos
 
-> Formulario 0372 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0372 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

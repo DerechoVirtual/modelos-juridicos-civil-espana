@@ -5,7 +5,7 @@ description: "Redacta el escrito «Obras necesarias de conservación del inmuebl
 
 # Obras necesarias de conservación del inmueble
 
-> Formulario 1422 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1422 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

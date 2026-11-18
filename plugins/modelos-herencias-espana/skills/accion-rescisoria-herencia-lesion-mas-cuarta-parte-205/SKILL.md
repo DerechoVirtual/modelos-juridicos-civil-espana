@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acción rescisoria de herencia por lesión de
 
 # Acción rescisoria de herencia por lesión de más de una cuarta parte
 
-> Formulario 0205 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0205 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

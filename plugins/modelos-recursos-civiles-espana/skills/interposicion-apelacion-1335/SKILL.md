@@ -5,7 +5,7 @@ description: "Redacta el escrito «Interposición de la apelación» (formulario
 
 # Interposición de la apelación
 
-> Formulario 1335 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1335 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

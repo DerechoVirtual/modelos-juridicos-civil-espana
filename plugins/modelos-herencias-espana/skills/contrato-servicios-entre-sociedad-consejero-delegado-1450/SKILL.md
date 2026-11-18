@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato de servicios entre sociedad y consej
 
 # Contrato de servicios entre sociedad y consejero delegado
 
-> Formulario 1450 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 1450 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

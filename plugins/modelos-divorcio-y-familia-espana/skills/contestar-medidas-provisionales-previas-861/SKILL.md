@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestar a las medidas provisionales previas
 
 # Contestar a las medidas provisionales previas
 
-> Formulario 0861 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0861 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

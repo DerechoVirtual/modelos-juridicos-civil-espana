@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra el auto que desestima la op
 
 # Apelación contra el auto que desestima la oposición a ejecución hipotecaria por abusividad
 
-> Formulario 1191 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1191 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

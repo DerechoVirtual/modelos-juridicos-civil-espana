@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a demanda de impugnación de ac
 
 # Contestación a demanda de impugnación de acuerdo contrario a la ley o los estatutos
 
-> Formulario 1343 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1343 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

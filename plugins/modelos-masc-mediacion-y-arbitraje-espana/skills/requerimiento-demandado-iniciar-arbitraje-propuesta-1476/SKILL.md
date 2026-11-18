@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento al demandado para iniciar el ar
 
 # Requerimiento al demandado para iniciar el arbitraje con propuesta de árbitro
 
-> Formulario 1476 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1476 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

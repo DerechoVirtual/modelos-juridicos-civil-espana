@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convocatoria de junta extraordinaria para rec
 
 # Convocatoria de junta extraordinaria para reclamar cuotas atrasadas
 
-> Formulario 1212 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1212 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la división judicial de la here
 
 # Oposición a la división judicial de la herencia e intervención del caudal
 
-> Formulario 0263 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0263 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

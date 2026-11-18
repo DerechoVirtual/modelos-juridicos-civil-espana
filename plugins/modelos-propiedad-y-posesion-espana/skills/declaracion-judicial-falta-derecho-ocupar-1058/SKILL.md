@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declaración judicial de falta de derecho par
 
 # Declaración judicial de falta de derecho para ocupar
 
-> Formulario 1058 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026. Uso interno.
+> Formulario 1058 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Remoción del tutor» (formulario 407 de capa
 
 # Remoción del tutor
 
-> Formulario 0407 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0407 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

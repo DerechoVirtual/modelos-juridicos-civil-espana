@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pacto para someter las controversias a mediac
 
 # Pacto para someter las controversias a mediación
 
-> Formulario 0899 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0899 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conciliación encabezada por procurador» (fo
 
 # Conciliación encabezada por procurador
 
-> Formulario 0934 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0934 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

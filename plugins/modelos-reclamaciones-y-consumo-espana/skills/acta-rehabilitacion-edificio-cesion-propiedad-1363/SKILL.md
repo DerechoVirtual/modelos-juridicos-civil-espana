@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de rehabilitación del edificio con cesi
 
 # Acta de rehabilitación del edificio con cesión de propiedad al contratista
 
-> Formulario 1363 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1363 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

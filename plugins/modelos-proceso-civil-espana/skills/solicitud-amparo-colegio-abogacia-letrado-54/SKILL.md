@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de amparo al colegio de la abogací
 
 # Solicitud de amparo al colegio de la abogacía por un letrado
 
-> Formulario 0054 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0054 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

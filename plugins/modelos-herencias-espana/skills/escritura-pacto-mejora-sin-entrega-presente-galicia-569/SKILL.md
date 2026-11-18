@@ -5,7 +5,7 @@ description: "Redacta el escrito «Escritura de pacto de mejora sin entrega de p
 
 # Escritura de pacto de mejora sin entrega de presente (Galicia)
 
-> Formulario 0569 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0569 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

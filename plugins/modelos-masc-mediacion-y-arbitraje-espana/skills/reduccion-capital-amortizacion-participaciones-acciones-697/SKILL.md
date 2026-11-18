@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reducción de capital o amortización de part
 
 # Reducción de capital o amortización de participaciones o acciones (SL y SA)
 
-> Formulario 0697 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0697 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

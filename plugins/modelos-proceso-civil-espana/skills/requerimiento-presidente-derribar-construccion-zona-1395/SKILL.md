@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento del presidente para derribar co
 
 # Requerimiento del presidente para derribar construcción en zona común
 
-> Formulario 1395 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1395 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificación de la sentencia para recurrir 
 
 # Certificación de la sentencia para recurrir en casación
 
-> Formulario 0836 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0836 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

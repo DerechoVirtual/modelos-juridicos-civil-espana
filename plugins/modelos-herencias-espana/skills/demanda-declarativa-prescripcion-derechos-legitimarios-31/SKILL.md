@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda declarativa de prescripción de los d
 
 # Demanda declarativa de prescripción de los derechos legitimarios
 
-> Formulario 0031 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0031 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

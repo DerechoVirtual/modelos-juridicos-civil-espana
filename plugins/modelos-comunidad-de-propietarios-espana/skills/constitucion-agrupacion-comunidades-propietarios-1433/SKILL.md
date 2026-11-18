@@ -5,7 +5,7 @@ description: "Redacta el escrito «Constitución en agrupación de comunidades d
 
 # Constitución en agrupación de comunidades de propietarios
 
-> Formulario 1433 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1433 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

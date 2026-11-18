@@ -5,7 +5,7 @@ description: "Redacta el escrito «Rehabilitación de inmueble: contrato de obra
 
 # Rehabilitación de inmueble: contrato de obras
 
-> Formulario 0053 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0053 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

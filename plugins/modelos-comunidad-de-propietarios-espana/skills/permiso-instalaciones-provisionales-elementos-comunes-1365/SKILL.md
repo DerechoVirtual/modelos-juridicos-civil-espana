@@ -5,7 +5,7 @@ description: "Redacta el escrito «Permiso para instalaciones provisionales en e
 
 # Permiso para instalaciones provisionales en elementos comunes por obra privativa
 
-> Formulario 1365 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1365 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prórroga del arrendamiento de vivienda» (fo
 
 # Prórroga del arrendamiento de vivienda
 
-> Formulario 0391 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0391 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

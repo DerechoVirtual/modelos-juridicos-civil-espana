@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del arrendatario de local a la act
 
 # Oposición del arrendatario de local a la actualización de la renta
 
-> Formulario 1291 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1291 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

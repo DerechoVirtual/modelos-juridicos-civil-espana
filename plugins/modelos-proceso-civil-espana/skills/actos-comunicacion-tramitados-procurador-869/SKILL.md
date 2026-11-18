@@ -5,7 +5,7 @@ description: "Redacta el escrito «Actos de comunicación tramitados por el proc
 
 # Actos de comunicación tramitados por el procurador
 
-> Formulario 0869 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0869 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la demanda de reconocimiento y e
 
 # Oposición a la demanda de reconocimiento y ejecución de resolución extranjera
 
-> Formulario 0244 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0244 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

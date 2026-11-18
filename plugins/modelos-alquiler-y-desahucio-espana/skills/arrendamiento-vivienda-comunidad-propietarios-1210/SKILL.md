@@ -5,7 +5,7 @@ description: "Redacta el escrito «Arrendamiento de vivienda por comunidad de pr
 
 # Arrendamiento de vivienda por comunidad de propietarios
 
-> Formulario 1210 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1210 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

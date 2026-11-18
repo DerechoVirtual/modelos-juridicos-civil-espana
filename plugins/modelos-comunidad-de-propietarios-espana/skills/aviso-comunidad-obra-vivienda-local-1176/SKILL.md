@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso a la comunidad de obra en vivienda o lo
 
 # Aviso a la comunidad de obra en vivienda o local
 
-> Formulario 1176 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1176 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

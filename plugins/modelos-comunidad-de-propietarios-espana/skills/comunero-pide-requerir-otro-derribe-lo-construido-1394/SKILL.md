@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunero pide requerir a otro que derribe lo 
 
 # Comunero pide requerir a otro que derribe lo construido en elementos comunes
 
-> Formulario 1394 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1394 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de notoriedad de ausencia no declarada (
 
 # Acta de notoriedad de ausencia no declarada (Galicia)
 
-> Formulario 0538 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0538 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

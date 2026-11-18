@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso extraordinario por infracción proces
 
 # Recurso extraordinario por infracción procesal del art. 469.1.4º LEC (anterior al RDL 5/2023)
 
-> Formulario 0286 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0286 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

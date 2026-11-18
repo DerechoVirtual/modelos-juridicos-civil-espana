@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contra el dictamen pericial del art. 
 
 # Demanda contra el dictamen pericial del art. 38 de la Ley de Contrato de Seguro
 
-> Formulario 0052 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0052 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

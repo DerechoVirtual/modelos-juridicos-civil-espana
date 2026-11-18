@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ordinaria por accidente de circulaci�
 
 # Demanda ordinaria por accidente de circulación con daños personales y materiales
 
-> Formulario 0597 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0597 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

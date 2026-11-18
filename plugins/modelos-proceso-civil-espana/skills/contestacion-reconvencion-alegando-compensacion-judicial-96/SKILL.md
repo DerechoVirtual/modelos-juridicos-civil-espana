@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación y reconvención alegando compen
 
 # Contestación y reconvención alegando compensación judicial
 
-> Formulario 0096 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0096 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

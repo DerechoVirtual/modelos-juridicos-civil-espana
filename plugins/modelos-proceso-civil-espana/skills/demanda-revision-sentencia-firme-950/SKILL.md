@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de revisión de sentencia firme» (fo
 
 # Demanda de revisión de sentencia firme
 
-> Formulario 0950 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0950 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

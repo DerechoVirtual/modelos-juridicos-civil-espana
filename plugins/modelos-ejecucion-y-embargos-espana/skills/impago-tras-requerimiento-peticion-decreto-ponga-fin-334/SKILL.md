@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impago tras el requerimiento y petición de d
 
 # Impago tras el requerimiento y petición de decreto que ponga fin al desahucio
 
-> Formulario 0334 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0334 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

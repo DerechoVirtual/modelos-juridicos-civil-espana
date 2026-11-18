@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso al arrendador: instalación de punto de
 
 # Aviso al arrendador: instalación de punto de recarga eléctrica en garaje
 
-> Formulario 1233 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1233 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

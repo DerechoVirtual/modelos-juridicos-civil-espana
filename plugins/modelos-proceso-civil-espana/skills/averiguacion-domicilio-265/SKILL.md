@@ -5,7 +5,7 @@ description: "Redacta el escrito «Averiguación de domicilio» (formulario 265 
 
 # Averiguación de domicilio
 
-> Formulario 0265 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0265 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

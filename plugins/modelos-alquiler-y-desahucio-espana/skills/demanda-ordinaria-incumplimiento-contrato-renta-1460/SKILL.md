@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ordinaria por incumplimiento de contr
 
 # Demanda ordinaria por incumplimiento de contrato de renta vitalicia
 
-> Formulario 1460 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1460 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ejecutiva de sentencia de condena con
 
 # Demanda ejecutiva de sentencia de condena con bases de liquidación
 
-> Formulario 0473 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0473 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

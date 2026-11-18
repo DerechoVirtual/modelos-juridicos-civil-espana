@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de moratoria y pago de renta con carg
 
 # Acuerdo de moratoria y pago de renta con cargo a la fianza en local de negocio
 
-> Formulario 0281 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0281 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

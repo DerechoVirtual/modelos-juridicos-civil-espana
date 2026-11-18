@@ -5,7 +5,7 @@ description: "Redacta el escrito «Casación por interés casacional: reparto de
 
 # Casación por interés casacional: reparto de cargas en los desplazamientos del régimen de visitas
 
-> Formulario 1193 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1193 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

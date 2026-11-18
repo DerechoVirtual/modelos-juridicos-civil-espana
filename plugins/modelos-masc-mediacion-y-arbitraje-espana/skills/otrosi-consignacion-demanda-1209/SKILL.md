@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: consignación con la demanda» (form
 
 # Otrosí: consignación con la demanda
 
-> Formulario 1209 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1209 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

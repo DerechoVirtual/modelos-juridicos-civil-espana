@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación del recurso de revisión contra 
 
 # Impugnación del recurso de revisión contra decreto en jurisdicción voluntaria
 
-> Formulario 0677 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0677 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

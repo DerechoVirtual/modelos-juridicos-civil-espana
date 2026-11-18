@@ -5,7 +5,7 @@ description: "Redacta el escrito «Información sobre cargas aminoradas o exting
 
 # Información sobre cargas aminoradas o extinguidas
 
-> Formulario 0941 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0941 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

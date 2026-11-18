@@ -5,7 +5,7 @@ description: "Redacta el escrito «Presentar el acto de comunicación ya diligen
 
 # Presentar el acto de comunicación ya diligenciado
 
-> Formulario 1241 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1241 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

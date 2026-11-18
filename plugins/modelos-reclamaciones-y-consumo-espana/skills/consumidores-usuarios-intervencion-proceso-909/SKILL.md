@@ -5,7 +5,7 @@ description: "Redacta el escrito «Consumidores y usuarios: intervención en el 
 
 # Consumidores y usuarios: intervención en el proceso
 
-> Formulario 0909 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0909 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impulso procesal en el proceso declarativo» 
 
 # Impulso procesal en el proceso declarativo
 
-> Formulario 0494 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0494 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

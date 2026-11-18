@@ -5,7 +5,7 @@ description: "Redacta el escrito «Litisconsorcio necesario: modelo general» (f
 
 # Litisconsorcio necesario: modelo general
 
-> Formulario 1078 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1078 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

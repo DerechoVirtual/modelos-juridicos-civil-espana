@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnar un documento privado aportado por v�
 
 # Impugnar un documento privado aportado por vía telemática
 
-> Formulario 0851 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0851 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

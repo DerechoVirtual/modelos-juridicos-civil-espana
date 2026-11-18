@@ -5,7 +5,7 @@ description: "Redacta el escrito «Medidas urgentes de protección del patrimoni
 
 # Medidas urgentes de protección del patrimonio del desaparecido antes de la comparecencia
 
-> Formulario 0788 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0788 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

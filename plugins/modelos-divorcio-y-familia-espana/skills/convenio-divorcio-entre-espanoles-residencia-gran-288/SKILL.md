@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convenio de divorcio entre españoles con res
 
 # Convenio de divorcio entre españoles con residencia en Gran Bretaña tras el traslado de uno a España
 
-> Formulario 0288 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0288 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

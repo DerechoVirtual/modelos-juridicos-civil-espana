@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: citación de hijos menores» (formul
 
 # Otrosí: citación de hijos menores
 
-> Formulario 1156 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1156 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

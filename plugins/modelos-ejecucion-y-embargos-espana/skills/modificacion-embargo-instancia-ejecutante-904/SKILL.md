@@ -5,7 +5,7 @@ description: "Redacta el escrito «Modificación del embargo a instancia del eje
 
 # Modificación del embargo a instancia del ejecutante
 
-> Formulario 0904 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0904 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

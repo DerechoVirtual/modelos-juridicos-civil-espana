@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de repetición del antiguo propietari
 
 # Demanda de repetición del antiguo propietario
 
-> Formulario 1245 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1245 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

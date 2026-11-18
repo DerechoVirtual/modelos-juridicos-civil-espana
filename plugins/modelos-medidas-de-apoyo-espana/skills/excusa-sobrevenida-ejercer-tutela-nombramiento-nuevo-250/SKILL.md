@@ -5,7 +5,7 @@ description: "Redacta el escrito «Excusa sobrevenida para ejercer la tutela y n
 
 # Excusa sobrevenida para ejercer la tutela y nombramiento de nuevo tutor (Cataluña)
 
-> Formulario 0250 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0250 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

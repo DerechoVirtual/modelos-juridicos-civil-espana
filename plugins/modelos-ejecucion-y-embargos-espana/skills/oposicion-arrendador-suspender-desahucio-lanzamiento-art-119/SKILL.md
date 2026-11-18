@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del arrendador a suspender el desa
 
 # Oposición del arrendador a suspender el desahucio y lanzamiento (art. 1 RDL 11/2020)
 
-> Formulario 0119 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0119 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

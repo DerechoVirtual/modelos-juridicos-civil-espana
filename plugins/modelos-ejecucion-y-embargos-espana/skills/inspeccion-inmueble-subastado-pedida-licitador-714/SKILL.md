@@ -5,7 +5,7 @@ description: "Redacta el escrito «Inspección del inmueble subastado pedida por
 
 # Inspección del inmueble subastado pedida por un licitador
 
-> Formulario 0714 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0714 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

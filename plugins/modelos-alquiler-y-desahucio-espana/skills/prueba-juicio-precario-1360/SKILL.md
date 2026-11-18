@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prueba en el juicio de precario» (formulario
 
 # Prueba en el juicio de precario
 
-> Formulario 1360 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1360 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

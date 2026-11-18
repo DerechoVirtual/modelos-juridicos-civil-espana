@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda por pérdida de la cosa arrendada en 
 
 # Demanda por pérdida de la cosa arrendada en arrendamiento sujeto al Código Civil
 
-> Formulario 0219 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0219 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

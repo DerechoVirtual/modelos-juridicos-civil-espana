@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de disolución y liquidación de comu
 
 # Demanda de disolución y liquidación de comunidad de bienes de pareja estable
 
-> Formulario 0426 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0426 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

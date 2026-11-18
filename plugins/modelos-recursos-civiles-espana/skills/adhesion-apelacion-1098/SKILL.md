@@ -5,7 +5,7 @@ description: "Redacta el escrito «Adhesión a la apelación» (formulario 1098 
 
 # Adhesión a la apelación
 
-> Formulario 1098 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1098 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

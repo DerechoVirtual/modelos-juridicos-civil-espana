@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de liquidación de gananciales con in
 
 # Demanda de liquidación de gananciales con inventario de bienes
 
-> Formulario 0331 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0331 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

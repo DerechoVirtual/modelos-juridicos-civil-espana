@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de guarda, custodia y alimentos de me
 
 # Demanda de guarda, custodia y alimentos de menor tras ruptura de unión de hecho
 
-> Formulario 0425 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0425 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda conjunta de separación de mutuo acue
 
 # Demanda conjunta de separación de mutuo acuerdo con hijos menores o con apoyos
 
-> Formulario 0922 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0922 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aval de las obligaciones de un arrendamiento�
 
 # Aval de las obligaciones de un arrendamiento
 
-> Formulario 1170 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1170 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

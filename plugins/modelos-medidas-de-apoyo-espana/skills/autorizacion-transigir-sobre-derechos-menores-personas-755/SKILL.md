@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización para transigir sobre derechos d
 
 # Autorización para transigir sobre derechos de menores o personas con apoyos
 
-> Formulario 0755 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0755 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal de precario de finca rústica�
 
 # Demanda verbal de precario de finca rústica
 
-> Formulario 1459 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1459 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

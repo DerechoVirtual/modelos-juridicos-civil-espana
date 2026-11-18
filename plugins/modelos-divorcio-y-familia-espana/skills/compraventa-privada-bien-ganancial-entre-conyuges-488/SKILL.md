@@ -5,7 +5,7 @@ description: "Redacta el escrito «Compraventa privada de bien ganancial entre c
 
 # Compraventa privada de bien ganancial entre cónyuges
 
-> Formulario 0488 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0488 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cumplimiento del requisito de procedibilidad:
 
 # Cumplimiento del requisito de procedibilidad: supuesto general (MASC)
 
-> Formulario 0012 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0012 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

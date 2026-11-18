@@ -5,7 +5,7 @@ description: "Redacta el escrito «Arrendamiento de servicios de administración
 
 # Arrendamiento de servicios de administración de fincas en propiedad vertical
 
-> Formulario 0140 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0140 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

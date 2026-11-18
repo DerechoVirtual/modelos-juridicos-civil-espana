@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de privación de patria potestad inst
 
 # Demanda de privación de patria potestad instada por los abuelos
 
-> Formulario 1188 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1188 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

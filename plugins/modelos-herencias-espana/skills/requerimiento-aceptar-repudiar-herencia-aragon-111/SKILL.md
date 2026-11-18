@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento para aceptar o repudiar la here
 
 # Requerimiento para aceptar o repudiar la herencia (Aragón)
 
-> Formulario 0111 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0111 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

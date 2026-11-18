@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: ofrecimiento de abono, consignación
 
 # Otrosí: ofrecimiento de abono, consignación, depósito o aval para preparar recursos
 
-> Formulario 1097 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1097 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

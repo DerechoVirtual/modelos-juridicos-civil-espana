@@ -5,7 +5,7 @@ description: "Redacta el escrito «Dictamen pericial sobre otras pruebas: propos
 
 # Dictamen pericial sobre otras pruebas: proposición
 
-> Formulario 0998 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0998 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Encabezamiento del procurador de una entidad 
 
 # Encabezamiento del procurador de una entidad sin personalidad jurídica
 
-> Formulario 1135 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1135 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

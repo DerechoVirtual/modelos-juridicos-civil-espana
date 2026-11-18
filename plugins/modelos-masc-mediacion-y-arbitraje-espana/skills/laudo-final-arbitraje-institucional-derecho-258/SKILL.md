@@ -5,7 +5,7 @@ description: "Redacta el escrito «Laudo final en arbitraje institucional de der
 
 # Laudo final en arbitraje institucional de derecho
 
-> Formulario 0258 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0258 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Defensor judicial por no desempeño de funcio
 
 # Defensor judicial por no desempeño de funciones: inicio del expediente
 
-> Formulario 0777 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0777 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pago de la aseguradora del perjudicado por da
 
 # Pago de la aseguradora del perjudicado por daños causados por un tercero
 
-> Formulario 0235 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0235 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

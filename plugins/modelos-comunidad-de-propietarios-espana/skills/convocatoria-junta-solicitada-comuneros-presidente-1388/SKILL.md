@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convocatoria de junta solicitada por comunero
 
 # Convocatoria de junta solicitada por comuneros al presidente
 
-> Formulario 1388 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1388 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

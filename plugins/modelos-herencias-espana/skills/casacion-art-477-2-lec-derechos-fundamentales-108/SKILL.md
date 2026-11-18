@@ -5,7 +5,7 @@ description: "Redacta el escrito «Casación del art. 477.2 LEC por derechos fun
 
 # Casación del art. 477.2 LEC por derechos fundamentales: intromisión en el honor
 
-> Formulario 0108 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0108 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

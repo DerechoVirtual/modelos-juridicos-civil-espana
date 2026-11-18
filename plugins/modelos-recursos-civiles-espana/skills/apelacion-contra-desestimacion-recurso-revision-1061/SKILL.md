@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la desestimación del recur
 
 # Apelación contra la desestimación del recurso de revisión
 
-> Formulario 1061 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1061 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

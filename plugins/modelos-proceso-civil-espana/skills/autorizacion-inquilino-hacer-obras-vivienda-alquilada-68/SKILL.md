@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización al inquilino para hacer obras e
 
 # Autorización al inquilino para hacer obras en la vivienda alquilada
 
-> Formulario 0068 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0068 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

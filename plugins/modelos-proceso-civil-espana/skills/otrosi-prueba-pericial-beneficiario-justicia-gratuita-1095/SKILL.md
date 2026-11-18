@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: prueba pericial de beneficiario de j
 
 # Otrosí: prueba pericial de beneficiario de justicia gratuita en juicio ordinario
 
-> Formulario 1095 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1095 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

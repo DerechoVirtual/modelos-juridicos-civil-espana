@@ -5,7 +5,7 @@ description: "Redacta el escrito «Minuta de proposición de prueba en la audien
 
 # Minuta de proposición de prueba en la audiencia previa del juicio ordinario
 
-> Formulario 0717 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0717 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

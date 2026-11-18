@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de reclamación de legítima (Galicia
 
 # Demanda de reclamación de legítima (Galicia)
 
-> Formulario 0345 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0345 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

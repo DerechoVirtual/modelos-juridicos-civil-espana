@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunero pide beneficiarse de obra ya hecha p
 
 # Comunero pide beneficiarse de obra ya hecha por la comunidad
 
-> Formulario 1414 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1414 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

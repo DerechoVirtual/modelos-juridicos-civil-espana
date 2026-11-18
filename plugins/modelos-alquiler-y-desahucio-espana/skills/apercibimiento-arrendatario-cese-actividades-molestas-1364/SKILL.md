@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apercibimiento al arrendatario para que cese 
 
 # Apercibimiento al arrendatario para que cese en actividades molestas
 
-> Formulario 1364 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1364 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

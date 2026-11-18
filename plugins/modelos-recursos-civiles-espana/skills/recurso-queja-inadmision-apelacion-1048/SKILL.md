@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso de queja por inadmisión de la apelac
 
 # Recurso de queja por inadmisión de la apelación
 
-> Formulario 1048 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1048 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Opción de compra de vivienda arrendada: clá
 
 # Opción de compra de vivienda arrendada: cláusula
 
-> Formulario 1257 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1257 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

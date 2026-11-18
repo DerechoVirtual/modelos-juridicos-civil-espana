@@ -5,7 +5,7 @@ description: "Redacta el escrito «Monitorio de la comunidad por certificado de 
 
 # Monitorio de la comunidad por certificado de impago de gastos, presentado por el presidente
 
-> Formulario 1332 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 1332 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Habilitación de fondos pedida por el procura
 
 # Habilitación de fondos pedida por el procurador
 
-> Formulario 1056 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1056 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

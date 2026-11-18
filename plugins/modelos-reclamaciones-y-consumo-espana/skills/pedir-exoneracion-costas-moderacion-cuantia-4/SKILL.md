@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la exoneración de costas o la moderaci
 
 # Pedir la exoneración de costas o la moderación de su cuantía
 
-> Formulario 0004 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0004 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

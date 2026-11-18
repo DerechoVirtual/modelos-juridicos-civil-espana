@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegación de defecto de capacidad en la audi
 
 # Alegación de defecto de capacidad en la audiencia previa
 
-> Formulario 0986 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0986 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

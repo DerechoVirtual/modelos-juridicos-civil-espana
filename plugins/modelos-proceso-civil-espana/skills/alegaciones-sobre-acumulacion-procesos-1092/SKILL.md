@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones sobre la acumulación de procesos
 
 # Alegaciones sobre la acumulación de procesos
 
-> Formulario 1092 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1092 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de alimentos de hijo mayor residente 
 
 # Demanda de alimentos de hijo mayor residente en Reino Unido contra la madre residente en España
 
-> Formulario 0289 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0289 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

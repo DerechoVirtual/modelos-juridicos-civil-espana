@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización al albacea para disponer de bie
 
 # Autorización al albacea para disponer de bienes de la herencia
 
-> Formulario 0727 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0727 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

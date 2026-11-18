@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pacto de relaciones familiares (Aragón)» (f
 
 # Pacto de relaciones familiares (Aragón)
 
-> Formulario 0550 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0550 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

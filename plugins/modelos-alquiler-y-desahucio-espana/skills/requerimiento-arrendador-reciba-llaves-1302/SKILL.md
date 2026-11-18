@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento al arrendador para que reciba l
 
 # Requerimiento al arrendador para que reciba las llaves
 
-> Formulario 1302 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1302 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

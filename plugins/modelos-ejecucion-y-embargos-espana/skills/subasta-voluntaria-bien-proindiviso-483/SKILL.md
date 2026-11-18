@@ -5,7 +5,7 @@ description: "Redacta el escrito «Subasta voluntaria de bien en proindiviso» (
 
 # Subasta voluntaria de bien en proindiviso
 
-> Formulario 0483 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0483 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

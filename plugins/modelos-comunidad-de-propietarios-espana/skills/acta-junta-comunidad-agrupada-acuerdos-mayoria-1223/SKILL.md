@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de junta de comunidad agrupada con acuer
 
 # Acta de junta de comunidad agrupada con acuerdos de mayoría cualificada
 
-> Formulario 1223 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1223 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

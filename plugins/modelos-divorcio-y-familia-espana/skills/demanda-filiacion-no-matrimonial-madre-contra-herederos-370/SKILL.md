@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de filiación no matrimonial de la ma
 
 # Demanda de filiación no matrimonial de la madre contra los herederos del presunto padre
 
-> Formulario 0370 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0370 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de modificación de medidas para la c
 
 # Demanda de modificación de medidas para la custodia compartida
 
-> Formulario 0442 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0442 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

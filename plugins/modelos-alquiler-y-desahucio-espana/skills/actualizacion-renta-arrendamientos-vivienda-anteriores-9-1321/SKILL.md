@@ -5,7 +5,7 @@ description: "Redacta el escrito «Actualización de renta en arrendamientos de 
 
 # Actualización de renta en arrendamientos de vivienda anteriores al 9-5-1985
 
-> Formulario 1321 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1321 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

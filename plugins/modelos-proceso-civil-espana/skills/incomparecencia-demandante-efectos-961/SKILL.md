@@ -5,7 +5,7 @@ description: "Redacta el escrito «Incomparecencia del demandante: efectos» (fo
 
 # Incomparecencia del demandante: efectos
 
-> Formulario 0961 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0961 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

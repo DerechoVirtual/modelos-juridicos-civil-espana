@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda posesoria para retener o recuperar la
 
 # Demanda posesoria para retener o recuperar la posesión
 
-> Formulario 0883 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0883 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

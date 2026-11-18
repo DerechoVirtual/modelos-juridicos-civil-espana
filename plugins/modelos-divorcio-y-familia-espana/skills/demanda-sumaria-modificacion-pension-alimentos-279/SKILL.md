@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda sumaria de modificación de la pensi�
 
 # Demanda sumaria de modificación de la pensión de alimentos definitiva
 
-> Formulario 0279 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0279 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

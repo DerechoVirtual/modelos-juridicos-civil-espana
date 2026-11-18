@@ -5,7 +5,7 @@ description: "Redacta el escrito «Protocolización de partija conjunta y testam
 
 # Protocolización de partija conjunta y testamento paralelo (Galicia)
 
-> Formulario 0566 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0566 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

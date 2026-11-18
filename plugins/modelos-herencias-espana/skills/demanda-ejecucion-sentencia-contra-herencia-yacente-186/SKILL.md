@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de ejecución de sentencia contra her
 
 # Demanda de ejecución de sentencia contra herencia yacente
 
-> Formulario 0186 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0186 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

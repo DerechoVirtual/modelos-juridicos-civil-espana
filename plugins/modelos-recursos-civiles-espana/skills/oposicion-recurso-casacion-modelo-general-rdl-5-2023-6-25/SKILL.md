@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición al recurso de casación: modelo ge
 
 # Oposición al recurso de casación: modelo general (RDL 5/2023 y 6/2023)
 
-> Formulario 0025 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0025 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

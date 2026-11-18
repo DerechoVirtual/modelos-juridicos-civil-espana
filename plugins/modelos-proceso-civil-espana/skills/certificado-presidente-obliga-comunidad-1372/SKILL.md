@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificado de que el presidente obliga a la 
 
 # Certificado de que el presidente obliga a la comunidad
 
-> Formulario 1372 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1372 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

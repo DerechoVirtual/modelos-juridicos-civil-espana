@@ -5,7 +5,7 @@ description: "Redacta el escrito «Capitulaciones del matrimonio: escritura tipo
 
 # Capitulaciones del matrimonio: escritura tipo
 
-> Formulario 0487 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0487 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

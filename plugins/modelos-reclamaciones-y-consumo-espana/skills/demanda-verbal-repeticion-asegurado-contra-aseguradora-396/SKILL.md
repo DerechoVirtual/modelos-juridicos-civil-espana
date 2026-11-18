@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal de repetición del asegurado c
 
 # Demanda verbal de repetición del asegurado contra la aseguradora
 
-> Formulario 0396 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0396 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

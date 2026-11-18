@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de medidas judiciales de apoyo a pers
 
 # Demanda de medidas judiciales de apoyo a persona con discapacidad: curatela
 
-> Formulario 0143 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0143 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

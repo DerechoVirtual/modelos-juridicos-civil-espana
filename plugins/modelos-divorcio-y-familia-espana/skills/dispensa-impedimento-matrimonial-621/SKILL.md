@@ -5,7 +5,7 @@ description: "Redacta el escrito «Dispensa de impedimento matrimonial» (formul
 
 # Dispensa de impedimento matrimonial
 
-> Formulario 0621 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0621 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

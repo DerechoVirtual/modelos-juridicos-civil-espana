@@ -5,7 +5,7 @@ description: "Redacta el escrito «Habilitación para comparecer en juicio por a
 
 # Habilitación para comparecer en juicio por ausencia: inicio del expediente
 
-> Formulario 0778 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0778 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicación del arrendatario de resolución
 
 # Comunicación del arrendatario de resolución administrativa que obliga a hacer obras
 
-> Formulario 1203 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1203 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

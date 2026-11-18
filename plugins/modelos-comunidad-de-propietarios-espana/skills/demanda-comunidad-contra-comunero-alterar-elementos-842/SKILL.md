@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de la comunidad contra un comunero po
 
 # Demanda de la comunidad contra un comunero por alterar elementos comunes
 
-> Formulario 0842 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0842 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

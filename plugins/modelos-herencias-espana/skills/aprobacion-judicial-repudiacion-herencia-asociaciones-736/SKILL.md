@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aprobación judicial de la repudiación de he
 
 # Aprobación judicial de la repudiación de herencia por asociaciones, corporaciones y fundaciones
 
-> Formulario 0736 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0736 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

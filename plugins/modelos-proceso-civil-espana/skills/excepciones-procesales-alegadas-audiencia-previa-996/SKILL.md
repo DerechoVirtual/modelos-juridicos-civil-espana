@@ -5,7 +5,7 @@ description: "Redacta el escrito «Excepciones procesales alegadas en la audienc
 
 # Excepciones procesales alegadas en la audiencia previa del ordinario
 
-> Formulario 0996 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0996 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

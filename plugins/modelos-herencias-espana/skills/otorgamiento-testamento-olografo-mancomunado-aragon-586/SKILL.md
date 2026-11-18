@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otorgamiento de testamento ológrafo mancomun
 
 # Otorgamiento de testamento ológrafo mancomunado (Aragón)
 
-> Formulario 0586 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0586 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

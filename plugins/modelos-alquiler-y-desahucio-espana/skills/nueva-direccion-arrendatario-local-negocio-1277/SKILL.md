@@ -5,7 +5,7 @@ description: "Redacta el escrito «Nueva dirección del arrendatario de local de
 
 # Nueva dirección del arrendatario de local de negocio
 
-> Formulario 1277 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1277 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

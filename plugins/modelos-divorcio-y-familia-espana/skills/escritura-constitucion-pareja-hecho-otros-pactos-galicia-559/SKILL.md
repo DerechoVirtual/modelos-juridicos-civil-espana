@@ -5,7 +5,7 @@ description: "Redacta el escrito «Escritura de constitución de pareja de hecho
 
 # Escritura de constitución de pareja de hecho y otros pactos (Galicia)
 
-> Formulario 0559 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0559 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

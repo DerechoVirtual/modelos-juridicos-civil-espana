@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de la resolución que reconoce l
 
 # Impugnación de la resolución que reconoce la justicia gratuita, ante el órgano judicial
 
-> Formulario 0896 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0896 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización para disponer o gravar bienes d
 
 # Autorización para disponer o gravar bienes de persona con discapacidad
 
-> Formulario 0654 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0654 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

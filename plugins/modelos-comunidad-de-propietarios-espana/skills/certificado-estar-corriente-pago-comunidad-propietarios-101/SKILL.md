@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificado de estar al corriente de pago en 
 
 # Certificado de estar al corriente de pago en la comunidad de propietarios
 
-> Formulario 0101 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0101 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

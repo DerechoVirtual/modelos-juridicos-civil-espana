@@ -5,7 +5,7 @@ description: "Redacta el escrito «Documentos del actor en la audiencia previa»
 
 # Documentos del actor en la audiencia previa
 
-> Formulario 0980 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0980 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

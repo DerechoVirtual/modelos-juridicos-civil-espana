@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declaración o exhibición de documentos sobr
 
 # Declaración o exhibición de documentos sobre capacidad, representación o legitimación
 
-> Formulario 1052 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1052 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

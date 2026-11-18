@@ -5,7 +5,7 @@ description: "Redacta el escrito «Modificación de medidas para extinguir el us
 
 # Modificación de medidas para extinguir el uso de la vivienda familiar por un tercero
 
-> Formulario 0347 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0347 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

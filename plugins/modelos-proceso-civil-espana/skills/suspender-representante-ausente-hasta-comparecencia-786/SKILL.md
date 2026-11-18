@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspender al representante del ausente hasta 
 
 # Suspender al representante del ausente hasta la comparecencia
 
-> Formulario 0786 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0786 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

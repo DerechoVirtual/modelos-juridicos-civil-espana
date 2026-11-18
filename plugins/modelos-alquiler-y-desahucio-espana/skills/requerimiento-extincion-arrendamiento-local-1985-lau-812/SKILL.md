@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento de extinción de arrendamiento 
 
 # Requerimiento de extinción de arrendamiento de local (1985 a LAU 1994) acogido a tácita reconducción
 
-> Formulario 0812 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0812 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

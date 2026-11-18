@@ -5,7 +5,7 @@ description: "Redacta el escrito «Exoneración de responsabilidad del suministr
 
 # Exoneración de responsabilidad del suministrador: cláusula
 
-> Formulario 0460 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0460 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

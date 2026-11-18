@@ -5,7 +5,7 @@ description: "Redacta el escrito «Monitorio tipo por rentas atrasadas» (formul
 
 # Monitorio tipo por rentas atrasadas
 
-> Formulario 1240 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 1240 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

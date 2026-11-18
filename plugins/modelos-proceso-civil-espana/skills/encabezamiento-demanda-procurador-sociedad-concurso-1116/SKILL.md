@@ -5,7 +5,7 @@ description: "Redacta el escrito «Encabezamiento de demanda del procurador de s
 
 # Encabezamiento de demanda del procurador de sociedad en concurso
 
-> Formulario 1116 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1116 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Medidas de garantía en ejecución no dinerar
 
 # Medidas de garantía en ejecución no dineraria
 
-> Formulario 1060 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1060 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

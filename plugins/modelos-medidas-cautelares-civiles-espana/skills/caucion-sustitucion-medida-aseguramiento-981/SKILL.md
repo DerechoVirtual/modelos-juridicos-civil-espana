@@ -5,7 +5,7 @@ description: "Redacta el escrito «Caución en sustitución de la medida de aseg
 
 # Caución en sustitución de la medida de aseguramiento
 
-> Formulario 0981 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 0981 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

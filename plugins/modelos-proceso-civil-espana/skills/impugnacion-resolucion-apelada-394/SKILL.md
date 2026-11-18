@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de la resolución apelada» (for
 
 # Impugnación de la resolución apelada
 
-> Formulario 0394 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0394 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

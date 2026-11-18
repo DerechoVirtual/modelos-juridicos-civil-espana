@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecución de sentencia por impago de pension
 
 # Ejecución de sentencia por impago de pensiones
 
-> Formulario 0920 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0920 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

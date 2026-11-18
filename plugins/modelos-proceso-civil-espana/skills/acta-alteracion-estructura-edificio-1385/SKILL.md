@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de alteración de la estructura del edif
 
 # Acta de alteración de la estructura del edificio
 
-> Formulario 1385 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1385 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

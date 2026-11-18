@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la demanda de tercería de do
 
 # Contestación a la demanda de tercería de dominio
 
-> Formulario 0178 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0178 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

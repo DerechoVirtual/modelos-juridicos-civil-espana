@@ -5,7 +5,7 @@ description: "Redacta el escrito «Determinación de la cantidad líquida de una
 
 # Determinación de la cantidad líquida de una sentencia con reserva de liquidación
 
-> Formulario 0134 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0134 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

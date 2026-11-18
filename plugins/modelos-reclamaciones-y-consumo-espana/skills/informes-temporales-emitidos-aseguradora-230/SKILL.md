@@ -5,7 +5,7 @@ description: "Redacta el escrito «Informes temporales emitidos por la asegurado
 
 # Informes temporales emitidos por la aseguradora
 
-> Formulario 0230 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0230 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

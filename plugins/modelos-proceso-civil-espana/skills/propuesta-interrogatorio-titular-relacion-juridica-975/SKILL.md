@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propuesta de interrogatorio del titular de la
 
 # Propuesta de interrogatorio del titular de la relación jurídica
 
-> Formulario 0975 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0975 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

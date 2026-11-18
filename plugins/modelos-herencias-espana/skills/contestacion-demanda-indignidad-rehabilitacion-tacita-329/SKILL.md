@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la demanda de indignidad con 
 
 # Contestación a la demanda de indignidad con rehabilitación tácita o expresa del causante
 
-> Formulario 0329 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0329 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

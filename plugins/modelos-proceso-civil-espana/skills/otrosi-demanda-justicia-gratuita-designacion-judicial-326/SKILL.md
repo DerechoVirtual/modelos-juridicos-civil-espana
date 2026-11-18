@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí de la demanda con justicia gratuita: 
 
 # Otrosí de la demanda con justicia gratuita: designación judicial de perito
 
-> Formulario 0326 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0326 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

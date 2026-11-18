@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de notoriedad del régimen económico ma
 
 # Acta de notoriedad del régimen económico matrimonial legal
 
-> Formulario 0658 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0658 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

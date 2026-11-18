@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de impugnación de acuerdos de la jun
 
 # Demanda de impugnación de acuerdos de la junta lesivos para la comunidad
 
-> Formulario 0609 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0609 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

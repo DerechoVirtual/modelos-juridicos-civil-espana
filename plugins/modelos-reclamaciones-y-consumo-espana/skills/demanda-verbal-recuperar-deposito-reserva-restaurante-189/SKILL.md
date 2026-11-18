@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal para recuperar el depósito de
 
 # Demanda verbal para recuperar el depósito de reserva de un restaurante cerrado en estado de alarma
 
-> Formulario 0189 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0189 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

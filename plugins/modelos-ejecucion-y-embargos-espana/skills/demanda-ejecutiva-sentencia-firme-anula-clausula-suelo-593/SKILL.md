@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ejecutiva de sentencia firme que anul
 
 # Demanda ejecutiva de sentencia firme que anula la cláusula suelo y ordena devolver cantidades
 
-> Formulario 0593 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0593 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

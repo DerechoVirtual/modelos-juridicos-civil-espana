@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición al expediente de fijación del pla
 
 # Oposición al expediente de fijación del plazo de cumplimiento de la obligación
 
-> Formulario 0650 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0650 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

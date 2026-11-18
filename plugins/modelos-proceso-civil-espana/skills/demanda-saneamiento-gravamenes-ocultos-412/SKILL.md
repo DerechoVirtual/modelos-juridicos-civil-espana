@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de saneamiento por gravámenes oculto
 
 # Demanda de saneamiento por gravámenes ocultos
 
-> Formulario 0412 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0412 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

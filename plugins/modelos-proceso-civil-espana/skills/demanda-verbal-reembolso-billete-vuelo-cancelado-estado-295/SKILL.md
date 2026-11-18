@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal de reembolso del billete por v
 
 # Demanda verbal de reembolso del billete por vuelo cancelado en estado de alarma
 
-> Formulario 0295 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0295 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

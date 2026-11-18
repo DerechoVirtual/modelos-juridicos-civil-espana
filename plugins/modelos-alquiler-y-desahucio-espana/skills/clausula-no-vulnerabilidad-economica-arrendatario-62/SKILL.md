@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cláusula de no vulnerabilidad económica del
 
 # Cláusula de no vulnerabilidad económica del arrendatario
 
-> Formulario 0062 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0062 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

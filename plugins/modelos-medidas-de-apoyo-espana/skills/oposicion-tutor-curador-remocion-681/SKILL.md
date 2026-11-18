@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del tutor o curador a su remoción
 
 # Oposición del tutor o curador a su remoción
 
-> Formulario 0681 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0681 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Divorcio contencioso en separación de bienes
 
 # Divorcio contencioso en separación de bienes con pensión compensatoria: demanda
 
-> Formulario 0600 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0600 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

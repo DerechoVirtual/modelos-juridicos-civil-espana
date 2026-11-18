@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificación de retracto gentilicio (Navarra
 
 # Notificación de retracto gentilicio (Navarra)
 
-> Formulario 0583 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0583 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

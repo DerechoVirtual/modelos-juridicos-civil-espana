@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta constitutiva de mediación» (formulario
 
 # Acta constitutiva de mediación
 
-> Formulario 1503 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1503 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

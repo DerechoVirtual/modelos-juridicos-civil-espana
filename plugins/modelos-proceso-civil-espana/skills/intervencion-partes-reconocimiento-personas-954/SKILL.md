@@ -5,7 +5,7 @@ description: "Redacta el escrito «Intervención de las partes en el reconocimie
 
 # Intervención de las partes en el reconocimiento de personas
 
-> Formulario 0954 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0954 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Consentimiento para ceder el arrendamiento de
 
 # Consentimiento para ceder el arrendamiento de vivienda
 
-> Formulario 1265 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1265 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

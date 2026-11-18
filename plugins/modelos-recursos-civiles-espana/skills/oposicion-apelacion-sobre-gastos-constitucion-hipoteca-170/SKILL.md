@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la apelación sobre gastos de co
 
 # Oposición a la apelación sobre gastos de constitución de hipoteca
 
-> Formulario 0170 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0170 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

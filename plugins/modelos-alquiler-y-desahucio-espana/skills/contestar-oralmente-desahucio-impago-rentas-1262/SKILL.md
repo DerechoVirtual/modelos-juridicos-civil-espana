@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestar oralmente en el desahucio por impag
 
 # Contestar oralmente en el desahucio por impago de rentas
 
-> Formulario 1262 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1262 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

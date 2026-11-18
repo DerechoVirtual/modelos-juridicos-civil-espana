@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición en jurisdicción voluntaria: mode
 
 # Reposición en jurisdicción voluntaria: modelo genérico
 
-> Formulario 0759 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0759 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

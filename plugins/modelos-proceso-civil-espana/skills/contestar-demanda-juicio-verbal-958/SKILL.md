@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestar a la demanda en juicio verbal» (fo
 
 # Contestar a la demanda en juicio verbal
 
-> Formulario 0958 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0958 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

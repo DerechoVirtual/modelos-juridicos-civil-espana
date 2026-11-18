@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación del propietario a la comunidad:
 
 # Contestación del propietario a la comunidad: abuso de derecho
 
-> Formulario 1143 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1143 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

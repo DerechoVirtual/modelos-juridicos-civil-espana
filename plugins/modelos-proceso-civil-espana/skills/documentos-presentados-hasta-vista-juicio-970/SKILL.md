@@ -5,7 +5,7 @@ description: "Redacta el escrito «Documentos presentados hasta la vista o juici
 
 # Documentos presentados hasta la vista o juicio
 
-> Formulario 0970 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0970 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

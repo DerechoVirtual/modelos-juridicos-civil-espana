@@ -5,7 +5,7 @@ description: "Redacta el escrito «Diligencias preliminares de propiedad horizon
 
 # Diligencias preliminares de propiedad horizontal para exhibir documentos de la comunidad
 
-> Formulario 1373 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 1373 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

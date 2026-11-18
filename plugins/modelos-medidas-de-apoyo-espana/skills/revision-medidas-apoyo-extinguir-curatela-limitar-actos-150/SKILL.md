@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revisión de medidas de apoyo: extinguir la c
 
 # Revisión de medidas de apoyo: extinguir la curatela o limitar los actos asistidos
 
-> Formulario 0150 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0150 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

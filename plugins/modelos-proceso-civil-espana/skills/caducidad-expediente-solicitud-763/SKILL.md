@@ -5,7 +5,7 @@ description: "Redacta el escrito «Caducidad del expediente: solicitud» (formul
 
 # Caducidad del expediente: solicitud
 
-> Formulario 0763 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0763 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

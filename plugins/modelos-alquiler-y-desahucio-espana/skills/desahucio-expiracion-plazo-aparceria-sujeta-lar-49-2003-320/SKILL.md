@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desahucio por expiración del plazo en aparce
 
 # Desahucio por expiración del plazo en aparcería sujeta a la LAR 49/2003
 
-> Formulario 0320 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0320 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

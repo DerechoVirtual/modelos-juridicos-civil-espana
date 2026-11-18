@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acción de cesación: modelo general» (formu
 
 # Acción de cesación: modelo general
 
-> Formulario 1030 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1030 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

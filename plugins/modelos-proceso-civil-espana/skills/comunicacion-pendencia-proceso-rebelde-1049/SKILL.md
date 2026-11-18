@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicación de la pendencia del proceso al 
 
 # Comunicación de la pendencia del proceso al rebelde
 
-> Formulario 1049 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1049 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

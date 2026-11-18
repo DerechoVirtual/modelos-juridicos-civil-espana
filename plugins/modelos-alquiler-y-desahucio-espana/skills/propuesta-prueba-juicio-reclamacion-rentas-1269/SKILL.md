@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propuesta de prueba en juicio de reclamación
 
 # Propuesta de prueba en juicio de reclamación de rentas
 
-> Formulario 1269 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1269 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

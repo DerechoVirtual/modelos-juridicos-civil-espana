@@ -5,7 +5,7 @@ description: "Redacta el escrito «Modelo normalizado de reclamación monitoria 
 
 # Modelo normalizado de reclamación monitoria de gastos comunes de comunidad
 
-> Formulario 0612 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0612 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

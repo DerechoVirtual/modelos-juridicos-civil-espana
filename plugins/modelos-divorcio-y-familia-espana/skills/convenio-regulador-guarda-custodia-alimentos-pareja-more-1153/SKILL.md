@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convenio regulador de guarda, custodia y alim
 
 # Convenio regulador de guarda, custodia y alimentos en pareja more uxorio
 
-> Formulario 1153 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1153 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la demanda de indignidad del 
 
 # Contestación a la demanda de indignidad del heredero
 
-> Formulario 0328 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0328 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

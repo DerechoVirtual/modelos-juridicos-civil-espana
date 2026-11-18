@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de cesación de actividades prohibida
 
 # Demanda de cesación de actividades prohibidas con indemnización de daños
 
-> Formulario 1440 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1440 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

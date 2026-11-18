@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación del arrendador a la moratoria e
 
 # Contestación del arrendador a la moratoria excepcional del art. 8 RDL 11/2020
 
-> Formulario 0298 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0298 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

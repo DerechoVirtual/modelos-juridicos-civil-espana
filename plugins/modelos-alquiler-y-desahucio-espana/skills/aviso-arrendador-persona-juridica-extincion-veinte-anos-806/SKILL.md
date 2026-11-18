@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso del arrendador a persona jurídica: ext
 
 # Aviso del arrendador a persona jurídica: extinción a los veinte años (actividad comercial)
 
-> Formulario 0806 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0806 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

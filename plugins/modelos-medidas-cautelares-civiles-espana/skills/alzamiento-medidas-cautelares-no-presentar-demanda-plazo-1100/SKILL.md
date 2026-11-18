@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzamiento de medidas cautelares por no prese
 
 # Alzamiento de medidas cautelares por no presentar la demanda en plazo
 
-> Formulario 1100 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 1100 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

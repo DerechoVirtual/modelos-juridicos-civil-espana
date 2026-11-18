@@ -5,7 +5,7 @@ description: "Redacta el escrito «Extinción individual de la pareja de hecho (
 
 # Extinción individual de la pareja de hecho (Galicia)
 
-> Formulario 0562 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0562 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

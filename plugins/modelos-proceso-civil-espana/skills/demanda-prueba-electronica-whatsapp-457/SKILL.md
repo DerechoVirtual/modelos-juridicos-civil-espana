@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda con prueba electrónica (WhatsApp)» 
 
 # Demanda con prueba electrónica (WhatsApp)
 
-> Formulario 0457 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0457 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

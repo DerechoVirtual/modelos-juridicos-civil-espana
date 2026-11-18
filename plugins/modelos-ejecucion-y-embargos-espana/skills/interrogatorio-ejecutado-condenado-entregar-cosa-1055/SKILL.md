@@ -5,7 +5,7 @@ description: "Redacta el escrito «Interrogatorio del ejecutado condenado a entr
 
 # Interrogatorio del ejecutado condenado a entregar cosa determinada
 
-> Formulario 1055 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1055 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

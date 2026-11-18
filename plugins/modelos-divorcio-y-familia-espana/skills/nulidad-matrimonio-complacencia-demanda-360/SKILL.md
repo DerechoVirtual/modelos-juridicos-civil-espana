@@ -5,7 +5,7 @@ description: "Redacta el escrito «Nulidad de matrimonio de complacencia: demand
 
 # Nulidad de matrimonio de complacencia: demanda
 
-> Formulario 0360 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0360 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de nulidad de venta de participacione
 
 # Demanda de nulidad de venta de participaciones de SL sin cumplir estatutos y ley
 
-> Formulario 0516 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0516 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Actualización de renta en vivienda posterior
 
 # Actualización de renta en vivienda posterior al 9-5-1985 vigente con la LAU 1994
 
-> Formulario 1323 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1323 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

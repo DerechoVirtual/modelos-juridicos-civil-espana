@@ -5,7 +5,7 @@ description: "Redacta el escrito «Beneficio de mayoría de edad: solicitud» (f
 
 # Beneficio de mayoría de edad: solicitud
 
-> Formulario 0774 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0774 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

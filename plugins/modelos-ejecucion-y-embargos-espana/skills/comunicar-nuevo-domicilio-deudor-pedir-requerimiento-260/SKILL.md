@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicar nuevo domicilio del deudor y pedir 
 
 # Comunicar nuevo domicilio del deudor y pedir requerimiento de pago por auxilio judicial
 
-> Formulario 0260 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0260 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

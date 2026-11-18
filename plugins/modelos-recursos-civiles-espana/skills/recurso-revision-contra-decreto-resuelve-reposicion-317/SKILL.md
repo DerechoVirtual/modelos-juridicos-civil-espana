@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso de revisión contra decreto que resue
 
 # Recurso de revisión contra decreto que resuelve la reposición
 
-> Formulario 0317 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0317 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

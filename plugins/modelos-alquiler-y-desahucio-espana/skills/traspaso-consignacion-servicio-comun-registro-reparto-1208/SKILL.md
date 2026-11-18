@@ -5,7 +5,7 @@ description: "Redacta el escrito «Traspaso de la consignación del Servicio Com
 
 # Traspaso de la consignación del Servicio Común de Registro y Reparto al tribunal de la impugnación
 
-> Formulario 1208 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1208 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Presencia en el reconocimiento pericial» (fo
 
 # Presencia en el reconocimiento pericial
 
-> Formulario 0872 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0872 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

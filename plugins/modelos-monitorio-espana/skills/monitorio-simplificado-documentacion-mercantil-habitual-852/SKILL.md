@@ -5,7 +5,7 @@ description: "Redacta el escrito «Monitorio simplificado con documentación mer
 
 # Monitorio simplificado con documentación mercantil habitual
 
-> Formulario 0852 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0852 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

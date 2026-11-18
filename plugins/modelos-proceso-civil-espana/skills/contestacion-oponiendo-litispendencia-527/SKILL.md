@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación oponiendo litispendencia» (for
 
 # Contestación oponiendo litispendencia
 
-> Formulario 0527 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0527 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

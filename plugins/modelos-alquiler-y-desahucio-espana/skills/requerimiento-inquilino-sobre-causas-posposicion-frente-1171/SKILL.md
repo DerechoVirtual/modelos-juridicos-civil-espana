@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento al inquilino sobre causas de po
 
 # Requerimiento al inquilino sobre causas de posposición frente a la denegación de prórroga
 
-> Formulario 1171 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1171 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamación a la aseguradora por secuelas» 
 
 # Reclamación a la aseguradora por secuelas
 
-> Formulario 0224 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0224 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

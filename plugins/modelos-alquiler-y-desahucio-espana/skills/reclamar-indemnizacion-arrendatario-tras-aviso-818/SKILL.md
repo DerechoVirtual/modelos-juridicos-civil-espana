@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamar indemnización al arrendatario tras 
 
 # Reclamar indemnización al arrendatario tras su aviso de desistimiento pasados seis meses
 
-> Formulario 0818 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0818 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de resolución de arrendamiento de lo
 
 # Demanda de resolución de arrendamiento de local con daños y consignación de rentas (LAU 94)
 
-> Formulario 1495 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1495 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

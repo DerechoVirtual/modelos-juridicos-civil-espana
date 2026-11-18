@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificado de que el presidente actúa por l
 
 # Certificado de que el presidente actúa por la comunidad en acciones judiciales
 
-> Formulario 1374 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1374 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

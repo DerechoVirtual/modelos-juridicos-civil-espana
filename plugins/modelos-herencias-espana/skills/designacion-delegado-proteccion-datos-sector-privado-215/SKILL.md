@@ -5,7 +5,7 @@ description: "Redacta el escrito «Designación del delegado de protección de d
 
 # Designación del delegado de protección de datos en el sector privado
 
-> Formulario 0215 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0215 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acumulación a proceso universal: solicitud»
 
 # Acumulación a proceso universal: solicitud
 
-> Formulario 0912 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0912 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

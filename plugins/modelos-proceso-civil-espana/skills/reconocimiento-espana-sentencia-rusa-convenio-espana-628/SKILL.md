@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reconocimiento en España de sentencia rusa (
 
 # Reconocimiento en España de sentencia rusa (Convenio España-URSS de 1990)
 
-> Formulario 0628 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0628 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

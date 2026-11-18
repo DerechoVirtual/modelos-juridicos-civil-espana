@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mediación solicitada por una parte en contro
 
 # Mediación solicitada por una parte en controversias de arrendamiento
 
-> Formulario 1154 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1154 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

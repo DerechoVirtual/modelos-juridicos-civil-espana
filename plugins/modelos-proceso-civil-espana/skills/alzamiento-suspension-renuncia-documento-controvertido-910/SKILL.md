@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzamiento de la suspensión por renuncia al 
 
 # Alzamiento de la suspensión por renuncia al documento controvertido
 
-> Formulario 0910 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0910 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

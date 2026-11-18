@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestar a la denegación de prórroga» (fo
 
 # Contestar a la denegación de prórroga
 
-> Formulario 1261 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1261 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

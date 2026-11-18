@@ -5,7 +5,7 @@ description: "Redacta el escrito «Divorcio contencioso con separación de hecho
 
 # Divorcio contencioso con separación de hecho previa: demanda
 
-> Formulario 0314 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0314 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

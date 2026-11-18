@@ -5,7 +5,7 @@ description: "Redacta el escrito «Testamento en caso de epidemia» (formulario 
 
 # Testamento en caso de epidemia
 
-> Formulario 0303 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0303 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la ejecución de un acuerdo de m
 
 # Oposición a la ejecución de un acuerdo de mediación
 
-> Formulario 1511 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1511 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

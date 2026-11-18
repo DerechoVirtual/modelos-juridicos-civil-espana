@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de renuncia del mediador» (formulario 1
 
 # Acta de renuncia del mediador
 
-> Formulario 1520 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1520 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

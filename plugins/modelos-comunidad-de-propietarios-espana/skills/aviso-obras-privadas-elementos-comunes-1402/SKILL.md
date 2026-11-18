@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso de obras privadas en elementos comunes�
 
 # Aviso de obras privadas en elementos comunes
 
-> Formulario 1402 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1402 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

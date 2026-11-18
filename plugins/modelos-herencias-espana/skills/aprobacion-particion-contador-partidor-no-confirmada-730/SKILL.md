@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aprobación de la partición del contador-par
 
 # Aprobación de la partición del contador-partidor no confirmada por todos los herederos y legatarios
 
-> Formulario 0730 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0730 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

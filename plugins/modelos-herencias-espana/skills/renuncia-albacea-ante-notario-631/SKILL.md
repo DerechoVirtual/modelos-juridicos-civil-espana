@@ -5,7 +5,7 @@ description: "Redacta el escrito «Renuncia de un albacea ante notario» (formul
 
 # Renuncia de un albacea ante notario
 
-> Formulario 0631 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0631 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

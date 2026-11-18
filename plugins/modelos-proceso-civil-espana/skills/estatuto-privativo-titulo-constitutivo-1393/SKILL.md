@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estatuto privativo del título constitutivo»
 
 # Estatuto privativo del título constitutivo
 
-> Formulario 1393 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1393 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

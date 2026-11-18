@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicación al mediador de la voluntad de t
 
 # Comunicación al mediador de la voluntad de terminar la mediación
 
-> Formulario 1517 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1517 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

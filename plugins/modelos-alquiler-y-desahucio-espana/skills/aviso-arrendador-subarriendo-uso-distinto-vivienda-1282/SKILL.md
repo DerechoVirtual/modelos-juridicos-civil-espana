@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso al arrendador del subarriendo para uso 
 
 # Aviso al arrendador del subarriendo para uso distinto de vivienda
 
-> Formulario 1282 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1282 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

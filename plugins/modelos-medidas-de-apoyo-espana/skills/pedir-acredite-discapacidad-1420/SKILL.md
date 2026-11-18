@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir que se acredite la discapacidad» (form
 
 # Pedir que se acredite la discapacidad
 
-> Formulario 1420 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1420 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Divorcio contencioso con hijos mayores indepe
 
 # Divorcio contencioso con hijos mayores independientes e inventario de liquidación: demanda
 
-> Formulario 0441 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0441 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

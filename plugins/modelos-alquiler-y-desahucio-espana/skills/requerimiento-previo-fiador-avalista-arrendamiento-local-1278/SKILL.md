@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento previo al fiador o avalista de 
 
 # Requerimiento previo al fiador o avalista de arrendamiento de local
 
-> Formulario 1278 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1278 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

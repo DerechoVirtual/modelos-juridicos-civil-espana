@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convenio regulador sin hijos menores o con hi
 
 # Convenio regulador sin hijos menores o con hijos con apoyos
 
-> Formulario 0848 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0848 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

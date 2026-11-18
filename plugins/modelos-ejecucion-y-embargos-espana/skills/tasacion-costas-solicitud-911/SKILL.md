@@ -5,7 +5,7 @@ description: "Redacta el escrito «Tasación de costas: solicitud» (formulario 
 
 # Tasación de costas: solicitud
 
-> Formulario 0911 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0911 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Divorcio con ratificación de medidas provisi
 
 # Divorcio con ratificación de medidas provisionales: demanda
 
-> Formulario 0039 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0039 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

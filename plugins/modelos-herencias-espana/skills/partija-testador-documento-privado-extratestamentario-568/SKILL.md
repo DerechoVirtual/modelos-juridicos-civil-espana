@@ -5,7 +5,7 @@ description: "Redacta el escrito «Partija del testador en documento privado ext
 
 # Partija del testador en documento privado extratestamentario (Galicia)
 
-> Formulario 0568 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0568 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

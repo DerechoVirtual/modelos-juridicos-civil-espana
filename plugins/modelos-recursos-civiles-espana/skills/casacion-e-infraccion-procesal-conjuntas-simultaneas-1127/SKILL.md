@@ -5,7 +5,7 @@ description: "Redacta el escrito «Casación e infracción procesal conjuntas y 
 
 # Casación e infracción procesal conjuntas y simultáneas, previo al RDL 5/2023 (general)
 
-> Formulario 1127 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1127 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

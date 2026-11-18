@@ -5,7 +5,7 @@ description: "Redacta el escrito «Citación del demandado por edictos» (formul
 
 # Citación del demandado por edictos
 
-> Formulario 0319 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0319 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

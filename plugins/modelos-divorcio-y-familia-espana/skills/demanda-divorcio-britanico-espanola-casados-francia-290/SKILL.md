@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de divorcio de británico y española
 
 # Demanda de divorcio de británico y española casados en Francia, con hijos mayores
 
-> Formulario 0290 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0290 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

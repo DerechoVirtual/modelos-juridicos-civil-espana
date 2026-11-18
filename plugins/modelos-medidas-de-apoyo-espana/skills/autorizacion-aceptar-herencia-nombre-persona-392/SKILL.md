@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización para aceptar una herencia en no
 
 # Autorización para aceptar una herencia en nombre de persona con discapacidad
 
-> Formulario 0392 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0392 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

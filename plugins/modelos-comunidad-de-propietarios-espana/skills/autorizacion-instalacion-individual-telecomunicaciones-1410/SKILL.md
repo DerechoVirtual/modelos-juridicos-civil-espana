@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización de instalación individual de t
 
 # Autorización de instalación individual de telecomunicaciones
 
-> Formulario 1410 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1410 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

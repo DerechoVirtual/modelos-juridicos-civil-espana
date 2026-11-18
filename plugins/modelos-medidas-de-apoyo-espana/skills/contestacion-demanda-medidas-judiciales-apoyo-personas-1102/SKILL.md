@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la demanda de medidas judicia
 
 # Contestación a la demanda de medidas judiciales de apoyo a personas con discapacidad
 
-> Formulario 1102 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1102 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

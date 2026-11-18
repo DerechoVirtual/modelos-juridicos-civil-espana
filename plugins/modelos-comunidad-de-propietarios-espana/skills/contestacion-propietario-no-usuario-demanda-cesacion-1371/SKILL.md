@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación del propietario no usuario a de
 
 # Contestación del propietario no usuario a demanda de cesación de actividades prohibidas
 
-> Formulario 1371 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1371 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fianza del perceptor de rendimientos para gar
 
 # Fianza del perceptor de rendimientos para garantizar su devolución
 
-> Formulario 0694 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0694 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

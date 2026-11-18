@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de modificación de pensión de alime
 
 # Demanda de modificación de pensión de alimentos (Derecho civil de Cataluña)
 
-> Formulario 1162 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1162 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

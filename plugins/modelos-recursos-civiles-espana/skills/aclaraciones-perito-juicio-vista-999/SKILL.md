@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aclaraciones al perito en el juicio o vista»
 
 # Aclaraciones al perito en el juicio o vista
 
-> Formulario 0999 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0999 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

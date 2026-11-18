@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución por mutuo acuerdo del arrendamien
 
 # Resolución por mutuo acuerdo del arrendamiento rústico
 
-> Formulario 0831 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0831 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

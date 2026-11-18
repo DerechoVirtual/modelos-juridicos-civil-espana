@@ -5,7 +5,7 @@ description: "Redacta el escrito «Emancipación judicial con progenitores separ
 
 # Emancipación judicial con progenitores separados
 
-> Formulario 0655 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0655 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

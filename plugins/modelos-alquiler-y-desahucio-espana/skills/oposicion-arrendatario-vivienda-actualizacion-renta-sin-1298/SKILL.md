@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del arrendatario de vivienda a la 
 
 # Oposición del arrendatario de vivienda a la actualización de renta sin causa
 
-> Formulario 1298 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1298 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

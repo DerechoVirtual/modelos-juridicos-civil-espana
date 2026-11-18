@@ -5,7 +5,7 @@ description: "Redacta el escrito «Honorarios de abogado contra herencia yacente
 
 # Honorarios de abogado contra herencia yacente: reclamación
 
-> Formulario 0462 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0462 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

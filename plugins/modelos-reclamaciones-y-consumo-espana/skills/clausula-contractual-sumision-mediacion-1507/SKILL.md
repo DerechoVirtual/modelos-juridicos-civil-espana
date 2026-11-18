@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cláusula contractual de sumisión a mediaci�
 
 # Cláusula contractual de sumisión a mediación
 
-> Formulario 1507 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1507 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

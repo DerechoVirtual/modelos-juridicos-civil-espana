@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propuesta de prueba en juicio verbal de desah
 
 # Propuesta de prueba en juicio verbal de desahucio por impago
 
-> Formulario 1266 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1266 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

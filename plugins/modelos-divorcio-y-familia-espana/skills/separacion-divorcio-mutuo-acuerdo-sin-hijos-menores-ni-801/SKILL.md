@@ -5,7 +5,7 @@ description: "Redacta el escrito «Separación o divorcio de mutuo acuerdo sin h
 
 # Separación o divorcio de mutuo acuerdo sin hijos menores ni con apoyos dependientes
 
-> Formulario 0801 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0801 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

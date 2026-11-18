@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de la oposición cambiaria» (fo
 
 # Impugnación de la oposición cambiaria
 
-> Formulario 0511 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0511 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

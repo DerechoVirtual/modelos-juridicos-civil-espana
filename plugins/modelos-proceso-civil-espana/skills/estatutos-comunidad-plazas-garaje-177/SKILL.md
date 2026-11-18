@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estatutos de la comunidad de plazas de garaje
 
 # Estatutos de la comunidad de plazas de garaje
 
-> Formulario 0177 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0177 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

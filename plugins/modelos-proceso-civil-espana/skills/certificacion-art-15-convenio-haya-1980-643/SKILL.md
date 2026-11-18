@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificación del art. 15 del Convenio de La
 
 # Certificación del art. 15 del Convenio de La Haya de 1980
 
-> Formulario 0643 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0643 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

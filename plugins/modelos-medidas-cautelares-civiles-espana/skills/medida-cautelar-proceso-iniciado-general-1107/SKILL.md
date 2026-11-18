@@ -5,7 +5,7 @@ description: "Redacta el escrito «Medida cautelar con el proceso iniciado (gene
 
 # Medida cautelar con el proceso iniciado (general)
 
-> Formulario 1107 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 1107 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

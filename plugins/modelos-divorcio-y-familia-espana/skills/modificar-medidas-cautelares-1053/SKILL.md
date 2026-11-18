@@ -5,7 +5,7 @@ description: "Redacta el escrito «Modificar las medidas cautelares» (formulari
 
 # Modificar las medidas cautelares
 
-> Formulario 1053 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1053 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

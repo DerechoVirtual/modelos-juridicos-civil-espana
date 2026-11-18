@@ -5,7 +5,7 @@ description: "Redacta el escrito «Homologación judicial de acuerdo de mediaci�
 
 # Homologación judicial de acuerdo de mediación en ejecución
 
-> Formulario 0256 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0256 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

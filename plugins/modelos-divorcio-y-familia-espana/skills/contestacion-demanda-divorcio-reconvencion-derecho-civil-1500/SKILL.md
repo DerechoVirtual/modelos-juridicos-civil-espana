@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a demanda de divorcio con recon
 
 # Contestación a demanda de divorcio con reconvención (Derecho civil de Cataluña)
 
-> Formulario 1500 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1500 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión por prejudicialidad penal en ejec
 
 # Suspensión por prejudicialidad penal en ejecución de sentencia (falsedad del título)
 
-> Formulario 0939 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0939 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

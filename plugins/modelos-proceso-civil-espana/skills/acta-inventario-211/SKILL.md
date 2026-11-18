@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de inventario» (formulario 211 de escri
 
 # Acta de inventario
 
-> Formulario 0211 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0211 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

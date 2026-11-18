@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de la oposición a la ejecución
 
 # Impugnación de la oposición a la ejecución en familia por motivos de fondo
 
-> Formulario 0158 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0158 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

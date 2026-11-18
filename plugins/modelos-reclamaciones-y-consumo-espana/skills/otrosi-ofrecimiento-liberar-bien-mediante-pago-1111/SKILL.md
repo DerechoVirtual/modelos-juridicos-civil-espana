@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: ofrecimiento de liberar el bien medi
 
 # Otrosí: ofrecimiento de liberar el bien mediante pago
 
-> Formulario 1111 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1111 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

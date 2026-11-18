@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del demandante en la audiencia pre
 
 # Oposición del demandante en la audiencia previa a la excepción de inadecuación de procedimiento
 
-> Formulario 0929 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0929 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

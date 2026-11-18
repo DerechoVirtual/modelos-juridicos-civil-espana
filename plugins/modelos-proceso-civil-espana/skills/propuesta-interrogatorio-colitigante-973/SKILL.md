@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propuesta de interrogatorio de colitigante» 
 
 # Propuesta de interrogatorio de colitigante
 
-> Formulario 0973 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0973 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

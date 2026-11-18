@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sucesión del fiador en la posición procesal
 
 # Sucesión del fiador en la posición procesal del ejecutante
 
-> Formulario 0278 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0278 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

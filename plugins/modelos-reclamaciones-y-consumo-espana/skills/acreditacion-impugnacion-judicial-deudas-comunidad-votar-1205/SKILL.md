@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acreditación de impugnación judicial de deu
 
 # Acreditación de impugnación judicial de deudas con la comunidad para votar
 
-> Formulario 1205 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1205 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

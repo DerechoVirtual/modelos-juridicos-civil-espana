@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de mediación alcanzado en ejecución
 
 # Acuerdo de mediación alcanzado en ejecución de sentencia
 
-> Formulario 1509 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1509 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

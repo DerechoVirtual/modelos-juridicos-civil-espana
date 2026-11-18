@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la oposición de crédito com
 
 # Contestación a la oposición de crédito compensable en juicio verbal
 
-> Formulario 0862 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0862 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

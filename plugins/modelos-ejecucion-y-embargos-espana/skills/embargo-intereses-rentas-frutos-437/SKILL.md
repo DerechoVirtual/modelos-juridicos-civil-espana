@@ -5,7 +5,7 @@ description: "Redacta el escrito «Embargo de intereses, rentas o frutos» (form
 
 # Embargo de intereses, rentas o frutos
 
-> Formulario 0437 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0437 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del deudor con reconvención» (fo
 
 # Oposición del deudor con reconvención
 
-> Formulario 0341 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0341 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

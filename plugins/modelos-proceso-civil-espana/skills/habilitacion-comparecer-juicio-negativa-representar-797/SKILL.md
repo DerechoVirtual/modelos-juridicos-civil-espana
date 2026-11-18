@@ -5,7 +5,7 @@ description: "Redacta el escrito «Habilitación para comparecer en juicio por n
 
 # Habilitación para comparecer en juicio por negativa a representar: inicio del expediente
 
-> Formulario 0797 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0797 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revisión de medidas anteriores a la Ley 8/20
 
 # Revisión de medidas anteriores a la Ley 8/2021 en proceso de capacidad
 
-> Formulario 0148 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0148 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

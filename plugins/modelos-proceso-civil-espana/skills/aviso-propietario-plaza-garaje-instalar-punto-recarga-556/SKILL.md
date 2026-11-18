@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso del propietario de plaza de garaje de i
 
 # Aviso del propietario de plaza de garaje de instalar un punto de recarga eléctrica
 
-> Formulario 0556 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0556 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Encabezamiento de demanda del procurador de t
 
 # Encabezamiento de demanda del procurador de turno de oficio
 
-> Formulario 1112 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1112 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

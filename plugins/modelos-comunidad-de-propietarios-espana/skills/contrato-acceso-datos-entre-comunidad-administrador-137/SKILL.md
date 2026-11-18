@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato de acceso a datos entre la comunidad
 
 # Contrato de acceso a datos entre la comunidad y el administrador de fincas
 
-> Formulario 0137 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0137 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

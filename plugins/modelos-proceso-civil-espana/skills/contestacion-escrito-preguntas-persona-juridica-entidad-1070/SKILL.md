@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación por escrito de preguntas por pe
 
 # Contestación por escrito de preguntas por persona jurídica o entidad pública
 
-> Formulario 1070 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1070 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

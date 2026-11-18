@@ -5,7 +5,7 @@ description: "Redacta el escrito «Divorcio contencioso con división de bienes 
 
 # Divorcio contencioso con división de bienes en comunidad ordinaria: demanda
 
-> Formulario 0574 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0574 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

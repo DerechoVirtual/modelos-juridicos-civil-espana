@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prueba pericial anticipada en propiedad horiz
 
 # Prueba pericial anticipada en propiedad horizontal antes del proceso
 
-> Formulario 0104 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0104 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

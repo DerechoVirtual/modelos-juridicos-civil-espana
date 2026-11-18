@@ -5,7 +5,7 @@ description: "Redacta el escrito «Nombramiento de tercer perito» (formulario 6
 
 # Nombramiento de tercer perito
 
-> Formulario 0686 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0686 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

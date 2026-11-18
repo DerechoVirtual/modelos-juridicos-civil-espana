@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda del propietario para exigir a la comu
 
 # Demanda del propietario para exigir a la comunidad obras de mantenimiento de elementos comunes
 
-> Formulario 0048 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0048 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

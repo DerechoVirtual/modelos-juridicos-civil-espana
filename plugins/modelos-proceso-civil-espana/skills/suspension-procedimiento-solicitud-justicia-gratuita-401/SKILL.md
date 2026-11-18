@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión del procedimiento por solicitud d
 
 # Suspensión del procedimiento por solicitud de justicia gratuita ante el LAJ
 
-> Formulario 0401 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0401 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

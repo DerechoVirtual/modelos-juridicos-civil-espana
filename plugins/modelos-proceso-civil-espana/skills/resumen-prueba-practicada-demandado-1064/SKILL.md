@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resumen de la prueba practicada, por el deman
 
 # Resumen de la prueba practicada, por el demandado
 
-> Formulario 1064 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1064 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

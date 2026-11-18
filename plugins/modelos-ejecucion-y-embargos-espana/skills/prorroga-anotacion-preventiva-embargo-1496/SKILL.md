@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prórroga de anotación preventiva de embargo
 
 # Prórroga de anotación preventiva de embargo
 
-> Formulario 1496 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1496 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

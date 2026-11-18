@@ -5,7 +5,7 @@ description: "Redacta el escrito «Promesa de venta (Navarra)» (formulario 577 
 
 # Promesa de venta (Navarra)
 
-> Formulario 0577 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0577 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

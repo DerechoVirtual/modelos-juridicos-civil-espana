@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificación del arrendatario: ejercicio del
 
 # Notificación del arrendatario: ejercicio del derecho de tanteo
 
-> Formulario 1200 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1200 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

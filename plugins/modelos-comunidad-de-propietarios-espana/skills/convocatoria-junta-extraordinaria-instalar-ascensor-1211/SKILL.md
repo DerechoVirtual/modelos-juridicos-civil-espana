@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convocatoria de junta extraordinaria para ins
 
 # Convocatoria de junta extraordinaria para instalar ascensor
 
-> Formulario 1211 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1211 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

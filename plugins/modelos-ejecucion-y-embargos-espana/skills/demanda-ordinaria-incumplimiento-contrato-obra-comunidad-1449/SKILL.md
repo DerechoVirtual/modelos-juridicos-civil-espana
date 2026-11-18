@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ordinaria por incumplimiento de contr
 
 # Demanda ordinaria por incumplimiento de contrato de obra (comunidad de propietarios)
 
-> Formulario 1449 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1449 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

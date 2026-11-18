@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de junta constituida sin convocatoria pr
 
 # Acta de junta constituida sin convocatoria previa
 
-> Formulario 1206 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1206 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

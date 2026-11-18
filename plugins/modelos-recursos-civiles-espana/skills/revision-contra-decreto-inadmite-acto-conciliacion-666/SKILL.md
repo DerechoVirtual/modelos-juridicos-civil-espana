@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revisión contra el decreto que inadmite un a
 
 # Revisión contra el decreto que inadmite un acto de conciliación
 
-> Formulario 0666 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0666 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

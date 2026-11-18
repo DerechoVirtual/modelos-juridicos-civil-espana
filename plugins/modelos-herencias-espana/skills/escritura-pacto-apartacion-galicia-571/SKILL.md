@@ -5,7 +5,7 @@ description: "Redacta el escrito «Escritura de pacto de apartación (Galicia)»
 
 # Escritura de pacto de apartación (Galicia)
 
-> Formulario 0571 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0571 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

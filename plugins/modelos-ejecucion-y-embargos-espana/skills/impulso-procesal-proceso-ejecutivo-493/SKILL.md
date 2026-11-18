@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impulso procesal en el proceso ejecutivo» (f
 
 # Impulso procesal en el proceso ejecutivo
 
-> Formulario 0493 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0493 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

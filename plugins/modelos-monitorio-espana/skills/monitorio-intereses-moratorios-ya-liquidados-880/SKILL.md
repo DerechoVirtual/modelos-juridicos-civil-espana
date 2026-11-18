@@ -5,7 +5,7 @@ description: "Redacta el escrito «Monitorio con intereses moratorios ya liquida
 
 # Monitorio con intereses moratorios ya liquidados
 
-> Formulario 0880 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0880 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comprador notifica al arrendatario las condic
 
 # Comprador notifica al arrendatario las condiciones de la compraventa
 
-> Formulario 1317 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1317 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

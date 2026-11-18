@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de ejecución de acuerdos de la junta
 
 # Demanda de ejecución de acuerdos de la junta de propietarios
 
-> Formulario 0340 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0340 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Inscripción registral de resolución extranj
 
 # Inscripción registral de resolución extranjera de jurisdicción voluntaria
 
-> Formulario 0739 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0739 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

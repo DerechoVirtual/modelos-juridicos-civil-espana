@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones en el incidente de nulidad de act
 
 # Alegaciones en el incidente de nulidad de actuaciones
 
-> Formulario 0927 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0927 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

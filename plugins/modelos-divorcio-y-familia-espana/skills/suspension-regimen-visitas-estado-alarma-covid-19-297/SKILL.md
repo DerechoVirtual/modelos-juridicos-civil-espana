@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión del régimen de visitas por el es
 
 # Suspensión del régimen de visitas por el estado de alarma del COVID-19
 
-> Formulario 0297 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0297 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

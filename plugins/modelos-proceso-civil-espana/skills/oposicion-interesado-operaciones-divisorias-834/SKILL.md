@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del interesado a las operaciones d
 
 # Oposición del interesado a las operaciones divisorias
 
-> Formulario 0834 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0834 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

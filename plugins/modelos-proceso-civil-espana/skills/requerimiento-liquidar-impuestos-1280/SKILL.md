@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento para liquidar impuestos» (form
 
 # Requerimiento para liquidar impuestos
 
-> Formulario 1280 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1280 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

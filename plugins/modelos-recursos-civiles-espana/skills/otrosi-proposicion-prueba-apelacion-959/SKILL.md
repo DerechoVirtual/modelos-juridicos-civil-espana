@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí de proposición de prueba en apelaci�
 
 # Otrosí de proposición de prueba en apelación
 
-> Formulario 0959 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0959 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

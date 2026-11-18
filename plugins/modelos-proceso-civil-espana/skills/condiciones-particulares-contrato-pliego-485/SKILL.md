@@ -5,7 +5,7 @@ description: "Redacta el escrito «Condiciones particulares del contrato (pliego
 
 # Condiciones particulares del contrato (pliego)
 
-> Formulario 0485 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0485 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

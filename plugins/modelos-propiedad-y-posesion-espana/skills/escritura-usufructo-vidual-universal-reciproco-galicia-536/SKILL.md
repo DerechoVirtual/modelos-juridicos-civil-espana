@@ -5,7 +5,7 @@ description: "Redacta el escrito «Escritura de usufructo vidual universal recí
 
 # Escritura de usufructo vidual universal recíproco (Galicia)
 
-> Formulario 0536 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0536 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

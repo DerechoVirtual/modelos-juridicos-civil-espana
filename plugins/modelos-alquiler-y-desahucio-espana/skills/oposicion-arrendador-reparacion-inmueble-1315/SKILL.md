@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del arrendador a la reparación de
 
 # Oposición del arrendador a la reparación del inmueble
 
-> Formulario 1315 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1315 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Abono de gastos de diligencias preliminares d
 
 # Abono de gastos de diligencias preliminares de propiedad horizontal
 
-> Formulario 1401 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 1401 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

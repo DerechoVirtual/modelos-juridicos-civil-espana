@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resarcimiento solicitado por la comunidad por
 
 # Resarcimiento solicitado por la comunidad por daños de un propietario
 
-> Formulario 1424 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1424 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

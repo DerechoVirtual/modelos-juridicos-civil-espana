@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de separación ante la Sección de Vi
 
 # Demanda de separación ante la Sección de Violencia sobre la Mujer
 
-> Formulario 0898 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0898 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo prematrimonial para prever los efecto
 
 # Acuerdo prematrimonial para prever los efectos de una ruptura
 
-> Formulario 0090 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0090 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mantenimiento de la consignación pedido por 
 
 # Mantenimiento de la consignación pedido por el consignatario
 
-> Formulario 0702 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0702 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

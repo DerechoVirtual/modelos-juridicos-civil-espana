@@ -5,7 +5,7 @@ description: "Redacta el escrito «Registro de actividades de tratamiento del en
 
 # Registro de actividades de tratamiento del encargado del tratamiento
 
-> Formulario 0206 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0206 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

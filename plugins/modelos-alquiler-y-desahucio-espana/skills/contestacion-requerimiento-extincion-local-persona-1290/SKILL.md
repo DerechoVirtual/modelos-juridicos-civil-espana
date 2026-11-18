@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación al requerimiento de extinción 
 
 # Contestación al requerimiento de extinción de local de persona física anterior a 1985
 
-> Formulario 1290 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1290 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

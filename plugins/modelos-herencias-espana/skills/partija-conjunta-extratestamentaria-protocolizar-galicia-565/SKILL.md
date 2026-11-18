@@ -5,7 +5,7 @@ description: "Redacta el escrito «Partija conjunta extratestamentaria para prot
 
 # Partija conjunta extratestamentaria para protocolizar (Galicia)
 
-> Formulario 0565 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0565 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

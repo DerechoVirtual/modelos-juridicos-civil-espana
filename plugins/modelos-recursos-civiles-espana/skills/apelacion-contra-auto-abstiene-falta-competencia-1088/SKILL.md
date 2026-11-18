@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra el auto que se abstiene por
 
 # Apelación contra el auto que se abstiene por falta de competencia objetiva
 
-> Formulario 1088 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1088 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

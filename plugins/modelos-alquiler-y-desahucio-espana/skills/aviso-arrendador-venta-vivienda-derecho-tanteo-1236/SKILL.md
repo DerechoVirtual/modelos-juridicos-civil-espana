@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso del arrendador de venta de la vivienda:
 
 # Aviso del arrendador de venta de la vivienda: derecho de tanteo
 
-> Formulario 1236 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1236 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

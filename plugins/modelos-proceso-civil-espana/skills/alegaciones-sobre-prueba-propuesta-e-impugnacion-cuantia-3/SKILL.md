@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones sobre la prueba propuesta e impug
 
 # Alegaciones sobre la prueba propuesta e impugnación de la cuantía (juicio verbal)
 
-> Formulario 0003 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0003 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

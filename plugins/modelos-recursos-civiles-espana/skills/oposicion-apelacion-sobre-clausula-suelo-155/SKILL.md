@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la apelación sobre cláusula su
 
 # Oposición a la apelación sobre cláusula suelo
 
-> Formulario 0155 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0155 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de nulidad matrimonial por defecto de
 
 # Demanda de nulidad matrimonial por defecto de forma
 
-> Formulario 1457 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1457 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

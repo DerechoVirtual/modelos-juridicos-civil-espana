@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de exequátur para ejecutar resolucio
 
 # Demanda de exequátur para ejecutar resoluciones extranjeras en España
 
-> Formulario 0620 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0620 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

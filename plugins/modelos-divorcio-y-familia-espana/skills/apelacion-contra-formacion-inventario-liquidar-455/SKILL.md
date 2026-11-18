@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la formación de inventario
 
 # Apelación contra la formación de inventario para liquidar gananciales
 
-> Formulario 0455 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0455 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

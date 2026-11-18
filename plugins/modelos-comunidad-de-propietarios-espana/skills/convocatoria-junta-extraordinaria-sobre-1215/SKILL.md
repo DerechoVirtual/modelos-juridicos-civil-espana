@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convocatoria de junta extraordinaria sobre te
 
 # Convocatoria de junta extraordinaria sobre telecomunicaciones
 
-> Formulario 1215 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1215 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

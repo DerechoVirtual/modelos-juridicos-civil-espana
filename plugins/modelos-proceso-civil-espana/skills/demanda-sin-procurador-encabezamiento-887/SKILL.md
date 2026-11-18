@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda sin procurador: encabezamiento» (for
 
 # Demanda sin procurador: encabezamiento
 
-> Formulario 0887 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0887 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

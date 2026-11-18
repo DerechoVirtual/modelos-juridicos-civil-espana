@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal de repetición de cuotas comun
 
 # Demanda verbal de repetición de cuotas comunitarias (art. 9.1.i LPH)
 
-> Formulario 0277 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0277 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

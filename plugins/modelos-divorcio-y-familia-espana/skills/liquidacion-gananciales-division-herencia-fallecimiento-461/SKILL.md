@@ -5,7 +5,7 @@ description: "Redacta el escrito «Liquidación de gananciales y división de he
 
 # Liquidación de gananciales y división de herencia por fallecimiento de ambos cónyuges
 
-> Formulario 0461 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0461 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

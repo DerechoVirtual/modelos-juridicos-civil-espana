@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación en propiedad horizontal (juicio or
 
 # Apelación en propiedad horizontal (juicio ordinario o verbal)
 
-> Formulario 1352 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1352 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

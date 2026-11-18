@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegación de cosa juzgada» (formulario 760 
 
 # Alegación de cosa juzgada
 
-> Formulario 0760 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0760 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

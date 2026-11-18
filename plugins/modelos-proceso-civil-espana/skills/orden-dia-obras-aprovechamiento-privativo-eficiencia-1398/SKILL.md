@@ -5,7 +5,7 @@ description: "Redacta el escrito «Orden del día: obras de aprovechamiento priv
 
 # Orden del día: obras de aprovechamiento privativo de eficiencia energética
 
-> Formulario 1398 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1398 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

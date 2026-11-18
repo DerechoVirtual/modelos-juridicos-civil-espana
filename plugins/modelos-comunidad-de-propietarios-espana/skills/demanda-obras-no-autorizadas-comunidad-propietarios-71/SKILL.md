@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda por obras no autorizadas en la comuni
 
 # Demanda por obras no autorizadas en la comunidad de propietarios
 
-> Formulario 0071 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0071 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

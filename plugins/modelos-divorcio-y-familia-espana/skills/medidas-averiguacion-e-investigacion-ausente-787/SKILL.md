@@ -5,7 +5,7 @@ description: "Redacta el escrito «Medidas de averiguación e investigación del
 
 # Medidas de averiguación e investigación del ausente
 
-> Formulario 0787 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0787 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

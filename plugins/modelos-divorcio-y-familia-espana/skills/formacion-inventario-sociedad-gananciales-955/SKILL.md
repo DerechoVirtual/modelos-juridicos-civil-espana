@@ -5,7 +5,7 @@ description: "Redacta el escrito «Formación de inventario de la sociedad de ga
 
 # Formación de inventario de la sociedad de gananciales
 
-> Formulario 0955 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0955 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

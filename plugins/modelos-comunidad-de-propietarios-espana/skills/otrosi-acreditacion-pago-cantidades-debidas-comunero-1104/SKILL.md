@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: acreditación de pago de cantidades 
 
 # Otrosí: acreditación de pago de cantidades debidas por un comunero
 
-> Formulario 1104 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1104 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

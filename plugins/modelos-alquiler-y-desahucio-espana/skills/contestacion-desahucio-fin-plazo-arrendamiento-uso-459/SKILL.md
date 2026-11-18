@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación al desahucio por fin de plazo e
 
 # Contestación al desahucio por fin de plazo en arrendamiento de uso distinto de vivienda
 
-> Formulario 0459 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0459 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso de apelación sobre cláusula suelo»
 
 # Recurso de apelación sobre cláusula suelo
 
-> Formulario 0519 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0519 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

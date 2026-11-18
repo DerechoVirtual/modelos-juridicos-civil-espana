@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cesión del derecho de uso y habitación» (f
 
 # Cesión del derecho de uso y habitación
 
-> Formulario 0243 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0243 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

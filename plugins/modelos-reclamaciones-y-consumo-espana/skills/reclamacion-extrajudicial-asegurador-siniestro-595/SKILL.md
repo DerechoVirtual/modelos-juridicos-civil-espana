@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamación extrajudicial al asegurador por 
 
 # Reclamación extrajudicial al asegurador por siniestro de circulación
 
-> Formulario 0595 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0595 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

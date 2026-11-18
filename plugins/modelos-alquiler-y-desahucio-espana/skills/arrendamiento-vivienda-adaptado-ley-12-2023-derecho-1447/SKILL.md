@@ -5,7 +5,7 @@ description: "Redacta el escrito «Arrendamiento de vivienda adaptado a la Ley 1
 
 # Arrendamiento de vivienda adaptado a la Ley 12/2023 por el derecho a la vivienda
 
-> Formulario 1447 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1447 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda para exigir obras al arrendador (LAU 
 
 # Demanda para exigir obras al arrendador (LAU 94)
 
-> Formulario 1499 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1499 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

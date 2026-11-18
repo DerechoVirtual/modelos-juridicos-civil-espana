@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contra el cuaderno particional del co
 
 # Demanda contra el cuaderno particional del contador-partidor dativo de notaría
 
-> Formulario 0041 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0041 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

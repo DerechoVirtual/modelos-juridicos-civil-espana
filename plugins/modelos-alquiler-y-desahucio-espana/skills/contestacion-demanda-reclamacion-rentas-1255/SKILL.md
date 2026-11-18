@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a demanda de reclamación de re
 
 # Contestación a demanda de reclamación de rentas
 
-> Formulario 1255 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1255 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

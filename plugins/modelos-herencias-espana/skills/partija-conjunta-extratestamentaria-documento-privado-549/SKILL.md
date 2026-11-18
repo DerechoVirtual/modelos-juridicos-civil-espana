@@ -5,7 +5,7 @@ description: "Redacta el escrito «Partija conjunta extratestamentaria en docume
 
 # Partija conjunta extratestamentaria en documento privado
 
-> Formulario 0549 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0549 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

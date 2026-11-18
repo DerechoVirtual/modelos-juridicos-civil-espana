@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición al recurso de apelación en jurisd
 
 # Oposición al recurso de apelación en jurisdicción voluntaria
 
-> Formulario 0653 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0653 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

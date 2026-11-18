@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal especial de extinción de la o
 
 # Demanda verbal especial de extinción de la obligación de alimentos
 
-> Formulario 0373 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0373 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

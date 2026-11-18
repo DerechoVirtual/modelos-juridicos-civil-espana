@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de saneamiento por vicios ocultos en 
 
 # Demanda de saneamiento por vicios ocultos en la venta de animales
 
-> Formulario 0417 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0417 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

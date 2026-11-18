@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de la reposición del demandado 
 
 # Impugnación de la reposición del demandado contra el auto que deniega suspender el procedimiento
 
-> Formulario 1079 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1079 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

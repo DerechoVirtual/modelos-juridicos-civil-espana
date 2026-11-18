@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desahucio por precario contra un copropietari
 
 # Desahucio por precario contra un copropietario: demanda
 
-> Formulario 0079 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0079 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

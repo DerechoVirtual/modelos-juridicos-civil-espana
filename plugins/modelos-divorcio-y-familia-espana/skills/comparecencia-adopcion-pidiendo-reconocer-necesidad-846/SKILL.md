@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comparecencia en la adopción pidiendo recono
 
 # Comparecencia en la adopción pidiendo reconocer la necesidad de asentimiento
 
-> Formulario 0846 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0846 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

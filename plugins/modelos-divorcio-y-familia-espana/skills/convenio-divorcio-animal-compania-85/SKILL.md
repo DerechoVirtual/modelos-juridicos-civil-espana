@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convenio de divorcio con animal de compañía
 
 # Convenio de divorcio con animal de compañía
 
-> Formulario 0085 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0085 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cláusula de improcedencia de prórroga por n
 
 # Cláusula de improcedencia de prórroga por necesidad propia
 
-> Formulario 1260 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1260 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

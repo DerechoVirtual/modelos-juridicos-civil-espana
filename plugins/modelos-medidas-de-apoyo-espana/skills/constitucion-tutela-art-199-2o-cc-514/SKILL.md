@@ -5,7 +5,7 @@ description: "Redacta el escrito «Constitución de tutela (art. 199.2º CC)» (
 
 # Constitución de tutela (art. 199.2º CC)
 
-> Formulario 0514 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0514 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización del acreedor para retirar lo co
 
 # Autorización del acreedor para retirar lo consignado si el deudor pide su devolución
 
-> Formulario 0700 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0700 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

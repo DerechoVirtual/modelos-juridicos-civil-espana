@@ -5,7 +5,7 @@ description: "Redacta el escrito «Consentimiento del arrendador a obras de pers
 
 # Consentimiento del arrendador a obras de persona con discapacidad en la vivienda arrendada
 
-> Formulario 1304 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1304 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

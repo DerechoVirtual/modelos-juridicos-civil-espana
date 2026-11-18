@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ordinaria de constitución de edifici
 
 # Demanda ordinaria de constitución de edificio en propiedad horizontal
 
-> Formulario 0315 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0315 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

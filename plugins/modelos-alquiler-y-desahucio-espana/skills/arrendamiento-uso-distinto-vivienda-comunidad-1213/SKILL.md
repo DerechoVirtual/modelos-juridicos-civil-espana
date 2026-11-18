@@ -5,7 +5,7 @@ description: "Redacta el escrito «Arrendamiento para uso distinto de vivienda p
 
 # Arrendamiento para uso distinto de vivienda por comunidad de propietarios
 
-> Formulario 1213 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1213 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

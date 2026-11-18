@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declaración responsable del arrendatario par
 
 # Declaración responsable del arrendatario para la moratoria del RDL 35/2020
 
-> Formulario 0193 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0193 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

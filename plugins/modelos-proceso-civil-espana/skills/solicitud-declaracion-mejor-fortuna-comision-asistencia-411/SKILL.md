@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de declaración de mejor fortuna a 
 
 # Solicitud de declaración de mejor fortuna a la Comisión de Asistencia Jurídica Gratuita
 
-> Formulario 0411 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0411 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

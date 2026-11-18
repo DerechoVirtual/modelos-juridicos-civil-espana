@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la demanda de nulidad de test
 
 # Contestación a la demanda de nulidad de testamento (juicio ordinario)
 
-> Formulario 0017 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0017 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

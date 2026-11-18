@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación en jurisdicción voluntaria: model
 
 # Apelación en jurisdicción voluntaria: modelo genérico
 
-> Formulario 0758 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0758 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

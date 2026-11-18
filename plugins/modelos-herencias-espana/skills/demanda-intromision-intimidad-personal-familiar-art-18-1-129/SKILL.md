@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda por intromisión en la intimidad pers
 
 # Demanda por intromisión en la intimidad personal y familiar (art. 18.1 CE)
 
-> Formulario 0129 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0129 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

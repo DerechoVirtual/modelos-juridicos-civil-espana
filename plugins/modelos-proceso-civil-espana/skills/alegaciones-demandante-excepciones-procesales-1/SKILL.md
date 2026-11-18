@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones del demandante a las excepciones 
 
 # Alegaciones del demandante a las excepciones procesales de la contestación (juicio verbal)
 
-> Formulario 0001 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0001 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

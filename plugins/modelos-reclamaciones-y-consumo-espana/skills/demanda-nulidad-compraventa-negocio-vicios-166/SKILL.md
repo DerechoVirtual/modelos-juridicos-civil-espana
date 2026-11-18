@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de nulidad de compraventa de negocio 
 
 # Demanda de nulidad de compraventa de negocio por vicios del consentimiento
 
-> Formulario 0166 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0166 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

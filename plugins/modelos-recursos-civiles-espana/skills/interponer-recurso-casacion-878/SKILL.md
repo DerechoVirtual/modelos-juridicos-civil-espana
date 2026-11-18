@@ -5,7 +5,7 @@ description: "Redacta el escrito «Interponer el recurso de casación» (formula
 
 # Interponer el recurso de casación
 
-> Formulario 0878 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0878 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

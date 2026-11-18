@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de modificación de medidas sobre uso
 
 # Demanda de modificación de medidas sobre uso de la vivienda familiar
 
-> Formulario 0477 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0477 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

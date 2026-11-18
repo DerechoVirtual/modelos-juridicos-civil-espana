@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a divorcio contencioso con hijo
 
 # Contestación a divorcio contencioso con hijos mayores dependientes económicamente
 
-> Formulario 0897 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0897 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

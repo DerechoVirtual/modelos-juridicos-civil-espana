@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de nulidad de lo convenido en la conc
 
 # Demanda de nulidad de lo convenido en la conciliación
 
-> Formulario 0707 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0707 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

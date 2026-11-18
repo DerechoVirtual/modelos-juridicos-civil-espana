@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prueba pericial psicológica en proceso de fa
 
 # Prueba pericial psicológica en proceso de familia
 
-> Formulario 0429 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0429 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

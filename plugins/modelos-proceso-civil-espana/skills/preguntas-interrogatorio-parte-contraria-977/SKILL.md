@@ -5,7 +5,7 @@ description: "Redacta el escrito «Preguntas para el interrogatorio de la parte 
 
 # Preguntas para el interrogatorio de la parte contraria
 
-> Formulario 0977 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0977 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

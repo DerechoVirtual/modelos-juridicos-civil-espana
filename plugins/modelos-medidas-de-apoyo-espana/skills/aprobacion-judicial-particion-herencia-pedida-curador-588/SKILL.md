@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aprobación judicial de la partición de here
 
 # Aprobación judicial de la partición de herencia pedida por el curador
 
-> Formulario 0588 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0588 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

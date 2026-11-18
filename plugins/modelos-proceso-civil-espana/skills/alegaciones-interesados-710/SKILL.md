@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones de los interesados» (formulario 
 
 # Alegaciones de los interesados
 
-> Formulario 0710 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0710 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

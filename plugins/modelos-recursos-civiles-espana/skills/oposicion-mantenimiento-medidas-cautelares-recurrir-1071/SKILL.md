@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición al mantenimiento de medidas cautel
 
 # Oposición al mantenimiento de medidas cautelares al recurrir la sentencia (general)
 
-> Formulario 1071 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1071 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

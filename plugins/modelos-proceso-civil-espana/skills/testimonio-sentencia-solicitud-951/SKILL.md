@@ -5,7 +5,7 @@ description: "Redacta el escrito «Testimonio de la sentencia: solicitud» (form
 
 # Testimonio de la sentencia: solicitud
 
-> Formulario 0951 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0951 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

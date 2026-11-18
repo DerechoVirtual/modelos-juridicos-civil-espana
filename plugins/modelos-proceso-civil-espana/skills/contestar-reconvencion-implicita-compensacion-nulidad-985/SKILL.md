@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestar a la reconvención implícita por c
 
 # Contestar a la reconvención implícita por compensación o nulidad: modelo general
 
-> Formulario 0985 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0985 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

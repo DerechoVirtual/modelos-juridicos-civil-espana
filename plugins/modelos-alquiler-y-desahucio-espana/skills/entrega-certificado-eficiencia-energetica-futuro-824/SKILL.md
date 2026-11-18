@@ -5,7 +5,7 @@ description: "Redacta el escrito «Entrega del certificado de eficiencia energé
 
 # Entrega del certificado de eficiencia energética al futuro arrendatario
 
-> Formulario 0824 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0824 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones del solicitante sobre la falta de
 
 # Alegaciones del solicitante sobre la falta de competencia territorial del LAJ
 
-> Formulario 0765 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0765 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

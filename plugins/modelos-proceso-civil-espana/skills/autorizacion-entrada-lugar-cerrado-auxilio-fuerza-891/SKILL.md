@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización de entrada en lugar cerrado con
 
 # Autorización de entrada en lugar cerrado con auxilio de la fuerza pública
 
-> Formulario 0891 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0891 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

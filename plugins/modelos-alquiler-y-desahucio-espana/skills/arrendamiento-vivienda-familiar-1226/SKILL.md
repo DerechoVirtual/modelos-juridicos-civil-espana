@@ -5,7 +5,7 @@ description: "Redacta el escrito «Arrendamiento de vivienda a un familiar» (fo
 
 # Arrendamiento de vivienda a un familiar
 
-> Formulario 1226 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1226 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

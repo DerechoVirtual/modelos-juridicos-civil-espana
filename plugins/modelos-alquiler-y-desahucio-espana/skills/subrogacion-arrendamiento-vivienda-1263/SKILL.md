@@ -5,7 +5,7 @@ description: "Redacta el escrito «Subrogación en el arrendamiento de vivienda�
 
 # Subrogación en el arrendamiento de vivienda
 
-> Formulario 1263 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1263 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

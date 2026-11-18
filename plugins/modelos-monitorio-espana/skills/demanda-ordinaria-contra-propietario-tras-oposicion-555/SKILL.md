@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ordinaria contra el propietario tras 
 
 # Demanda ordinaria contra el propietario tras oposición al monitorio
 
-> Formulario 0555 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0555 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

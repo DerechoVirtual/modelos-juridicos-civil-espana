@@ -5,7 +5,7 @@ description: "Redacta el escrito «Adveración, apertura y protocolización de t
 
 # Adveración, apertura y protocolización de testamento oral
 
-> Formulario 0671 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0671 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

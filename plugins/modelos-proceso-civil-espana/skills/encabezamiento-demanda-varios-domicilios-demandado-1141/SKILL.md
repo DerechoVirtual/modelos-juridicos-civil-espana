@@ -5,7 +5,7 @@ description: "Redacta el escrito «Encabezamiento de demanda con varios domicili
 
 # Encabezamiento de demanda con varios domicilios del demandado
 
-> Formulario 1141 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1141 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

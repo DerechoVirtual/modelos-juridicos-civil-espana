@@ -5,7 +5,7 @@ description: "Redacta el escrito «Casación por infracción de las normas proce
 
 # Casación por infracción de las normas procesales reguladoras de la sentencia
 
-> Formulario 0452 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0452 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

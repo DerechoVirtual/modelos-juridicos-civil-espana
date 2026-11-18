@@ -5,7 +5,7 @@ description: "Redacta el escrito «Entrega al titular de la vivienda del certifi
 
 # Entrega al titular de la vivienda del certificado energético del edificio
 
-> Formulario 0826 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0826 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

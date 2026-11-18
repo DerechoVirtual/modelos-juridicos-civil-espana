@@ -5,7 +5,7 @@ description: "Redacta el escrito «Modificación de medidas definitivas sobre gu
 
 # Modificación de medidas definitivas sobre guarda y custodia de hijos menores
 
-> Formulario 1443 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1443 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

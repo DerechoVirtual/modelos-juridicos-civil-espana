@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convocatoria de nueva junta por falta de quó
 
 # Convocatoria de nueva junta por falta de quórum
 
-> Formulario 1232 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1232 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la acción de anulación del lau
 
 # Oposición a la acción de anulación del laudo arbitral
 
-> Formulario 0374 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0374 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

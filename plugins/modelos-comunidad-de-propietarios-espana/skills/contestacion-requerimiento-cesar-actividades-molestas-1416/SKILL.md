@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación al requerimiento de cesar activ
 
 # Contestación al requerimiento de cesar actividades molestas
 
-> Formulario 1416 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1416 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

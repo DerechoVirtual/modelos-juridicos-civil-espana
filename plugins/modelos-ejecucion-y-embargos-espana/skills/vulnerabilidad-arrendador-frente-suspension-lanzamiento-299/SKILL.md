@@ -5,7 +5,7 @@ description: "Redacta el escrito «Vulnerabilidad del arrendador frente a la sus
 
 # Vulnerabilidad del arrendador frente a la suspensión del lanzamiento (art. 1.4 RDL 11/2020)
 
-> Formulario 0299 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0299 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

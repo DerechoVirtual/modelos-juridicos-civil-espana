@@ -5,7 +5,7 @@ description: "Redacta el escrito «Enervar el embargo con aval bancario en el de
 
 # Enervar el embargo con aval bancario en el declarativo tras oposición a monitorio
 
-> Formulario 0165 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0165 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

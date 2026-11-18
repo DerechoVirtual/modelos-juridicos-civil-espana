@@ -5,7 +5,7 @@ description: "Redacta el escrito «Escritura de autotutela e instrucciones previ
 
 # Escritura de autotutela e instrucciones previas (Galicia)
 
-> Formulario 0537 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0537 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

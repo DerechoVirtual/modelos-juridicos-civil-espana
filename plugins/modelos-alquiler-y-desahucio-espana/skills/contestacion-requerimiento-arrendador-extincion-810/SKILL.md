@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación al requerimiento del arrendador
 
 # Contestación al requerimiento del arrendador: extinción por fallecimiento del arrendatario
 
-> Formulario 0810 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0810 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de divorcio de un cónyuge con consen
 
 # Demanda de divorcio de un cónyuge con consentimiento del otro y sin hijos dependientes
 
-> Formulario 0921 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0921 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

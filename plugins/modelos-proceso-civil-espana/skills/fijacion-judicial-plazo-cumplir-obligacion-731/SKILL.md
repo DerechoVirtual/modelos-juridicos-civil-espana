@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fijación judicial del plazo para cumplir una
 
 # Fijación judicial del plazo para cumplir una obligación
 
-> Formulario 0731 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0731 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

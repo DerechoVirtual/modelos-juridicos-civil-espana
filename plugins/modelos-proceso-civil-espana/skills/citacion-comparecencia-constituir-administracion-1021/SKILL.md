@@ -5,7 +5,7 @@ description: "Redacta el escrito «Citación a comparecencia para constituir la 
 
 # Citación a comparecencia para constituir la administración
 
-> Formulario 1021 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1021 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

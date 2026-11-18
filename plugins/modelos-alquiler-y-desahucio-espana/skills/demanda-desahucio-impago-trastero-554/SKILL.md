@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de desahucio por impago del trastero�
 
 # Demanda de desahucio por impago del trastero
 
-> Formulario 0554 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0554 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

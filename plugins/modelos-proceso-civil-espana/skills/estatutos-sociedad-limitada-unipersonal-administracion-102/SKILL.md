@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estatutos de sociedad limitada unipersonal de
 
 # Estatutos de sociedad limitada unipersonal de administración de fincas
 
-> Formulario 0102 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0102 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de nulidad matrimonial por incapacida
 
 # Demanda de nulidad matrimonial por incapacidad (canon 1095.3)
 
-> Formulario 1456 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1456 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

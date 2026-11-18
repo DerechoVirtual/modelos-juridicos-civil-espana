@@ -5,7 +5,7 @@ description: "Redacta el escrito «Monitorio con procurador y abogado» (formula
 
 # Monitorio con procurador y abogado
 
-> Formulario 0876 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0876 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

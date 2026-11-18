@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicación del propietario discrepante de 
 
 # Comunicación del propietario discrepante de un acuerdo de la junta
 
-> Formulario 0305 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0305 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

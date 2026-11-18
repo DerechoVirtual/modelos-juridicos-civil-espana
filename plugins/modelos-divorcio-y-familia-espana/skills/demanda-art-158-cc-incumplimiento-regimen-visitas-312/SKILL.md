@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda del art. 158 CC por incumplimiento de
 
 # Demanda del art. 158 CC por incumplimiento del régimen de visitas amparado en el estado de alarma
 
-> Formulario 0312 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0312 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sumisión a arbitraje internacional: cláusul
 
 # Sumisión a arbitraje internacional: cláusula
 
-> Formulario 1469 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1469 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

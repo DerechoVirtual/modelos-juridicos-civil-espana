@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cláusula informativa de videovigilancia en c
 
 # Cláusula informativa de videovigilancia en comunidades de propietarios
 
-> Formulario 0069 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0069 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

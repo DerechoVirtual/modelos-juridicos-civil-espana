@@ -5,7 +5,7 @@ description: "Redacta el escrito «Diligencia preliminar para concretar los miem
 
 # Diligencia preliminar para concretar los miembros de un grupo de afectados determinables
 
-> Formulario 1068 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1068 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamación a la aseguradora del cónyuge pe
 
 # Reclamación a la aseguradora del cónyuge perjudicado
 
-> Formulario 0171 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0171 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

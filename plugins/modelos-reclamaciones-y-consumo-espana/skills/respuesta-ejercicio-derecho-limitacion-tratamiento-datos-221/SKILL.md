@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta al ejercicio del derecho de limitac
 
 # Respuesta al ejercicio del derecho de limitación del tratamiento de datos
 
-> Formulario 0221 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0221 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

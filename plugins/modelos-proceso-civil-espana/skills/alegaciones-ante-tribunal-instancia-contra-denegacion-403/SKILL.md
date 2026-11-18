@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones ante el Tribunal de Instancia con
 
 # Alegaciones ante el Tribunal de Instancia contra la denegación de justicia gratuita
 
-> Formulario 0403 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0403 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

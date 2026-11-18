@@ -5,7 +5,7 @@ description: "Redacta el escrito «Constitución de tutela (art. 213.1º CC)» (
 
 # Constitución de tutela (art. 213.1º CC)
 
-> Formulario 0377 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0377 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

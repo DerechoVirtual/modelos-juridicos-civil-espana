@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propuesta de interrogatorio de organismos pú
 
 # Propuesta de interrogatorio de organismos públicos
 
-> Formulario 1019 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1019 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

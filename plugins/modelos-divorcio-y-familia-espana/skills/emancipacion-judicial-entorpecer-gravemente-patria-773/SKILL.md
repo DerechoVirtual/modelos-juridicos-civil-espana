@@ -5,7 +5,7 @@ description: "Redacta el escrito «Emancipación judicial por entorpecer graveme
 
 # Emancipación judicial por entorpecer gravemente la patria potestad
 
-> Formulario 0773 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0773 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

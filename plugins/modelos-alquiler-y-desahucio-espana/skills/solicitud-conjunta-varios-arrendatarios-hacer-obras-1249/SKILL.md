@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud conjunta de varios arrendatarios pa
 
 # Solicitud conjunta de varios arrendatarios para hacer obras
 
-> Formulario 1249 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1249 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

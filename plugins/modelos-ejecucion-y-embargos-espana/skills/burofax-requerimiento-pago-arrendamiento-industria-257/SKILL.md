@@ -5,7 +5,7 @@ description: "Redacta el escrito «Burofax de requerimiento de pago en arrendami
 
 # Burofax de requerimiento de pago en arrendamiento de industria
 
-> Formulario 0257 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0257 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

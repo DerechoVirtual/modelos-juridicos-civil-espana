@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del arrendatario persona física a
 
 # Oposición del arrendatario persona física a la extinción por los veinte años
 
-> Formulario 0814 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0814 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

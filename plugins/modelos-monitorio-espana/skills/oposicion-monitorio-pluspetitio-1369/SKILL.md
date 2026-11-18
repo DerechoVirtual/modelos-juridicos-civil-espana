@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición al monitorio por pluspetitio» (fo
 
 # Oposición al monitorio por pluspetitio
 
-> Formulario 1369 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 1369 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

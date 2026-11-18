@@ -5,7 +5,7 @@ description: "Redacta el escrito «Remoción del albacea» (formulario 726 de su
 
 # Remoción del albacea
 
-> Formulario 0726 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0726 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

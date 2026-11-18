@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificar la ejecución al ocupante del inmue
 
 # Notificar la ejecución al ocupante del inmueble embargado por el procurador
 
-> Formulario 0713 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0713 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

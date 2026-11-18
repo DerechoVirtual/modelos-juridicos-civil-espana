@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: suspensión de la ejecución del acu
 
 # Otrosí: suspensión de la ejecución del acuerdo impugnado
 
-> Formulario 1338 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1338 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

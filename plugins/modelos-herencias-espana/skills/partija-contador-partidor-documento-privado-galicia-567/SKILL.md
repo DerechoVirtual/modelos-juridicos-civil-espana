@@ -5,7 +5,7 @@ description: "Redacta el escrito «Partija del contador-partidor en documento pr
 
 # Partija del contador-partidor en documento privado (Galicia)
 
-> Formulario 0567 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0567 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

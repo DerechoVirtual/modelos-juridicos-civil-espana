@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contra propietario por aire acondicio
 
 # Demanda contra propietario por aire acondicionado no consentido en patio interior
 
-> Formulario 0503 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0503 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

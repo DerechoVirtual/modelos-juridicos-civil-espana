@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí de medidas cautelares del art. 727 LE
 
 # Otrosí de medidas cautelares del art. 727 LEC: inventario y administrador judicial
 
-> Formulario 0168 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 0168 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

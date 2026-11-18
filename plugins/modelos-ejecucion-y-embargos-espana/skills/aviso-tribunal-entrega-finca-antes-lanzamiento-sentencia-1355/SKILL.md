@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso al tribunal de entrega de la finca ante
 
 # Aviso al tribunal de entrega de la finca antes del lanzamiento, con la sentencia cumplida
 
-> Formulario 1355 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1355 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

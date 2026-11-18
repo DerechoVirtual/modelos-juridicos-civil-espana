@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revisión contra el decreto que declara la ca
 
 # Revisión contra el decreto que declara la caducidad
 
-> Formulario 0757 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0757 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

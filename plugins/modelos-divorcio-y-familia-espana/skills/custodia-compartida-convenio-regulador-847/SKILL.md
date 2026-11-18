@@ -5,7 +5,7 @@ description: "Redacta el escrito «Custodia compartida: convenio regulador» (fo
 
 # Custodia compartida: convenio regulador
 
-> Formulario 0847 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0847 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

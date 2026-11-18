@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cancelación de la obligación al retirar los
 
 # Cancelación de la obligación al retirar los interesados la cosa consignada
 
-> Formulario 0734 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0734 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

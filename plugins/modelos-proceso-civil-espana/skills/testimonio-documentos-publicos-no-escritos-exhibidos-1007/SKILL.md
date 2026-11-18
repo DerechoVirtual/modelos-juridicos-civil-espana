@@ -5,7 +5,7 @@ description: "Redacta el escrito «Testimonio de documentos públicos no escrito
 
 # Testimonio de documentos públicos no escritos exhibidos ante el LAJ
 
-> Formulario 1007 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1007 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

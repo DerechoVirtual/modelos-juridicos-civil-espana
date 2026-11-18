@@ -5,7 +5,7 @@ description: "Redacta el escrito «Homologación de acuerdo de mediación famili
 
 # Homologación de acuerdo de mediación familiar en sentencia
 
-> Formulario 1516 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1516 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

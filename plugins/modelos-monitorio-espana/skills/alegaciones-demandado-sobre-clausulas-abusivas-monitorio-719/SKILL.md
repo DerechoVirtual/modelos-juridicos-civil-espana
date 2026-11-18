@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones del demandado sobre cláusulas ab
 
 # Alegaciones del demandado sobre cláusulas abusivas en el monitorio
 
-> Formulario 0719 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0719 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

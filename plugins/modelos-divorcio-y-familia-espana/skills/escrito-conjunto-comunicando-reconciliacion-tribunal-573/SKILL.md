@@ -5,7 +5,7 @@ description: "Redacta el escrito «Escrito conjunto comunicando la reconciliaci�
 
 # Escrito conjunto comunicando la reconciliación al Tribunal
 
-> Formulario 0573 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0573 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

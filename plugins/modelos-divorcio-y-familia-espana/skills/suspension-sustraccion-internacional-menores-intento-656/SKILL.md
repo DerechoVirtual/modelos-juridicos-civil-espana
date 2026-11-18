@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión de la sustracción internacional 
 
 # Suspensión de la sustracción internacional de menores por intento de mediación
 
-> Formulario 0656 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0656 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

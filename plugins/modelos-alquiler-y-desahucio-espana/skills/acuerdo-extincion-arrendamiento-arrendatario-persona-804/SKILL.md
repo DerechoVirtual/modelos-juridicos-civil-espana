@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de extinción del arrendamiento con a
 
 # Acuerdo de extinción del arrendamiento con arrendatario persona jurídica
 
-> Formulario 0804 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0804 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

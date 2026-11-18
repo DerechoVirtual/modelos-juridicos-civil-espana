@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra el auto que deniega el desp
 
 # Apelación contra el auto que deniega el despacho de ejecución hipotecaria
 
-> Formulario 1462 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1462 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

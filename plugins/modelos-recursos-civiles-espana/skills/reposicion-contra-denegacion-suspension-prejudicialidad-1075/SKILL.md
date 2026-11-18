@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra la denegación de suspensi
 
 # Reposición contra la denegación de suspensión por prejudicialidad civil
 
-> Formulario 1075 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1075 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

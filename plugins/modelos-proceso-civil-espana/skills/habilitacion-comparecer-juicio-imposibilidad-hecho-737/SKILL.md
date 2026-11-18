@@ -5,7 +5,7 @@ description: "Redacta el escrito «Habilitación para comparecer en juicio por i
 
 # Habilitación para comparecer en juicio por imposibilidad de hecho
 
-> Formulario 0737 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0737 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

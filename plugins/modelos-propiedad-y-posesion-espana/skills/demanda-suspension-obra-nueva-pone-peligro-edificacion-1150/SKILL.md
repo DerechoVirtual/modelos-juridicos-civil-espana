@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de suspensión de obra nueva que pone
 
 # Demanda de suspensión de obra nueva que pone en peligro la edificación del demandante
 
-> Formulario 1150 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026. Uso interno.
+> Formulario 1150 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

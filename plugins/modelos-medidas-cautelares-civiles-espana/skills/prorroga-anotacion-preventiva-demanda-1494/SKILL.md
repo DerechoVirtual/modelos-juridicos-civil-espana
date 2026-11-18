@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prórroga de anotación preventiva de demanda
 
 # Prórroga de anotación preventiva de demanda
 
-> Formulario 1494 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 1494 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

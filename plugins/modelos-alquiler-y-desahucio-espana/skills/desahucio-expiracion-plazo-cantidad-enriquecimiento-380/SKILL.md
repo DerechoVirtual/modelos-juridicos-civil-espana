@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desahucio por expiración del plazo y cantida
 
 # Desahucio por expiración del plazo y cantidad por enriquecimiento injusto (juicio verbal)
 
-> Formulario 0380 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0380 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

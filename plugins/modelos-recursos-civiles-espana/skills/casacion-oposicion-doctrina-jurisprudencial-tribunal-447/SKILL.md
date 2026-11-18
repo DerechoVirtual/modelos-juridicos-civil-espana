@@ -5,7 +5,7 @@ description: "Redacta el escrito «Casación por oposición a la doctrina jurisp
 
 # Casación por oposición a la doctrina jurisprudencial del Tribunal Supremo
 
-> Formulario 0447 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0447 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

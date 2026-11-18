@@ -5,7 +5,7 @@ description: "Redacta el escrito «Intervención judicial (art. 156 CC): retirar
 
 # Intervención judicial (art. 156 CC): retirar imágenes en redes de menor de 14 años
 
-> Formulario 0040 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0040 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

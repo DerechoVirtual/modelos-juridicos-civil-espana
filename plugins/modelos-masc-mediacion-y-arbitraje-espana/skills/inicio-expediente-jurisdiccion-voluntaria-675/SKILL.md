@@ -5,7 +5,7 @@ description: "Redacta el escrito «Inicio de expediente de jurisdicción volunta
 
 # Inicio de expediente de jurisdicción voluntaria
 
-> Formulario 0675 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0675 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

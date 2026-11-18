@@ -5,7 +5,7 @@ description: "Redacta el escrito «Operaciones liquidatorias de gananciales pres
 
 # Operaciones liquidatorias de gananciales presentadas por el contador
 
-> Formulario 1453 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1453 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

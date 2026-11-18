@@ -5,7 +5,7 @@ description: "Redacta el escrito «Testimonio de haber instado la ejecución y c
 
 # Testimonio de haber instado la ejecución y certificado de imposibilidad de llevarla a cabo
 
-> Formulario 0924 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0924 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

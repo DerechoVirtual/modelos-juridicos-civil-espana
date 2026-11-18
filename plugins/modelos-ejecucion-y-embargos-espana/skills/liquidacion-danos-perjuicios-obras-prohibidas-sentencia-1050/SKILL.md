@@ -5,7 +5,7 @@ description: "Redacta el escrito «Liquidación de daños y perjuicios por obras
 
 # Liquidación de daños y perjuicios por obras prohibidas en sentencia
 
-> Formulario 1050 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1050 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

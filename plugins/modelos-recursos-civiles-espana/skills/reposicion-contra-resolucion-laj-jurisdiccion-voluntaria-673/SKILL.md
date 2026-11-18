@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra resolución del LAJ en jur
 
 # Reposición contra resolución del LAJ en jurisdicción voluntaria
 
-> Formulario 0673 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0673 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

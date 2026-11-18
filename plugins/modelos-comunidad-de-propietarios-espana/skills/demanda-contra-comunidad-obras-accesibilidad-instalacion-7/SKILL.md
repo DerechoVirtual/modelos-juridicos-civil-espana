@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contra la comunidad para obras de acc
 
 # Demanda contra la comunidad para obras de accesibilidad: instalación de ascensor
 
-> Formulario 0007 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0007 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

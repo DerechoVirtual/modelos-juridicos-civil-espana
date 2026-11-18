@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de la sesión informativa en la mediaci�
 
 # Acta de la sesión informativa en la mediación
 
-> Formulario 0901 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0901 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestar a la impugnación de honorarios del
 
 # Contestar a la impugnación de honorarios del perito
 
-> Formulario 1090 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1090 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

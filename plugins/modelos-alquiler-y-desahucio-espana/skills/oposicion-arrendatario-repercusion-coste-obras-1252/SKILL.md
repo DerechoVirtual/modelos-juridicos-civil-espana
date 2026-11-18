@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del arrendatario a la repercusión
 
 # Oposición del arrendatario a la repercusión del coste de obras
 
-> Formulario 1252 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1252 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

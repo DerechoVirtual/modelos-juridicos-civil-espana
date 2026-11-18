@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conciliación encabezada por el propio concil
 
 # Conciliación encabezada por el propio conciliante
 
-> Formulario 0893 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0893 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

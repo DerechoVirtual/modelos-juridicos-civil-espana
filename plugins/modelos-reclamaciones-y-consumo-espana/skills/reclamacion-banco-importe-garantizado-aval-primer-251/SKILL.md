@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamación al banco del importe garantizado
 
 # Reclamación al banco del importe garantizado por aval a primer requerimiento
 
-> Formulario 0251 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0251 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

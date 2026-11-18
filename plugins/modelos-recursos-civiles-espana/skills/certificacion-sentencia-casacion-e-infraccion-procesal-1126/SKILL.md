@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificación de la sentencia para casación
 
 # Certificación de la sentencia para casación e infracción procesal conjuntas
 
-> Formulario 1126 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1126 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

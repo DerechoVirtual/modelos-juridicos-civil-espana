@@ -5,7 +5,7 @@ description: "Redacta el escrito «Renuncia del contador-partidor o prórroga de
 
 # Renuncia del contador-partidor o prórroga de su plazo
 
-> Formulario 0723 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0723 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

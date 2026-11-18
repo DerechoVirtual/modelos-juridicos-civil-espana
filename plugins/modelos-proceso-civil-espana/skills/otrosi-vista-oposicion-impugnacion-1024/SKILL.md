@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: vista en la oposición o en su impug
 
 # Otrosí: vista en la oposición o en su impugnación
 
-> Formulario 1024 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1024 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

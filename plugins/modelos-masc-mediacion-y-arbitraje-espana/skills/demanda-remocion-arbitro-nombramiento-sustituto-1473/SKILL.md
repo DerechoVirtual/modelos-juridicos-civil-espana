@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de remoción de árbitro y nombramien
 
 # Demanda de remoción de árbitro y nombramiento de sustituto
 
-> Formulario 1473 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1473 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de repetición contra el excónyuge p
 
 # Demanda de repetición contra el excónyuge por cuotas pagadas de la hipoteca del hogar
 
-> Formulario 0478 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0478 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Inicio de expediente de título de crédito: 
 
 # Inicio de expediente de título de crédito: letra de cambio
 
-> Formulario 0711 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0711 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

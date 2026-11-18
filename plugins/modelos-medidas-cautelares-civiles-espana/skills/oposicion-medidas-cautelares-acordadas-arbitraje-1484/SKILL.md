@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a medidas cautelares acordadas por
 
 # Oposición a medidas cautelares acordadas por arbitraje pendiente sin audiencia del demandado
 
-> Formulario 1484 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 1484 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

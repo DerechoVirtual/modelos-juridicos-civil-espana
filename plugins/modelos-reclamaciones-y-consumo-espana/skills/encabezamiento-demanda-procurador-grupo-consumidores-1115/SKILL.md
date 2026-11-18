@@ -5,7 +5,7 @@ description: "Redacta el escrito «Encabezamiento de demanda del procurador de u
 
 # Encabezamiento de demanda del procurador de un grupo de consumidores afectados
 
-> Formulario 1115 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1115 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

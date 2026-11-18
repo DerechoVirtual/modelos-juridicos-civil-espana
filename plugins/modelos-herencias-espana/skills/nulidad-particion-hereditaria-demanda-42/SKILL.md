@@ -5,7 +5,7 @@ description: "Redacta el escrito «Nulidad de la partición hereditaria: demanda
 
 # Nulidad de la partición hereditaria: demanda
 
-> Formulario 0042 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0042 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

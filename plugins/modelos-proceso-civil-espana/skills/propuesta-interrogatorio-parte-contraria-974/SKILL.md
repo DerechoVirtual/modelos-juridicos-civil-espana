@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propuesta de interrogatorio de la parte contr
 
 # Propuesta de interrogatorio de la parte contraria
 
-> Formulario 0974 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0974 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

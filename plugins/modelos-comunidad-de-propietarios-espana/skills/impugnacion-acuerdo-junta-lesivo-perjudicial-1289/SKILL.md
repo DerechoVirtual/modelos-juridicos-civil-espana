@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de acuerdo de junta lesivo o per
 
 # Impugnación de acuerdo de junta lesivo o perjudicial
 
-> Formulario 1289 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1289 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

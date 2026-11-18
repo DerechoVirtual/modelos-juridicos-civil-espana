@@ -5,7 +5,7 @@ description: "Redacta el escrito «Traslado del requerimiento del arrendador al 
 
 # Traslado del requerimiento del arrendador al arrendatario
 
-> Formulario 1366 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1366 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

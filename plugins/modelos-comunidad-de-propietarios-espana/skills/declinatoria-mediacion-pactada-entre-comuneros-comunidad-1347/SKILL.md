@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declinatoria por mediación pactada entre com
 
 # Declinatoria por mediación pactada entre comuneros y comunidad
 
-> Formulario 1347 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1347 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

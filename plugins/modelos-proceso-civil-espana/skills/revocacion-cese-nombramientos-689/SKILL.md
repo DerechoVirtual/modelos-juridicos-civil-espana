@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revocación o cese de nombramientos» (formul
 
 # Revocación o cese de nombramientos
 
-> Formulario 0689 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0689 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

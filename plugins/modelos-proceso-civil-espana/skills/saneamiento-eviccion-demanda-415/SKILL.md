@@ -5,7 +5,7 @@ description: "Redacta el escrito «Saneamiento por evicción: demanda» (formula
 
 # Saneamiento por evicción: demanda
 
-> Formulario 0415 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0415 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

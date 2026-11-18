@@ -5,7 +5,7 @@ description: "Redacta el escrito «Divorcio de mutuo acuerdo con hijos mayores d
 
 # Divorcio de mutuo acuerdo con hijos mayores de edad: demanda
 
-> Formulario 0644 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0644 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

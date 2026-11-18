@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerir al contador-partidor» (formulario 1
 
 # Requerir al contador-partidor
 
-> Formulario 1147 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 1147 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contribución a las cargas del matrimonio por
 
 # Contribución a las cargas del matrimonio por incumplimiento de un cónyuge
 
-> Formulario 0743 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0743 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

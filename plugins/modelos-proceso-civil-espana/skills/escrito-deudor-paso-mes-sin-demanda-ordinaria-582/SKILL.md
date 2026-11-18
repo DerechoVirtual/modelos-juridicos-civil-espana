@@ -5,7 +5,7 @@ description: "Redacta el escrito «Escrito del deudor: pasó un mes sin demanda 
 
 # Escrito del deudor: pasó un mes sin demanda ordinaria del peticionario
 
-> Formulario 0582 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0582 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

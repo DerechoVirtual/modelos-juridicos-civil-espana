@@ -5,7 +5,7 @@ description: "Redacta el escrito «Audiencia de las partes sobre la caución en 
 
 # Audiencia de las partes sobre la caución en tercería de dominio
 
-> Formulario 1022 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 1022 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

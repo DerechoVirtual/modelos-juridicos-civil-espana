@@ -5,7 +5,7 @@ description: "Redacta el escrito «Rendición de cuentas del albacea» (formular
 
 # Rendición de cuentas del albacea
 
-> Formulario 0728 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0728 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

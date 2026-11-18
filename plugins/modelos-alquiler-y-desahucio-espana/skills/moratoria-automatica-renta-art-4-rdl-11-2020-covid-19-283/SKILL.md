@@ -5,7 +5,7 @@ description: "Redacta el escrito «Moratoria automática de renta (art. 4 RDL 11
 
 # Moratoria automática de renta (art. 4 RDL 11/2020, COVID-19)
 
-> Formulario 0283 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0283 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

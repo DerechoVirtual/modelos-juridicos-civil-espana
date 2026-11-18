@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estatutos de la comunidad (documento)» (form
 
 # Estatutos de la comunidad (documento)
 
-> Formulario 1376 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1376 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Justificante de pago de tasa judicial present
 
 # Justificante de pago de tasa judicial presentado con posterioridad
 
-> Formulario 1357 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1357 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

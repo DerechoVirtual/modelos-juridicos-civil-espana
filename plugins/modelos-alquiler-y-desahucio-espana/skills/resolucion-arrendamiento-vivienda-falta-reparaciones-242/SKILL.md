@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución de arrendamiento de vivienda por 
 
 # Resolución de arrendamiento de vivienda por falta de reparaciones, con daños (posterior a 1995)
 
-> Formulario 0242 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0242 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Diligencia de ordenación que suspende un se�
 
 # Diligencia de ordenación que suspende un señalamiento civil por el estado de alarma COVID-19
 
-> Formulario 0311 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0311 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

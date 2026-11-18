@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pérdida de la caución de diligencias prelim
 
 # Pérdida de la caución de diligencias preliminares por no presentar la demanda
 
-> Formulario 1400 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 1400 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Custodia de bienes muebles por consenso» (fo
 
 # Custodia de bienes muebles por consenso
 
-> Formulario 0585 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0585 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

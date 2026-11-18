@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conversión de adopción simple en plena: sol
 
 # Conversión de adopción simple en plena: solicitud
 
-> Formulario 0775 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0775 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

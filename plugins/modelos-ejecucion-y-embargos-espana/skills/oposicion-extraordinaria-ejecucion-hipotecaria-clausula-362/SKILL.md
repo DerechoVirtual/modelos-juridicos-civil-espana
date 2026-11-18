@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición extraordinaria a la ejecución hip
 
 # Oposición extraordinaria a la ejecución hipotecaria: cláusula abusiva sobre la cantidad exigible
 
-> Formulario 0362 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0362 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

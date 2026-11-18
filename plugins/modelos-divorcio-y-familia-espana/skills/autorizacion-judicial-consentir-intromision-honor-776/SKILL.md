@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización judicial para consentir la intr
 
 # Autorización judicial para consentir la intromisión en el honor, intimidad e imagen del menor
 
-> Formulario 0776 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0776 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

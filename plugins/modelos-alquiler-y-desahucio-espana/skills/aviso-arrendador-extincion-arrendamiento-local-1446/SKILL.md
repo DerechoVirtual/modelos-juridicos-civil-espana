@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso del arrendador de extinción del arrend
 
 # Aviso del arrendador de extinción del arrendamiento de local
 
-> Formulario 1446 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1446 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

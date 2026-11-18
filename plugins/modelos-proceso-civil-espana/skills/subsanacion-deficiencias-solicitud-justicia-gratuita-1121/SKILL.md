@@ -5,7 +5,7 @@ description: "Redacta el escrito «Subsanación de deficiencias en la solicitud 
 
 # Subsanación de deficiencias en la solicitud de justicia gratuita
 
-> Formulario 1121 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1121 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

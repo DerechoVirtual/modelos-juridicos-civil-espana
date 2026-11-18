@@ -5,7 +5,7 @@ description: "Redacta el escrito «Monitorio de propiedad horizontal con procura
 
 # Monitorio de propiedad horizontal con procurador y abogado
 
-> Formulario 1405 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 1405 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

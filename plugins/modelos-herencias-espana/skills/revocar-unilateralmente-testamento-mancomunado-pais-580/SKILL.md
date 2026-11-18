@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revocar unilateralmente testamento mancomunad
 
 # Revocar unilateralmente testamento mancomunado (País Vasco)
 
-> Formulario 0580 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0580 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

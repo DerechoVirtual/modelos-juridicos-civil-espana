@@ -5,7 +5,7 @@ description: "Redacta el escrito «Citación de los comuneros a la reunión de l
 
 # Citación de los comuneros a la reunión de la comunidad
 
-> Formulario 1174 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1174 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

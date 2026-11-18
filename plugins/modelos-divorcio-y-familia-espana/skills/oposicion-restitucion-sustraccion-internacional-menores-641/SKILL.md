@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la restitución en sustracción 
 
 # Oposición a la restitución en sustracción internacional de menores
 
-> Formulario 0641 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0641 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

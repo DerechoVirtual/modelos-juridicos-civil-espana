@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación al requerimiento de arbitraje: 
 
 # Contestación al requerimiento de arbitraje: aceptación parcial
 
-> Formulario 1483 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1483 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

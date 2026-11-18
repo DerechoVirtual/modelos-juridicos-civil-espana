@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso del declarado fallecido de que ha reapa
 
 # Aviso del declarado fallecido de que ha reaparecido
 
-> Formulario 0747 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0747 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

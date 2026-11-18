@@ -5,7 +5,7 @@ description: "Redacta el escrito «Administrador judicial de herencia abintestat
 
 # Administrador judicial de herencia abintestato sin declaración de herederos
 
-> Formulario 0316 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0316 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato de la comunidad con instaladora de p
 
 # Contrato de la comunidad con instaladora de paneles solares y gestión de la subvención
 
-> Formulario 0056 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0056 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

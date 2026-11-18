@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de testamento por preterición»
 
 # Impugnación de testamento por preterición
 
-> Formulario 0212 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0212 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

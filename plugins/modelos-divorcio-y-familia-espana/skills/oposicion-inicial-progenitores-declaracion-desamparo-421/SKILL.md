@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición inicial de los progenitores a la d
 
 # Oposición inicial de los progenitores a la declaración de desamparo
 
-> Formulario 0421 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0421 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

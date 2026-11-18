@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicación del defensor judicial de que ha
 
 # Comunicación del defensor judicial de que ha desaparecido la causa de su nombramiento
 
-> Formulario 0793 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0793 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

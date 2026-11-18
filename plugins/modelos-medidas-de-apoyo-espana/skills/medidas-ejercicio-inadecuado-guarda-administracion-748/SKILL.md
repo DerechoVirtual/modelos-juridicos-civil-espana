@@ -5,7 +5,7 @@ description: "Redacta el escrito «Medidas por ejercicio inadecuado de la guarda
 
 # Medidas por ejercicio inadecuado de la guarda o administración de bienes (art. 164 CC)
 
-> Formulario 0748 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0748 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

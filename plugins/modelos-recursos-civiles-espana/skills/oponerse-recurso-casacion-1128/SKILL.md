@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oponerse al recurso de casación» (formulari
 
 # Oponerse al recurso de casación
 
-> Formulario 1128 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1128 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

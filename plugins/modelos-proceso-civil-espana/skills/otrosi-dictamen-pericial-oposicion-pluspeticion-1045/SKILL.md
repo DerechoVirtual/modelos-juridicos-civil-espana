@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: dictamen pericial en la oposición p
 
 # Otrosí: dictamen pericial en la oposición por pluspetición
 
-> Formulario 1045 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1045 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

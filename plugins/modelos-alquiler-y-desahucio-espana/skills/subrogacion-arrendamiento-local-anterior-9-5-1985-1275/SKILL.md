@@ -5,7 +5,7 @@ description: "Redacta el escrito «Subrogación en arrendamiento de local anteri
 
 # Subrogación en arrendamiento de local anterior al 9-5-1985 vigente con la LAU 1994
 
-> Formulario 1275 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1275 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

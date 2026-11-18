@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta final de mediación sin acuerdo» (formu
 
 # Acta final de mediación sin acuerdo
 
-> Formulario 1502 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1502 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

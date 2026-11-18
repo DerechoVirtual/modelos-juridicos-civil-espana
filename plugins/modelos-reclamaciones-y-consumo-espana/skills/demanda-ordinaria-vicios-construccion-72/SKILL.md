@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ordinaria por vicios de la construcci
 
 # Demanda ordinaria por vicios de la construcción
 
-> Formulario 0072 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0072 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

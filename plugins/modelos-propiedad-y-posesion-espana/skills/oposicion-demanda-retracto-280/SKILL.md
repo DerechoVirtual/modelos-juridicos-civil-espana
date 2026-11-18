@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la demanda de retracto» (formul
 
 # Oposición a la demanda de retracto
 
-> Formulario 0280 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0280 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

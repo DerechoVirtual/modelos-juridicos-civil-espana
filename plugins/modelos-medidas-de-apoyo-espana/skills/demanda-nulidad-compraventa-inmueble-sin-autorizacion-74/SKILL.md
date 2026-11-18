@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de nulidad de compraventa de inmueble
 
 # Demanda de nulidad de compraventa de inmueble sin autorización judicial del tutor o curador
 
-> Formulario 0074 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0074 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

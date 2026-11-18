@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de un coheredero en beneficio de la c
 
 # Demanda de un coheredero en beneficio de la comunidad hereditaria
 
-> Formulario 0356 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0356 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

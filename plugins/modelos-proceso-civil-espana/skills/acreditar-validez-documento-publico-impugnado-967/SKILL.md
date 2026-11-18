@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acreditar la validez del documento público i
 
 # Acreditar la validez del documento público impugnado
 
-> Formulario 0967 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0967 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

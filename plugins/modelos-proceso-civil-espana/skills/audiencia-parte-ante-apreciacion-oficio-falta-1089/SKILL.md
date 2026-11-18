@@ -5,7 +5,7 @@ description: "Redacta el escrito «Audiencia de parte ante la apreciación de of
 
 # Audiencia de parte ante la apreciación de oficio de falta de competencia objetiva
 
-> Formulario 1089 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1089 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta constitutiva de mediación intraprocesal
 
 # Acta constitutiva de mediación intraprocesal
 
-> Formulario 1501 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1501 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

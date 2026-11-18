@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ejecutiva basada en escritura de reco
 
 # Demanda ejecutiva basada en escritura de reconocimiento de deuda
 
-> Formulario 0159 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0159 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

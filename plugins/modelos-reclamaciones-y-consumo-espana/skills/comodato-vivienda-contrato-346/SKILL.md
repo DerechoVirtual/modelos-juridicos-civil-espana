@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comodato de vivienda: contrato» (formulario 
 
 # Comodato de vivienda: contrato
 
-> Formulario 0346 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0346 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Arrendamiento de trastero: contrato» (formul
 
 # Arrendamiento de trastero: contrato
 
-> Formulario 0344 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0344 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

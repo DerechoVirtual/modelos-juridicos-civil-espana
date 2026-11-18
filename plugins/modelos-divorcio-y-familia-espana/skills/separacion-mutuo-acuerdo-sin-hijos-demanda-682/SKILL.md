@@ -5,7 +5,7 @@ description: "Redacta el escrito «Separación de mutuo acuerdo sin hijos: deman
 
 # Separación de mutuo acuerdo sin hijos: demanda
 
-> Formulario 0682 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0682 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

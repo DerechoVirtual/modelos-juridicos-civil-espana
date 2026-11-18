@@ -5,7 +5,7 @@ description: "Redacta el escrito «Nulidad de actuaciones en jurisdicción volun
 
 # Nulidad de actuaciones en jurisdicción voluntaria
 
-> Formulario 0276 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0276 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

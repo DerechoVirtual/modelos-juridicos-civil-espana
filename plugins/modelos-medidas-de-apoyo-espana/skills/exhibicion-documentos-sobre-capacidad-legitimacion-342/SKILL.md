@@ -5,7 +5,7 @@ description: "Redacta el escrito «Exhibición de documentos sobre capacidad o l
 
 # Exhibición de documentos sobre capacidad o legitimación frente a una comunidad de bienes
 
-> Formulario 0342 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0342 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

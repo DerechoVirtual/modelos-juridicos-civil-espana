@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal de cantidad por cobro de lo in
 
 # Demanda verbal de cantidad por cobro de lo indebido: acción
 
-> Formulario 0358 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0358 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

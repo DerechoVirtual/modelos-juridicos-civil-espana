@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: liquidación de tasas por persona ju
 
 # Otrosí: liquidación de tasas por persona jurídica obligada (general)
 
-> Formulario 1031 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1031 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

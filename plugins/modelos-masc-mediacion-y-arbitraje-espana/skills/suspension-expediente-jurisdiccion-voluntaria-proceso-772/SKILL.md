@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión del expediente de jurisdicción v
 
 # Suspensión del expediente de jurisdicción voluntaria por proceso contencioso pendiente
 
-> Formulario 0772 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0772 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

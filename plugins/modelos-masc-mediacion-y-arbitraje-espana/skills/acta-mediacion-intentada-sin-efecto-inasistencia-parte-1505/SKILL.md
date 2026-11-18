@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de mediación intentada sin efecto por i
 
 # Acta de mediación intentada sin efecto por inasistencia de una parte a la sesión informativa
 
-> Formulario 1505 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1505 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

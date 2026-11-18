@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación y oposición a la modificación
 
 # Contestación y oposición a la modificación de la custodia compartida
 
-> Formulario 0598 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0598 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

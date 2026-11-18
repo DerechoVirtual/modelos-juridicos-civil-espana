@@ -5,7 +5,7 @@ description: "Redacta el escrito «Orden del día: obras comunes de eficiencia e
 
 # Orden del día: obras comunes de eficiencia energética
 
-> Formulario 1396 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1396 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

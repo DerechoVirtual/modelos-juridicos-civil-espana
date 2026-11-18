@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión de lanzamiento (precario, tutela 
 
 # Suspensión de lanzamiento (precario, tutela sumaria, derechos reales): art. 1 bis RDL 11/2020
 
-> Formulario 0197 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0197 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

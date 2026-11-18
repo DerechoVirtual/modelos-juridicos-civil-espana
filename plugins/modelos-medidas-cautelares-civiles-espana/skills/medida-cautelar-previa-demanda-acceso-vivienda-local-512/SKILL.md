@@ -5,7 +5,7 @@ description: "Redacta el escrito «Medida cautelar previa a la demanda: acceso a
 
 # Medida cautelar previa a la demanda: acceso a vivienda o local
 
-> Formulario 0512 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 0512 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

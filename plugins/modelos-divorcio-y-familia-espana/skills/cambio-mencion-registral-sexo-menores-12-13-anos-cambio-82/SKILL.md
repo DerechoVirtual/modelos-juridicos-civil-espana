@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cambio de la mención registral del sexo en m
 
 # Cambio de la mención registral del sexo en menores de 12 a 13 años, con cambio de nombre
 
-> Formulario 0082 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0082 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

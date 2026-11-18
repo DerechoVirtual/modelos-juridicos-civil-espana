@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición al monitorio con paso al juicio or
 
 # Oposición al monitorio con paso al juicio ordinario
 
-> Formulario 1025 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 1025 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

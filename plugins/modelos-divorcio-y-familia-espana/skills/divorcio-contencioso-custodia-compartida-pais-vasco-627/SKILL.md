@@ -5,7 +5,7 @@ description: "Redacta el escrito «Divorcio contencioso con custodia compartida 
 
 # Divorcio contencioso con custodia compartida (País Vasco): demanda
 
-> Formulario 0627 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0627 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

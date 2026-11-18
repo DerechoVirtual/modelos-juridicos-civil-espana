@@ -5,7 +5,7 @@ description: "Redacta el escrito «Consignación judicial por reclamación del s
 
 # Consignación judicial por reclamación del subcontratista
 
-> Formulario 0092 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0092 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición en jurisdicción voluntaria con pa
 
 # Oposición en jurisdicción voluntaria con paso a proceso contencioso: modelo general
 
-> Formulario 0670 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0670 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

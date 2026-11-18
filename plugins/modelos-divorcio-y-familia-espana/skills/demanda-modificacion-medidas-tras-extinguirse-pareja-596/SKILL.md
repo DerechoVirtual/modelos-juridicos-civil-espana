@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de modificación de medidas tras exti
 
 # Demanda de modificación de medidas tras extinguirse la pareja de hecho
 
-> Formulario 0596 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0596 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propuesta comercial de servicios de administr
 
 # Propuesta comercial de servicios de administración de fincas
 
-> Formulario 0100 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0100 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

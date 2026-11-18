@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización judicial para vender bienes de 
 
 # Autorización judicial para vender bienes de menores o personas con apoyos
 
-> Formulario 0789 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0789 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

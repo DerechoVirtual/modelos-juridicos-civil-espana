@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a demanda de cantidad por contr
 
 # Contestación a demanda de cantidad por contrato de obra
 
-> Formulario 1149 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1149 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

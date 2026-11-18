@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización para actos sobre bienes comunes
 
 # Autorización para actos sobre bienes comunes ante impedimento o negativa del otro cónyuge
 
-> Formulario 0742 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0742 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

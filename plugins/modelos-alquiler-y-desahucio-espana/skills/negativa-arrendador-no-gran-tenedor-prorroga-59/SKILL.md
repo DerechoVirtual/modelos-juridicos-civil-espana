@@ -5,7 +5,7 @@ description: "Redacta el escrito «Negativa del arrendador no gran tenedor a la 
 
 # Negativa del arrendador no gran tenedor a la prórroga extraordinaria (Ley 12/2023)
 
-> Formulario 0059 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0059 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

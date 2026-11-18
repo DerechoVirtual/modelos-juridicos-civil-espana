@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecución de tasación de costas contra la h
 
 # Ejecución de tasación de costas contra la herencia yacente
 
-> Formulario 1466 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 1466 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

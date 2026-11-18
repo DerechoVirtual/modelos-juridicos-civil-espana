@@ -5,7 +5,7 @@ description: "Redacta el escrito «Denegación de instalación individual de tel
 
 # Denegación de instalación individual de telecomunicaciones
 
-> Formulario 1409 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1409 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

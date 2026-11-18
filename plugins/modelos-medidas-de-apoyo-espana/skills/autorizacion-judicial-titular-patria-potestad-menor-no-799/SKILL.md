@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización judicial para el titular de la 
 
 # Autorización judicial para el titular de la patria potestad menor no emancipado
 
-> Formulario 0799 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0799 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

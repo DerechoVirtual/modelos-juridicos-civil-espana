@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento a la Administración para inclu
 
 # Requerimiento a la Administración para incluir el edificio en un plan de rehabilitación
 
-> Formulario 1362 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1362 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso al arrendador de reparaciones ordinaria
 
 # Aviso al arrendador de reparaciones ordinarias hechas por el arrendatario
 
-> Formulario 1313 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1313 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

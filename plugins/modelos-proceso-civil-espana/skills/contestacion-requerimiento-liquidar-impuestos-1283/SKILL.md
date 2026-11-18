@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación al requerimiento para liquidar 
 
 # Contestación al requerimiento para liquidar impuestos
 
-> Formulario 1283 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1283 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

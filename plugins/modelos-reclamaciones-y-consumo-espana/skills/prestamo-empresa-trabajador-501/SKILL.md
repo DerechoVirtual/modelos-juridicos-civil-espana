@@ -5,7 +5,7 @@ description: "Redacta el escrito «Préstamo de la empresa al trabajador» (form
 
 # Préstamo de la empresa al trabajador
 
-> Formulario 0501 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0501 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

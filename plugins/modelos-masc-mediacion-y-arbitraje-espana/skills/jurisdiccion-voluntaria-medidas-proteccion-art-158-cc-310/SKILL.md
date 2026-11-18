@@ -5,7 +5,7 @@ description: "Redacta el escrito «Jurisdicción voluntaria de medidas de protec
 
 # Jurisdicción voluntaria de medidas de protección del art. 158 CC
 
-> Formulario 0310 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0310 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

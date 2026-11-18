@@ -5,7 +5,7 @@ description: "Redacta el escrito «Parcialidad del testigo: manifestaciones» (f
 
 # Parcialidad del testigo: manifestaciones
 
-> Formulario 1000 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1000 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

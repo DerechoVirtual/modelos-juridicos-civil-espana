@@ -5,7 +5,7 @@ description: "Redacta el escrito «Casación por infracción procesal y vulnerac
 
 # Casación por infracción procesal y vulneración del art. 24 CE (tutela judicial efectiva)
 
-> Formulario 0444 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0444 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

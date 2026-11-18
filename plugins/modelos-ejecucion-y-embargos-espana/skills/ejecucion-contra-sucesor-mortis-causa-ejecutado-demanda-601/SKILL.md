@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecución contra el sucesor mortis causa del
 
 # Ejecución contra el sucesor mortis causa del ejecutado: demanda
 
-> Formulario 0601 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0601 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

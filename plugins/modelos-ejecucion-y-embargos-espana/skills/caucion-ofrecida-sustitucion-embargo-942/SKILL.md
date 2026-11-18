@@ -5,7 +5,7 @@ description: "Redacta el escrito «Caución ofrecida en sustitución del embargo
 
 # Caución ofrecida en sustitución del embargo
 
-> Formulario 0942 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0942 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

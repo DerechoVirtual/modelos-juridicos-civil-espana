@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones del deudor en el incidente de abu
 
 # Alegaciones del deudor en el incidente de abusividad de oficio en el monitorio
 
-> Formulario 0636 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0636 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

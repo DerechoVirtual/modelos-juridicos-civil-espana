@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento al comunero para facilitar obra
 
 # Requerimiento al comunero para facilitar obras exigidas por la Administración
 
-> Formulario 1423 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1423 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

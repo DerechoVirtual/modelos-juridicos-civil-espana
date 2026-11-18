@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a reclamación de cuotas impaga
 
 # Contestación a reclamación de cuotas impagadas por el anterior propietario
 
-> Formulario 1221 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1221 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

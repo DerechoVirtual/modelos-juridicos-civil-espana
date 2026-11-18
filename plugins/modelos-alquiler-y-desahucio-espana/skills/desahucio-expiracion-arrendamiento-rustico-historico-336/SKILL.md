@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desahucio por expiración del arrendamiento r
 
 # Desahucio por expiración del arrendamiento rústico histórico (LARH 1/1992)
 
-> Formulario 0336 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0336 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de acuerdo de junta contrario a 
 
 # Impugnación de acuerdo de junta contrario a la ley o a los estatutos
 
-> Formulario 1334 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1334 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

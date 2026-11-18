@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a demanda arbitral sobre el fon
 
 # Contestación a demanda arbitral sobre el fondo
 
-> Formulario 1481 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1481 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

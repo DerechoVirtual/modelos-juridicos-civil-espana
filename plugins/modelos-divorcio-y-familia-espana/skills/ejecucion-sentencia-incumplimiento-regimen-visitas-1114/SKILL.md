@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecución de sentencia por incumplimiento de
 
 # Ejecución de sentencia por incumplimiento del régimen de visitas
 
-> Formulario 1114 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1114 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

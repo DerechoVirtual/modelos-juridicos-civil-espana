@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la demanda de nulidad por sim
 
 # Contestación a la demanda de nulidad por simulación
 
-> Formulario 0481 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0481 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

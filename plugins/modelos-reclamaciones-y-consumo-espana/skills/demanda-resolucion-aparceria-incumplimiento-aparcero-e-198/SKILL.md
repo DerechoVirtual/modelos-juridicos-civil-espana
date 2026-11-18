@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de resolución de aparcería por incu
 
 # Demanda de resolución de aparcería por incumplimiento del aparcero e indemnización
 
-> Formulario 0198 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0198 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

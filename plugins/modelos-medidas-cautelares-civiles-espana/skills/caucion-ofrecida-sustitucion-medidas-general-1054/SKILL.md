@@ -5,7 +5,7 @@ description: "Redacta el escrito «Caución ofrecida en sustitución de medidas 
 
 # Caución ofrecida en sustitución de medidas (general)
 
-> Formulario 1054 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 1054 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

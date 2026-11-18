@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reconvención en el divorcio o la separación
 
 # Reconvención en el divorcio o la separación contenciosa
 
-> Formulario 0835 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0835 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

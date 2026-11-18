@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cumplimiento del requisito de procedibilidad 
 
 # Cumplimiento del requisito de procedibilidad en litigios de consumo (MASC)
 
-> Formulario 0011 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0011 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

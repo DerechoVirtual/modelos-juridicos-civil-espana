@@ -5,7 +5,7 @@ description: "Redacta el escrito «Muebles y enseres del inmueble: inventario» 
 
 # Muebles y enseres del inmueble: inventario
 
-> Formulario 1259 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1259 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

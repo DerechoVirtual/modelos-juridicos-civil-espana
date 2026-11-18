@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecución de sentencia por crédito revolvin
 
 # Ejecución de sentencia por crédito revolving: demanda
 
-> Formulario 0097 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0097 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

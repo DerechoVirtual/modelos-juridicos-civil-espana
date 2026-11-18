@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso del arrendatario de su nueva dirección
 
 # Aviso del arrendatario de su nueva dirección
 
-> Formulario 1222 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1222 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

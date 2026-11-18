@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización judicial de fecundación post m
 
 # Autorización judicial de fecundación post mortem con material del cónyuge fallecido
 
-> Formulario 0130 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0130 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

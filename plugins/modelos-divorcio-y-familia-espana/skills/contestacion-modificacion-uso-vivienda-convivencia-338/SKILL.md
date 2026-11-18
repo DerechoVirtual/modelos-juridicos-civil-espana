@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la modificación del uso de l
 
 # Contestación a la modificación del uso de la vivienda por convivencia del custodio con un tercero
 
-> Formulario 0338 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0338 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

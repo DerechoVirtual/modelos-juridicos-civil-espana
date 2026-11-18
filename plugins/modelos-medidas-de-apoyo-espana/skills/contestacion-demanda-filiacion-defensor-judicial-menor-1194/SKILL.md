@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a demanda de filiación por def
 
 # Contestación a demanda de filiación por defensor judicial del menor
 
-> Formulario 1194 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1194 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

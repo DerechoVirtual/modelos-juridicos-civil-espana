@@ -5,7 +5,7 @@ description: "Redacta el escrito «Habilitación de edad y defensor judicial pos
 
 # Habilitación de edad y defensor judicial posterior
 
-> Formulario 0651 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0651 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

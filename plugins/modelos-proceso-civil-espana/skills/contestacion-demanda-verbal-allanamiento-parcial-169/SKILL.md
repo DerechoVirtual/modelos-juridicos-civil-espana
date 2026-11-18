@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a demanda verbal con allanamien
 
 # Contestación a demanda verbal con allanamiento parcial
 
-> Formulario 0169 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0169 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

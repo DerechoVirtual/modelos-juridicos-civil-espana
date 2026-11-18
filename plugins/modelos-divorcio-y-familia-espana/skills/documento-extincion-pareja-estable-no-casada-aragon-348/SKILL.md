@@ -5,7 +5,7 @@ description: "Redacta el escrito «Documento de extinción de pareja estable no 
 
 # Documento de extinción de pareja estable no casada (Aragón)
 
-> Formulario 0348 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0348 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

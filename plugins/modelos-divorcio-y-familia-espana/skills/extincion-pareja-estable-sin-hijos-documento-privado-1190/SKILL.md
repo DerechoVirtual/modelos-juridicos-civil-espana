@@ -5,7 +5,7 @@ description: "Redacta el escrito «Extinción de pareja estable sin hijos: docum
 
 # Extinción de pareja estable sin hijos: documento privado
 
-> Formulario 1190 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1190 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a demanda arbitral con reconven
 
 # Contestación a demanda arbitral con reconvención (arbitraje de equidad)
 
-> Formulario 1470 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1470 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

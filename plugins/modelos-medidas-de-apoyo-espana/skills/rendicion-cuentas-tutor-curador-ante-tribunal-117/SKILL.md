@@ -5,7 +5,7 @@ description: "Redacta el escrito «Rendición de cuentas del tutor o curador ant
 
 # Rendición de cuentas del tutor o curador ante el Tribunal
 
-> Formulario 0117 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0117 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

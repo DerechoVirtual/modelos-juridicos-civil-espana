@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición oral contra resolución dictada e
 
 # Reposición oral contra resolución dictada en la comparecencia
 
-> Formulario 0678 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0678 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

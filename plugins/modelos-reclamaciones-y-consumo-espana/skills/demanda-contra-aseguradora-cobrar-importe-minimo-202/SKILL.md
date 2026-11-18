@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contra la aseguradora para cobrar el 
 
 # Demanda contra la aseguradora para cobrar el importe mínimo por incumplimiento del seguro
 
-> Formulario 0202 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0202 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

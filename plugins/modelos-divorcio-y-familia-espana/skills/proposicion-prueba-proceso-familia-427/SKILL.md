@@ -5,7 +5,7 @@ description: "Redacta el escrito «Proposición de prueba en proceso de familia�
 
 # Proposición de prueba en proceso de familia
 
-> Formulario 0427 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0427 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

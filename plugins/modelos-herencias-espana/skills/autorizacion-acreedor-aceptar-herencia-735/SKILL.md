@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización al acreedor para aceptar la her
 
 # Autorización al acreedor para aceptar la herencia
 
-> Formulario 0735 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0735 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

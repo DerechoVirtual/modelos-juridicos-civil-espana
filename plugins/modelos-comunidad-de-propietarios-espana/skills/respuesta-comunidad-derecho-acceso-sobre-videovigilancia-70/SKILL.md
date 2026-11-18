@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta de la comunidad al derecho de acces
 
 # Respuesta de la comunidad al derecho de acceso sobre su videovigilancia
 
-> Formulario 0070 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0070 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

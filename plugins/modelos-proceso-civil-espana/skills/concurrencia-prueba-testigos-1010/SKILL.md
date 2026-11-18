@@ -5,7 +5,7 @@ description: "Redacta el escrito «Concurrencia con la prueba de testigos» (for
 
 # Concurrencia con la prueba de testigos
 
-> Formulario 1010 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1010 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

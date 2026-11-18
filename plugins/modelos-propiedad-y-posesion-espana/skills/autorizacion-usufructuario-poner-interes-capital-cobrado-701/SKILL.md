@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización al usufructuario para poner a i
 
 # Autorización al usufructuario para poner a interés el capital cobrado del crédito vencido
 
-> Formulario 0701 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0701 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

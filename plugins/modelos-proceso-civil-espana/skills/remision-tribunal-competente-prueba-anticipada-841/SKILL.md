@@ -5,7 +5,7 @@ description: "Redacta el escrito «Remisión al tribunal competente de la prueba
 
 # Remisión al tribunal competente de la prueba anticipada practicada
 
-> Formulario 0841 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0841 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Expediente notarial de nombramiento de perito
 
 # Expediente notarial de nombramiento de perito en contrato de seguro
 
-> Formulario 0633 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0633 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

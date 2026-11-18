@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de declaración de indignidad del her
 
 # Demanda de declaración de indignidad del heredero
 
-> Formulario 0330 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0330 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

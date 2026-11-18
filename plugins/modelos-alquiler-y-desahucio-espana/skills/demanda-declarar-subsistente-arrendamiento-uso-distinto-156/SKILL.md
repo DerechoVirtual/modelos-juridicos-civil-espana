@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda para declarar subsistente el arrendam
 
 # Demanda para declarar subsistente el arrendamiento de uso distinto del de vivienda
 
-> Formulario 0156 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0156 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la demanda de desahucio por p
 
 # Contestación a la demanda de desahucio por precario
 
-> Formulario 0073 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0073 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

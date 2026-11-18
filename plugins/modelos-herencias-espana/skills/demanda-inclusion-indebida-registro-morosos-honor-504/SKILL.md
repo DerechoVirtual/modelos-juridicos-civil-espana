@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda por inclusión indebida en registro d
 
 # Demanda por inclusión indebida en registro de morosos (honor)
 
-> Formulario 0504 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0504 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

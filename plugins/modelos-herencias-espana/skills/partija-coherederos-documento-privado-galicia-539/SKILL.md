@@ -5,7 +5,7 @@ description: "Redacta el escrito «Partija de los coherederos en documento priva
 
 # Partija de los coherederos en documento privado (Galicia)
 
-> Formulario 0539 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0539 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

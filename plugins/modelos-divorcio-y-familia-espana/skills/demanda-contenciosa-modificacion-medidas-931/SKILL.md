@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contenciosa de modificación de medid
 
 # Demanda contenciosa de modificación de medidas
 
-> Formulario 0931 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0931 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

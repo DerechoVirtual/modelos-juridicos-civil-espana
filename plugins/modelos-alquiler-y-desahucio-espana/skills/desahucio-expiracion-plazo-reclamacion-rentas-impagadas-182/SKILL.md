@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desahucio por expiración del plazo y reclama
 
 # Desahucio por expiración del plazo y reclamación de rentas impagadas (juicio verbal)
 
-> Formulario 0182 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0182 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

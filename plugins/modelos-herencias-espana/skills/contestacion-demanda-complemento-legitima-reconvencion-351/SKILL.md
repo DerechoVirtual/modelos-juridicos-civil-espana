@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a demanda de complemento de leg
 
 # Contestación a demanda de complemento de legítima con reconvención de nulidad de la partición
 
-> Formulario 0351 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0351 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

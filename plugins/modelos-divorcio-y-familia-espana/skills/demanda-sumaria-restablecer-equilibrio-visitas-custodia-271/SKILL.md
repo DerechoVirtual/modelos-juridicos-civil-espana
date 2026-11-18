@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda sumaria para restablecer el equilibri
 
 # Demanda sumaria para restablecer el equilibrio en visitas o custodia compartida
 
-> Formulario 0271 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0271 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

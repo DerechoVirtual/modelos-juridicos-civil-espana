@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra la diligencia que señala 
 
 # Reposición contra la diligencia que señala vista telemática
 
-> Formulario 0142 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0142 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

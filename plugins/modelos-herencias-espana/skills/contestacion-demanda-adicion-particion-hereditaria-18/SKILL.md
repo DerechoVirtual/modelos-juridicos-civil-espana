@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la demanda de adición a la p
 
 # Contestación a la demanda de adición a la partición hereditaria
 
-> Formulario 0018 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0018 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

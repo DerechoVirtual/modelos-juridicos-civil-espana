@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de aprobación de obras y derrama extrao
 
 # Acta de aprobación de obras y derrama extraordinaria
 
-> Formulario 1441 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1441 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

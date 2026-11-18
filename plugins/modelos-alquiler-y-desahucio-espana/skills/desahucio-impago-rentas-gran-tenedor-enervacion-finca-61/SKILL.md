@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desahucio por impago y rentas del gran tenedo
 
 # Desahucio por impago y rentas del gran tenedor, con enervación (finca urbana)
 
-> Formulario 0061 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0061 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

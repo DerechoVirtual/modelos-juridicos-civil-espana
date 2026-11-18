@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso del arrendatario persona física: extin
 
 # Aviso del arrendatario persona física: extinción por jubilación
 
-> Formulario 0807 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0807 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

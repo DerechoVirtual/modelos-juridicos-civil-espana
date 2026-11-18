@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicación de la comunidad a la Administra
 
 # Comunicación de la comunidad a la Administración
 
-> Formulario 1425 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1425 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

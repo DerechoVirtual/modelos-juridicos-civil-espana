@@ -5,7 +5,7 @@ description: "Redacta el escrito «Arrendamiento para uso distinto de vivienda c
 
 # Arrendamiento para uso distinto de vivienda con garantías
 
-> Formulario 1217 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1217 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

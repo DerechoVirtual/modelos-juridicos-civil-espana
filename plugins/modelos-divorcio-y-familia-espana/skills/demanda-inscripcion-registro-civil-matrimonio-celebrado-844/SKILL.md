@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de inscripción en el Registro Civil 
 
 # Demanda de inscripción en el Registro Civil de matrimonio celebrado en el extranjero
 
-> Formulario 0844 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0844 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

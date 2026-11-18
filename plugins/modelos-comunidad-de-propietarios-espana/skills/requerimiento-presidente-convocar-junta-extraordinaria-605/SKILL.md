@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento al presidente para convocar jun
 
 # Requerimiento al presidente para convocar junta extraordinaria y acordar acciones judiciales
 
-> Formulario 0605 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0605 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

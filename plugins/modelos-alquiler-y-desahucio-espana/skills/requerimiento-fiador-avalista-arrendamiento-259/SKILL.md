@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento al fiador o avalista del arrend
 
 # Requerimiento al fiador o avalista del arrendamiento por incumplimiento del arrendatario
 
-> Formulario 0259 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0259 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

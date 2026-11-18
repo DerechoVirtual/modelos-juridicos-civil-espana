@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de requerimiento para designar contador-
 
 # Acta de requerimiento para designar contador-partidor por acuerdo mayoritario (Galicia)
 
-> Formulario 0541 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0541 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

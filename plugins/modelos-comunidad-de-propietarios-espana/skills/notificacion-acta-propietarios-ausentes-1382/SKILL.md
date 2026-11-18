@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificación del acta a los propietarios aus
 
 # Notificación del acta a los propietarios ausentes
 
-> Formulario 1382 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1382 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de la comunidad contra un propietario
 
 # Demanda de la comunidad contra un propietario para acceder a su vivienda o local
 
-> Formulario 0395 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0395 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

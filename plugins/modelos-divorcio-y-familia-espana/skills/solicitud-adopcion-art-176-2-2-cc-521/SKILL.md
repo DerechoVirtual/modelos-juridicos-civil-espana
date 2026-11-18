@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de adopción (art. 176.2.2.ª CC)»
 
 # Solicitud de adopción (art. 176.2.2.ª CC)
 
-> Formulario 0521 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0521 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

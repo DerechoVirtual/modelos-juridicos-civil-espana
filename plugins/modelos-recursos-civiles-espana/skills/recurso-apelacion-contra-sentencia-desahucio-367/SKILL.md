@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso de apelación contra sentencia de des
 
 # Recurso de apelación contra sentencia de desahucio
 
-> Formulario 0367 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0367 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

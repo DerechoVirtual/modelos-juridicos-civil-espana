@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de ejecución hipotecaria contra here
 
 # Demanda de ejecución hipotecaria contra herencia yacente
 
-> Formulario 0572 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0572 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

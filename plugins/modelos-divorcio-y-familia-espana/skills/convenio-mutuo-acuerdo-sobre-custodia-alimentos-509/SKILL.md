@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convenio de mutuo acuerdo sobre custodia, ali
 
 # Convenio de mutuo acuerdo sobre custodia, alimentos y relaciones con hijo menor y nasciturus
 
-> Formulario 0509 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0509 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

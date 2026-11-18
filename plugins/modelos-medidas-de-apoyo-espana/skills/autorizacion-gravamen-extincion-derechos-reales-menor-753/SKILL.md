@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización de gravamen o extinción de der
 
 # Autorización de gravamen o extinción de derechos reales de menor o persona con apoyos
 
-> Formulario 0753 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0753 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

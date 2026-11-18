@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de nulidad por objeto ilícito y, sub
 
 # Demanda de nulidad por objeto ilícito y, subsidiariamente, vicio del consentimiento
 
-> Formulario 0081 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0081 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

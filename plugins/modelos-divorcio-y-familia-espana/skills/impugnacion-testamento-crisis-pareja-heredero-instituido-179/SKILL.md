@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de testamento por crisis de pare
 
 # Impugnación de testamento por crisis de pareja del heredero instituido (Cataluña)
 
-> Formulario 0179 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0179 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

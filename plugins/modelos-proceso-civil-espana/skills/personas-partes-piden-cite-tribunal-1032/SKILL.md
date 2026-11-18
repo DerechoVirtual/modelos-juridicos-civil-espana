@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personas que las partes piden que cite el tri
 
 # Personas que las partes piden que cite el tribunal
 
-> Formulario 1032 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1032 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otorgamiento de testamento mancomunado cerrad
 
 # Otorgamiento de testamento mancomunado cerrado (Aragón)
 
-> Formulario 0579 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0579 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: cesación inmediata de la actividad�
 
 # Otrosí: cesación inmediata de la actividad
 
-> Formulario 1345 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1345 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

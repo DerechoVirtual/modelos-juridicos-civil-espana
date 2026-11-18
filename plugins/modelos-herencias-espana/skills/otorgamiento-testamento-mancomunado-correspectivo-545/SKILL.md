@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otorgamiento de testamento mancomunado corres
 
 # Otorgamiento de testamento mancomunado correspectivo (Galicia)
 
-> Formulario 0545 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0545 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la sentencia de modificaci�
 
 # Apelación contra la sentencia de modificación de medidas
 
-> Formulario 0472 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0472 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

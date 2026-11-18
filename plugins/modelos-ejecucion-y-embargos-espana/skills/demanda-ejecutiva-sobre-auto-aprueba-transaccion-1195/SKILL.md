@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ejecutiva sobre auto que aprueba una 
 
 # Demanda ejecutiva sobre auto que aprueba una transacción judicial
 
-> Formulario 1195 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1195 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

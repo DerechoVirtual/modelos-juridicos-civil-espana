@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización judicial al curador para demand
 
 # Autorización judicial al curador para demandar en nombre de la persona apoyada
 
-> Formulario 0433 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0433 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

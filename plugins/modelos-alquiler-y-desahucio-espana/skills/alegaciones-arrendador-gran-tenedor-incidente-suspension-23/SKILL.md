@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones del arrendador gran tenedor en el
 
 # Alegaciones del arrendador gran tenedor en el incidente de suspensión del arrendatario
 
-> Formulario 0023 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0023 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

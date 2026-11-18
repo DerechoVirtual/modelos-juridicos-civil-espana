@@ -5,7 +5,7 @@ description: "Redacta el escrito «Informe del guardador de hecho sobre la perso
 
 # Informe del guardador de hecho sobre la persona y los bienes del menor o de la persona con apoyos
 
-> Formulario 0791 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0791 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

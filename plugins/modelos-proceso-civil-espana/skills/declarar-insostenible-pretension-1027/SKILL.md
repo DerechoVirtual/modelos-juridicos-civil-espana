@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declarar insostenible la pretensión» (formu
 
 # Declarar insostenible la pretensión
 
-> Formulario 1027 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1027 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

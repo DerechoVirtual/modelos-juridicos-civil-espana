@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecución de la resolución firme que cierra
 
 # Ejecución de la resolución firme que cierra el expediente de jurisdicción voluntaria
 
-> Formulario 0780 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0780 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

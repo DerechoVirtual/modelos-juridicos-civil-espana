@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de cantidad tras romper la pareja de 
 
 # Demanda de cantidad tras romper la pareja de hecho
 
-> Formulario 0064 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0064 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

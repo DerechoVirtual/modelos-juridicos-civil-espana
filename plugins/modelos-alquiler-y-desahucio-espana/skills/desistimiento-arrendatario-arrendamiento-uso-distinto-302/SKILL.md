@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desistimiento del arrendatario en arrendamien
 
 # Desistimiento del arrendatario en arrendamiento de uso distinto del de vivienda
 
-> Formulario 0302 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0302 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

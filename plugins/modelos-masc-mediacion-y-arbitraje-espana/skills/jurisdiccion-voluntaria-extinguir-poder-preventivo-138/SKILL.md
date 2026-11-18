@@ -5,7 +5,7 @@ description: "Redacta el escrito «Jurisdicción voluntaria para extinguir un po
 
 # Jurisdicción voluntaria para extinguir un poder preventivo
 
-> Formulario 0138 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0138 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

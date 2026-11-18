@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación del arrendatario al requerimien
 
 # Contestación del arrendatario al requerimiento de extinción por jubilación
 
-> Formulario 0813 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0813 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato tipo de arrendamiento de vivienda va
 
 # Contrato tipo de arrendamiento de vivienda vacacional
 
-> Formulario 0255 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0255 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal de cantidad contra herencia ya
 
 # Demanda verbal de cantidad contra herencia yacente
 
-> Formulario 0454 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0454 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

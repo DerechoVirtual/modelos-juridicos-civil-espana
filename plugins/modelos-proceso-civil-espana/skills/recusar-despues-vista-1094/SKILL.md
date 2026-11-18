@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recusar después de la vista» (formulario 10
 
 # Recusar después de la vista
 
-> Formulario 1094 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1094 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

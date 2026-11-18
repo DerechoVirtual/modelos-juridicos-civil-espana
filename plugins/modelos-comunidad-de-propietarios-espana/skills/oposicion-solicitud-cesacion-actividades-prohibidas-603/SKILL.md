@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la solicitud de cesación de act
 
 # Oposición a la solicitud de cesación de actividades prohibidas, dañosas o ilícitas
 
-> Formulario 0603 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0603 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

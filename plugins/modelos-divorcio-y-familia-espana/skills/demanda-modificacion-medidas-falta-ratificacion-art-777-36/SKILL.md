@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de modificación de medidas por falta
 
 # Demanda de modificación de medidas por falta de ratificación (art. 777.3 LEC)
 
-> Formulario 0036 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0036 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Administración de bienes comunes por impedim
 
 # Administración de bienes comunes por impedimento, abandono o separación de hecho
 
-> Formulario 0744 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0744 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

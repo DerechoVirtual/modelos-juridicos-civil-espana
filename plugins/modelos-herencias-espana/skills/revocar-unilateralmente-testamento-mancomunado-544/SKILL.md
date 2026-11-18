@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revocar unilateralmente el testamento mancomu
 
 # Revocar unilateralmente el testamento mancomunado correspectivo (Galicia)
 
-> Formulario 0544 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0544 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

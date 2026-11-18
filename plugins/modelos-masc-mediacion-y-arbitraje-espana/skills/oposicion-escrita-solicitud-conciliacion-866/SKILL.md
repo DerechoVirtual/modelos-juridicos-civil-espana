@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición escrita a la solicitud de concilia
 
 # Oposición escrita a la solicitud de conciliación
 
-> Formulario 0866 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0866 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

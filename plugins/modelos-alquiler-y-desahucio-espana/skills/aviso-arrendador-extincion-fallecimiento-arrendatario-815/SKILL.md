@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso del arrendador: extinción por fallecim
 
 # Aviso del arrendador: extinción por fallecimiento del arrendatario persona física
 
-> Formulario 0815 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0815 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

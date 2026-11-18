@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de modificación de medidas sobre ré
 
 # Demanda de modificación de medidas sobre régimen de visitas
 
-> Formulario 0499 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0499 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

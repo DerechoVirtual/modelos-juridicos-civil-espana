@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apercibimiento al propietario para que su arr
 
 # Apercibimiento al propietario para que su arrendatario cese en actividades molestas
 
-> Formulario 1426 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1426 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

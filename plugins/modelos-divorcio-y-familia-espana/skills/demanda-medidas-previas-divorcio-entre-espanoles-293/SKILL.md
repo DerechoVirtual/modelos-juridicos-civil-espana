@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de medidas previas al divorcio entre 
 
 # Demanda de medidas previas al divorcio entre españoles con traslado de uno a Reino Unido
 
-> Formulario 0293 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0293 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

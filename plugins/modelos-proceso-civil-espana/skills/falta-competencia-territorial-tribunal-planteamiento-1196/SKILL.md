@@ -5,7 +5,7 @@ description: "Redacta el escrito «Falta de competencia territorial del Tribunal
 
 # Falta de competencia territorial del Tribunal: planteamiento
 
-> Formulario 1196 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1196 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

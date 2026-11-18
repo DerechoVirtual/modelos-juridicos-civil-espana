@@ -5,7 +5,7 @@ description: "Redacta el escrito «Decidir un acto concreto en desacuerdo de pro
 
 # Decidir un acto concreto en desacuerdo de progenitores: elección de colegio
 
-> Formulario 0750 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0750 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

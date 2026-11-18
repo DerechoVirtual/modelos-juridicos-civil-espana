@@ -5,7 +5,7 @@ description: "Redacta el escrito «Formalización judicial del arbitraje y desig
 
 # Formalización judicial del arbitraje y designación de árbitros
 
-> Formulario 1474 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1474 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

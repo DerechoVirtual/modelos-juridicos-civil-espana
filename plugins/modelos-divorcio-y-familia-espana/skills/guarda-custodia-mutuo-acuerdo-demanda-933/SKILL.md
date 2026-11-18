@@ -5,7 +5,7 @@ description: "Redacta el escrito «Guarda y custodia de mutuo acuerdo: demanda»
 
 # Guarda y custodia de mutuo acuerdo: demanda
 
-> Formulario 0933 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0933 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

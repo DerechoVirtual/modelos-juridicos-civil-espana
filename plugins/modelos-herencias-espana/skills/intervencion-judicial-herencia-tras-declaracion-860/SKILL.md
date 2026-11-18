@@ -5,7 +5,7 @@ description: "Redacta el escrito «Intervención judicial de la herencia tras la
 
 # Intervención judicial de la herencia tras la declaración de herederos
 
-> Formulario 0860 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0860 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

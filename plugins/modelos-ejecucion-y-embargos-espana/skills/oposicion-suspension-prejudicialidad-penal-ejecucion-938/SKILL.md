@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la suspensión por prejudicialid
 
 # Oposición a la suspensión por prejudicialidad penal en la ejecución de sentencia
 
-> Formulario 0938 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0938 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

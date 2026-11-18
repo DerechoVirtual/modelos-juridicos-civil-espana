@@ -5,7 +5,7 @@ description: "Redacta el escrito «Defensor judicial por conflicto de intereses 
 
 # Defensor judicial por conflicto de intereses con el curador: inicio del expediente
 
-> Formulario 0781 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0781 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

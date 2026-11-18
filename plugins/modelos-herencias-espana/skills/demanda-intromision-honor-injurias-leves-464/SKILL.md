@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda por intromisión en el honor por inju
 
 # Demanda por intromisión en el honor por injurias leves
 
-> Formulario 0464 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0464 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

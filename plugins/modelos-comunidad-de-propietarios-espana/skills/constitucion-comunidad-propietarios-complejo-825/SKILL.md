@@ -5,7 +5,7 @@ description: "Redacta el escrito «Constitución en comunidad de propietarios de
 
 # Constitución en comunidad de propietarios de un complejo inmobiliario privado
 
-> Formulario 0825 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0825 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

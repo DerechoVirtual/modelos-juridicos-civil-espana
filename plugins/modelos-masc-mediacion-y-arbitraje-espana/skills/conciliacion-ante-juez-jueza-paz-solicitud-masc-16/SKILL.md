@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conciliación ante el juez o la jueza de paz:
 
 # Conciliación ante el juez o la jueza de paz: solicitud (MASC)
 
-> Formulario 0016 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0016 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

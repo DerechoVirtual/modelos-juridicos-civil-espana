@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de cantidad por desistimiento del com
 
 # Demanda de cantidad por desistimiento del comitente en contrato de obra
 
-> Formulario 0153 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0153 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

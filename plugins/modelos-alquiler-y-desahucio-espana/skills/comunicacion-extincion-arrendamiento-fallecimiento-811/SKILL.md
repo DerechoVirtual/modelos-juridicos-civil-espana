@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicación de extinción del arrendamiento
 
 # Comunicación de extinción del arrendamiento por fallecimiento del arrendatario persona física
 
-> Formulario 0811 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0811 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convocar la junta constituyente por los propi
 
 # Convocar la junta constituyente por los propietarios
 
-> Formulario 1375 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1375 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

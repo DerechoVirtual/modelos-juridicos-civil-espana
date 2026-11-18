@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de demolición de obra (general)» (f
 
 # Demanda de demolición de obra (general)
 
-> Formulario 0960 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0960 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

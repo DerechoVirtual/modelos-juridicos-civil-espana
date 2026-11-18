@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación del propietario que construyó 
 
 # Contestación del propietario que construyó en zona común
 
-> Formulario 1397 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1397 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

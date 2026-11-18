@@ -5,7 +5,7 @@ description: "Redacta el escrito «Medidas cautelares (general)» (formulario 10
 
 # Medidas cautelares (general)
 
-> Formulario 1040 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 1040 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

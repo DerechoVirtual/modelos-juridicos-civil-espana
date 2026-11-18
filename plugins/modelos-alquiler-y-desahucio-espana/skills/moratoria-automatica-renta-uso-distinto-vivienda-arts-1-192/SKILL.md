@@ -5,7 +5,7 @@ description: "Redacta el escrito «Moratoria automática de renta en uso distint
 
 # Moratoria automática de renta en uso distinto de vivienda (arts. 1 y 2 RDL 35/2020)
 
-> Formulario 0192 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0192 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

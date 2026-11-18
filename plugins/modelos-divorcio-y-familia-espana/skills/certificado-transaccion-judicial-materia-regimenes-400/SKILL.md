@@ -5,7 +5,7 @@ description: "Prepara «Certificado de transacción judicial en materia de regí
 
 # Certificado de transacción judicial en materia de regímenes económicos matrimoniales
 
-> Formulario 0400 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0400 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

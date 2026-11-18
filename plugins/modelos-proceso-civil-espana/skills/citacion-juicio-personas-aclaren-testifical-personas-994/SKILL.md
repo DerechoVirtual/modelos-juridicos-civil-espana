@@ -5,7 +5,7 @@ description: "Redacta el escrito «Citación a juicio de personas que aclaren la
 
 # Citación a juicio de personas que aclaren la testifical de personas jurídicas o entidades públicas
 
-> Formulario 0994 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0994 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

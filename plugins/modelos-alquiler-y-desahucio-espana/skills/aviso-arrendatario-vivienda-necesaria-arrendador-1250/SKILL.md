@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso al arrendatario: vivienda necesaria par
 
 # Aviso al arrendatario: vivienda necesaria para el arrendador o un familiar
 
-> Formulario 1250 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1250 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

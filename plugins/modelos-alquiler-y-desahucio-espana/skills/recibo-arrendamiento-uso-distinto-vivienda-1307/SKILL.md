@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recibo de arrendamiento para uso distinto de 
 
 # Recibo de arrendamiento para uso distinto de vivienda
 
-> Formulario 1307 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1307 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

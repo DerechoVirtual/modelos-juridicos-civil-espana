@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de testamento por desheredación
 
 # Impugnación de testamento por desheredación (acción general)
 
-> Formulario 0213 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0213 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

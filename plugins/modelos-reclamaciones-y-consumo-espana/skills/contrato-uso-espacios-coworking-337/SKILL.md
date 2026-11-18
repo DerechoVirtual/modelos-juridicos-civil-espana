@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato de uso de espacios de coworking» (f
 
 # Contrato de uso de espacios de coworking
 
-> Formulario 0337 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0337 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ejecutiva con ejecución provisional 
 
 # Demanda ejecutiva con ejecución provisional de sentencia de apelación
 
-> Formulario 0885 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0885 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

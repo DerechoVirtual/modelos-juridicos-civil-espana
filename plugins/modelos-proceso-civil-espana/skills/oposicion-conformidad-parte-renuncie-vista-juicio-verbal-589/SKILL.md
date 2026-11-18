@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición o conformidad a que una parte renu
 
 # Oposición o conformidad a que una parte renuncie a la vista en juicio verbal
 
-> Formulario 0589 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0589 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

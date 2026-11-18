@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convenio de divorcio entre españoles residen
 
 # Convenio de divorcio entre españoles residentes en Reino Unido
 
-> Formulario 0313 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0313 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

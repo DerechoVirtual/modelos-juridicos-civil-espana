@@ -5,7 +5,7 @@ description: "Redacta el escrito «Denuncia por el ejecutado de infracciones en 
 
 # Denuncia por el ejecutado de infracciones en los actos de la ejecución
 
-> Formulario 0419 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0419 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cambio de fecha del juicio por enfermedad de 
 
 # Cambio de fecha del juicio por enfermedad de parte o coincidencia de señalamientos
 
-> Formulario 0964 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0964 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

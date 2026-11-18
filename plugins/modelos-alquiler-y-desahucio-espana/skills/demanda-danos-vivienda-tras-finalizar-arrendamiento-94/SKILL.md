@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda por daños en la vivienda tras finali
 
 # Demanda por daños en la vivienda tras finalizar el arrendamiento
 
-> Formulario 0094 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0094 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

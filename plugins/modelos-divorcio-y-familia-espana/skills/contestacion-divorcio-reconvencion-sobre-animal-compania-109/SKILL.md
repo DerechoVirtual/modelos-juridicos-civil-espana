@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación al divorcio con reconvención s
 
 # Contestación al divorcio con reconvención sobre el animal de compañía
 
-> Formulario 0109 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0109 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

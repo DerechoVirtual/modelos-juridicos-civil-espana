@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declinatoria basada en convenio arbitral» (f
 
 # Declinatoria basada en convenio arbitral
 
-> Formulario 0879 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0879 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

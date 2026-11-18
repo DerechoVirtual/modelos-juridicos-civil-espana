@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ordinaria de cantidad por arrendamien
 
 # Demanda ordinaria de cantidad por arrendamiento de servicios
 
-> Formulario 0253 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0253 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

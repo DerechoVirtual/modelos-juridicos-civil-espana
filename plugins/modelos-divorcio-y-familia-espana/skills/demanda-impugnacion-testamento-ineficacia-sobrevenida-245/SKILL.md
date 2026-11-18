@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de impugnación de testamento por ine
 
 # Demanda de impugnación de testamento por ineficacia sobrevenida por divorcio
 
-> Formulario 0245 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0245 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

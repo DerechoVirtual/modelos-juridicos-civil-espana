@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta inicial de mediación familiar» (formul
 
 # Acta inicial de mediación familiar
 
-> Formulario 1513 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1513 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

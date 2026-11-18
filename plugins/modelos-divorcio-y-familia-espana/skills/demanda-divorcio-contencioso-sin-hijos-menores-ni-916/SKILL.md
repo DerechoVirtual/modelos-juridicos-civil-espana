@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de divorcio contencioso sin hijos men
 
 # Demanda de divorcio contencioso sin hijos menores ni con capacidad limitada
 
-> Formulario 0916 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0916 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

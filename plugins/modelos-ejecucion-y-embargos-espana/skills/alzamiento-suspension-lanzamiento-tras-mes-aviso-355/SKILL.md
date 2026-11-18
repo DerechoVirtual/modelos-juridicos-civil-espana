@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzamiento de la suspensión del lanzamiento 
 
 # Alzamiento de la suspensión del lanzamiento tras un mes del aviso de servicios sociales
 
-> Formulario 0355 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0355 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

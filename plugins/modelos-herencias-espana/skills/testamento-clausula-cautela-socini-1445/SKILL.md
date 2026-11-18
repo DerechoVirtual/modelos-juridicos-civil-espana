@@ -5,7 +5,7 @@ description: "Redacta el escrito «Testamento con cláusula de cautela socini» 
 
 # Testamento con cláusula de cautela socini
 
-> Formulario 1445 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 1445 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

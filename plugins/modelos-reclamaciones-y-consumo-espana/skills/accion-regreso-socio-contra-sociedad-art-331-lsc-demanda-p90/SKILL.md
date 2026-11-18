@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acción de regreso del socio contra la socied
 
 # Acción de regreso del socio contra la sociedad (art. 331 LSC): demanda
 
-> Formulario 0090 de la colección de Procesal del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0090 de la colección de Procesal del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

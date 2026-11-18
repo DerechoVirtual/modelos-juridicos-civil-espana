@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de tenencia y cuidado compartido de u
 
 # Demanda de tenencia y cuidado compartido de un animal de compañía
 
-> Formulario 0080 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0080 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

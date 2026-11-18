@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones a la propuesta de requerimiento d
 
 # Alegaciones a la propuesta de requerimiento de pago por cláusulas abusivas
 
-> Formulario 0024 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0024 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

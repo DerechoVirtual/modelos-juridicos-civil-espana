@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: ampliación de la ejecución» (form
 
 # Otrosí: ampliación de la ejecución
 
-> Formulario 1157 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1157 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

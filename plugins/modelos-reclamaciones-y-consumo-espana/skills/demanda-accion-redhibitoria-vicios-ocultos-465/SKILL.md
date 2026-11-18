@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de acción redhibitoria por vicios oc
 
 # Demanda de acción redhibitoria por vicios ocultos
 
-> Formulario 0465 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0465 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

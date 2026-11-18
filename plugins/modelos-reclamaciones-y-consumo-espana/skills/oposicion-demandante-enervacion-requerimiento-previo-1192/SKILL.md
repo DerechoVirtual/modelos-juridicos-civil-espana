@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del demandante a la enervación po
 
 # Oposición del demandante a la enervación por requerimiento previo de pago
 
-> Formulario 1192 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1192 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

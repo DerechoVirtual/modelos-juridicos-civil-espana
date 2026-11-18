@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de nulidad de depósito estructurado�
 
 # Demanda de nulidad de depósito estructurado
 
-> Formulario 0458 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0458 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

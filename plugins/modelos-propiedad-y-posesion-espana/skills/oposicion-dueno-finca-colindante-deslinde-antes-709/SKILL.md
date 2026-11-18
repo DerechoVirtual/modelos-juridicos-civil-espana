@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del dueño de finca colindante al 
 
 # Oposición del dueño de finca colindante al deslinde antes de la comparecencia
 
-> Formulario 0709 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0709 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda por incumplir prestaciones del arrend
 
 # Demanda por incumplir prestaciones del arrendamiento de obra
 
-> Formulario 1151 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1151 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

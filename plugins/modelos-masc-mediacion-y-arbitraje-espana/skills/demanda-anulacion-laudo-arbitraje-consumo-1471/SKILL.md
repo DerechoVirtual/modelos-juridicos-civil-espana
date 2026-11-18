@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de anulación de laudo de arbitraje d
 
 # Demanda de anulación de laudo de arbitraje de consumo
 
-> Formulario 1471 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1471 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

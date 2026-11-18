@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de junta autorizando al presidente a 
 
 # Acuerdo de junta autorizando al presidente a integrarse en un complejo inmobiliario privado
 
-> Formulario 1219 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1219 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

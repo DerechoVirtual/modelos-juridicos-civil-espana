@@ -5,7 +5,7 @@ description: "Redacta el escrito «Plan de relaciones familiares (Aragón)» (fo
 
 # Plan de relaciones familiares (Aragón)
 
-> Formulario 0349 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0349 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

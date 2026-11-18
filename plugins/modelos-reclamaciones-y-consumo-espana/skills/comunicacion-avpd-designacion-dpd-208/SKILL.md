@@ -5,7 +5,7 @@ description: "Prepara «Comunicación a la AVPD de la designación del DPD» (fo
 
 # Comunicación a la AVPD de la designación del DPD
 
-> Formulario 0208 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0208 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

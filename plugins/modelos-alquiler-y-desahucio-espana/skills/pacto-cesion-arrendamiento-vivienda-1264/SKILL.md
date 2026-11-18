@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pacto de cesión del arrendamiento de viviend
 
 # Pacto de cesión del arrendamiento de vivienda
 
-> Formulario 1264 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1264 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

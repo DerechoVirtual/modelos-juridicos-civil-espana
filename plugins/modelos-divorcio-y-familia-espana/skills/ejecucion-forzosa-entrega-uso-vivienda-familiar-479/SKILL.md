@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecución forzosa para la entrega del uso de
 
 # Ejecución forzosa para la entrega del uso de la vivienda familiar
 
-> Formulario 0479 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0479 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

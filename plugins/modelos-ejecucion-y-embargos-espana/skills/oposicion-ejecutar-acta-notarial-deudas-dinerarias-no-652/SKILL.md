@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a ejecutar un acta notarial de deu
 
 # Oposición a ejecutar un acta notarial de deudas dinerarias no contradichas
 
-> Formulario 0652 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0652 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

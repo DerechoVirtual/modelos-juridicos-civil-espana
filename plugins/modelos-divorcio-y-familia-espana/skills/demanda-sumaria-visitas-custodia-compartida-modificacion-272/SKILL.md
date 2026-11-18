@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda sumaria de visitas o custodia compart
 
 # Demanda sumaria de visitas o custodia compartida con modificación de medidas económicas
 
-> Formulario 0272 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0272 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

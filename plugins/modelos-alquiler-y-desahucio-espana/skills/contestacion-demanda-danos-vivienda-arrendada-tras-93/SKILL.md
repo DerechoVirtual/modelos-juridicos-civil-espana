@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la demanda por daños en la v
 
 # Contestación a la demanda por daños en la vivienda arrendada tras el arrendamiento
 
-> Formulario 0093 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0093 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

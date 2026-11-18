@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de petición de herencia» (formulari
 
 # Demanda de petición de herencia
 
-> Formulario 0343 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0343 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

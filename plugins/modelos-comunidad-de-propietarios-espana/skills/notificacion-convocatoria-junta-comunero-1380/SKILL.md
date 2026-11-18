@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificación de convocatoria de junta a un c
 
 # Notificación de convocatoria de junta a un comunero
 
-> Formulario 1380 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1380 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

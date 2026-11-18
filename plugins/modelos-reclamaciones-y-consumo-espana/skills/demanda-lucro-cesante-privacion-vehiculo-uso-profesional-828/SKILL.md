@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de lucro cesante por privación de ve
 
 # Demanda de lucro cesante por privación de vehículo de uso profesional
 
-> Formulario 0828 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0828 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

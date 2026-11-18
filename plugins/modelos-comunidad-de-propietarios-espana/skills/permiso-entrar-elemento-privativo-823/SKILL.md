@@ -5,7 +5,7 @@ description: "Redacta el escrito «Permiso para entrar en un elemento privativo�
 
 # Permiso para entrar en un elemento privativo
 
-> Formulario 0823 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0823 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acción de cesación con devolución de canti
 
 # Acción de cesación con devolución de cantidades cobradas (general)
 
-> Formulario 1033 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1033 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

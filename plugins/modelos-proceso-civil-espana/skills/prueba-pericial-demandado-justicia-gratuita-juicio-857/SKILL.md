@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prueba pericial del demandado con justicia gr
 
 # Prueba pericial del demandado con justicia gratuita en juicio verbal
 
-> Formulario 0857 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0857 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

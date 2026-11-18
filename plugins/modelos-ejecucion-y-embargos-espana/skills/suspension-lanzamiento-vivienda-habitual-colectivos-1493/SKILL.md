@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión del lanzamiento de vivienda habit
 
 # Suspensión del lanzamiento de vivienda habitual de colectivos vulnerables
 
-> Formulario 1493 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1493 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

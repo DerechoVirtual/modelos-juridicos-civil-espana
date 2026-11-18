@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cláusula de custodia compartida de mutuo acu
 
 # Cláusula de custodia compartida de mutuo acuerdo
 
-> Formulario 1444 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1444 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

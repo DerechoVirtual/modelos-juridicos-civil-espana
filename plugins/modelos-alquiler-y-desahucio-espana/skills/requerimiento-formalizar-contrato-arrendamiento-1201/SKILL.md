@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento para formalizar el contrato de 
 
 # Requerimiento para formalizar el contrato de arrendamiento
 
-> Formulario 1201 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1201 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de actuación civil urgente durante
 
 # Solicitud de actuación civil urgente durante el estado de alarma por coronavirus
 
-> Formulario 0308 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0308 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

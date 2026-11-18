@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ineficacia sobrevenida del testamento por pre
 
 # Ineficacia sobrevenida del testamento por premoriencia de los herederos
 
-> Formulario 0210 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0210 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

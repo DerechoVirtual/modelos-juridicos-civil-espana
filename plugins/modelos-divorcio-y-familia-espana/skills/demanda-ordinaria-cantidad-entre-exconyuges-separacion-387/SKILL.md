@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ordinaria de cantidad entre excónyug
 
 # Demanda ordinaria de cantidad entre excónyuges en separación de bienes tras el divorcio
 
-> Formulario 0387 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0387 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

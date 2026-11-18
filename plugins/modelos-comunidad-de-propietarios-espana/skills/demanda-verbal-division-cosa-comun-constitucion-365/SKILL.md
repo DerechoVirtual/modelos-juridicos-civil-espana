@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal de división de cosa común y 
 
 # Demanda verbal de división de cosa común y constitución en propiedad horizontal
 
-> Formulario 0365 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0365 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

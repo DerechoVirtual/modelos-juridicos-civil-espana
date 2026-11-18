@@ -5,7 +5,7 @@ description: "Redacta el escrito «Partija por acuerdo mayoritario protocolizada
 
 # Partija por acuerdo mayoritario protocolizada en escritura (Galicia)
 
-> Formulario 0542 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0542 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

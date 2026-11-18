@@ -5,7 +5,7 @@ description: "Redacta el escrito «Repercusión de obras de reparación al arren
 
 # Repercusión de obras de reparación al arrendatario de vivienda posterior al 9-5-1985
 
-> Formulario 1273 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1273 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propietario pide al presidente que requiera a
 
 # Propietario pide al presidente que requiera a otro el cese de actividades prohibidas
 
-> Formulario 0604 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0604 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

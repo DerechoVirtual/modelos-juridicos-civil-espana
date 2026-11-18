@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convenio regulador de divorcio: modelo genera
 
 # Convenio regulador de divorcio: modelo general
 
-> Formulario 0261 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0261 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

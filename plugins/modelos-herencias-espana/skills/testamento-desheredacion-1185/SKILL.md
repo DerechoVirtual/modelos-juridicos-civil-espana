@@ -5,7 +5,7 @@ description: "Redacta el escrito «Testamento con desheredación» (formulario 1
 
 # Testamento con desheredación
 
-> Formulario 1185 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 1185 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

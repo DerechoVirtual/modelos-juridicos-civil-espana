@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones de disconformidad con la causa de
 
 # Alegaciones de disconformidad con la causa de inadmisión del recurso
 
-> Formulario 1072 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1072 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reconocimiento judicial: proposición en la c
 
 # Reconocimiento judicial: proposición en la comparecencia previa o la vista
 
-> Formulario 0953 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0953 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

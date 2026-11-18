@@ -5,7 +5,7 @@ description: "Redacta el escrito «Proposición de prueba testifical» (formular
 
 # Proposición de prueba testifical
 
-> Formulario 0902 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0902 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

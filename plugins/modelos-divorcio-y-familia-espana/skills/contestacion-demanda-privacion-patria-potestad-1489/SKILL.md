@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a demanda de privación de patr
 
 # Contestación a demanda de privación de patria potestad
 
-> Formulario 1489 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1489 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

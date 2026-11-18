@@ -5,7 +5,7 @@ description: "Redacta el escrito «Devolución de lo consignado pedida por el pr
 
 # Devolución de lo consignado pedida por el promotor
 
-> Formulario 0649 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0649 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

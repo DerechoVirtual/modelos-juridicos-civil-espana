@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificar el acta de la junta de propietario
 
 # Certificar el acta de la junta de propietarios
 
-> Formulario 1234 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1234 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

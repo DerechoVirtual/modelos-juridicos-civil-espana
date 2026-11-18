@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación del valor probatorio de document
 
 # Impugnación del valor probatorio de documento público presentado por vía telemática
 
-> Formulario 0894 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0894 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

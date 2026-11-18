@@ -5,7 +5,7 @@ description: "Redacta el escrito «Casación por interés casacional: normas sin
 
 # Casación por interés casacional: normas sin doctrina jurisprudencial del Tribunal Supremo
 
-> Formulario 0448 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0448 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

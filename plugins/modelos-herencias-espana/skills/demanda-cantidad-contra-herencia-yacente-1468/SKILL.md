@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de cantidad contra herencia yacente»
 
 # Demanda de cantidad contra herencia yacente
 
-> Formulario 1468 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 1468 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

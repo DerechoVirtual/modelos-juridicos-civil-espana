@@ -5,7 +5,7 @@ description: "Redacta el escrito «Escritura de pacto de mejora con entrega de p
 
 # Escritura de pacto de mejora con entrega de presente (Galicia)
 
-> Formulario 0570 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0570 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

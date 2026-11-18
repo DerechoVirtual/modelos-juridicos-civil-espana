@@ -5,7 +5,7 @@ description: "Redacta el escrito «Incidente excepcional de nulidad por defecto 
 
 # Incidente excepcional de nulidad por defecto de emplazamiento telemático
 
-> Formulario 0350 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0350 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

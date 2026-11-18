@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación con reconvención a la modifica
 
 # Contestación con reconvención a la modificación de medidas definitivas
 
-> Formulario 0432 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0432 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

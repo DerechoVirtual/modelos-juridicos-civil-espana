@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud del demandante para que no se celeb
 
 # Solicitud del demandante para que no se celebre vista en juicio verbal
 
-> Formulario 0587 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0587 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

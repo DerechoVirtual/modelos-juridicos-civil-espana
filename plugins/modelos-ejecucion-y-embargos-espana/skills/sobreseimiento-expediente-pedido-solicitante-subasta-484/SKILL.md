@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sobreseimiento del expediente pedido por el s
 
 # Sobreseimiento del expediente pedido por el solicitante de la subasta
 
-> Formulario 0484 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0484 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

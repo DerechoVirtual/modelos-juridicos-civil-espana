@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de resolución de compraventa de veh�
 
 # Demanda de resolución de compraventa de vehículo por falta de conformidad
 
-> Formulario 0044 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0044 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

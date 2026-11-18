@@ -5,7 +5,7 @@ description: "Redacta el escrito «Divorcio de mutuo acuerdo con división de co
 
 # Divorcio de mutuo acuerdo con división de cosa común: demanda (Cataluña)
 
-> Formulario 0201 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0201 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

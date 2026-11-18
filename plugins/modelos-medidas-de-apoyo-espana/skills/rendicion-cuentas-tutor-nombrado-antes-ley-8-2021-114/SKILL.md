@@ -5,7 +5,7 @@ description: "Redacta el escrito «Rendición de cuentas del tutor nombrado ante
 
 # Rendición de cuentas del tutor nombrado antes de la Ley 8/2021
 
-> Formulario 0114 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0114 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación por el ejecutante de la oposici�
 
 # Impugnación por el ejecutante de la oposición a la ejecución de título judicial
 
-> Formulario 0124 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0124 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

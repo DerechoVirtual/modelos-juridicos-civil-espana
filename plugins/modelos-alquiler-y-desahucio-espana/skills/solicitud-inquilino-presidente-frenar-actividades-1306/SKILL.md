@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud del inquilino al presidente para fr
 
 # Solicitud del inquilino al presidente para frenar actividades molestas o prohibidas de un vecino
 
-> Formulario 1306 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1306 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

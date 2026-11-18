@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso de revisión directo contra el decret
 
 # Recurso de revisión directo contra el decreto que resuelve la impugnación de tasación de costas
 
-> Formulario 0194 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0194 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

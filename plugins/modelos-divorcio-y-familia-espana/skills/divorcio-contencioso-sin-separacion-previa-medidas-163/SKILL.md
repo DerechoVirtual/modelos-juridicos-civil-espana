@@ -5,7 +5,7 @@ description: "Redacta el escrito «Divorcio contencioso sin separación previa, 
 
 # Divorcio contencioso sin separación previa, con medidas provisionales y litis expensas
 
-> Formulario 0163 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0163 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

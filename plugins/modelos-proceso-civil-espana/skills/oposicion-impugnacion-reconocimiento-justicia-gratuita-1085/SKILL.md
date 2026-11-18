@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la impugnación del reconocimien
 
 # Oposición a la impugnación del reconocimiento de justicia gratuita
 
-> Formulario 1085 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1085 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

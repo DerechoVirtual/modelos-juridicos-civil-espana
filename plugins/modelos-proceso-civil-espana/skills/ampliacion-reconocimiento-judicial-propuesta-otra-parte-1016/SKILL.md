@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ampliación del reconocimiento judicial propu
 
 # Ampliación del reconocimiento judicial propuesta por la otra parte
 
-> Formulario 1016 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1016 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

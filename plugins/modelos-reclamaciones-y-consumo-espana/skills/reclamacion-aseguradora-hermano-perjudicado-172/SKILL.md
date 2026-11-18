@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamación a la aseguradora del hermano per
 
 # Reclamación a la aseguradora del hermano perjudicado
 
-> Formulario 0172 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0172 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

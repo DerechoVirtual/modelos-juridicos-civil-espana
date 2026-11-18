@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desahucio por expiración del plazo en arrend
 
 # Desahucio por expiración del plazo en arrendamiento para uso distinto de vivienda
 
-> Formulario 1248 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1248 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

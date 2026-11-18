@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recusar a peritos: modelo general» (formular
 
 # Recusar a peritos: modelo general
 
-> Formulario 0868 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0868 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

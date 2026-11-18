@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición al monitorio» (formulario 1327 de
 
 # Oposición al monitorio
 
-> Formulario 1327 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 1327 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acreditación de pago o consignación de cuot
 
 # Acreditación de pago o consignación de cuotas atrasadas para votar
 
-> Formulario 1407 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1407 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

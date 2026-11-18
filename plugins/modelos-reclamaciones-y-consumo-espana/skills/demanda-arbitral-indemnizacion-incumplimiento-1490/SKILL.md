@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda arbitral de indemnización por incump
 
 # Demanda arbitral de indemnización por incumplimiento contractual
 
-> Formulario 1490 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1490 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

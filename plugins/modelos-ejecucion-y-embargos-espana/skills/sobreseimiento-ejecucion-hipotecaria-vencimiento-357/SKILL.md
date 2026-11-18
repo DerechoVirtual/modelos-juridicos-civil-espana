@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sobreseimiento de ejecución hipotecaria por 
 
 # Sobreseimiento de ejecución hipotecaria por vencimiento anticipado abusivo (STJUE 26-3-2019)
 
-> Formulario 0357 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0357 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

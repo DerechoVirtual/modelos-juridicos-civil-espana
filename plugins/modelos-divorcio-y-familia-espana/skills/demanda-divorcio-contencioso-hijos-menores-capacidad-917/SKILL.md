@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de divorcio contencioso con hijos men
 
 # Demanda de divorcio contencioso con hijos menores o con capacidad limitada
 
-> Formulario 0917 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0917 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación del usuario a demanda de cesaci
 
 # Contestación del usuario a demanda de cesación de actividades prohibidas
 
-> Formulario 1403 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1403 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

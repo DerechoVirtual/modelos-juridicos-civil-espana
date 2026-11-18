@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamación de honorarios del abogado a su p
 
 # Reclamación de honorarios del abogado a su propio cliente
 
-> Formulario 1103 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1103 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

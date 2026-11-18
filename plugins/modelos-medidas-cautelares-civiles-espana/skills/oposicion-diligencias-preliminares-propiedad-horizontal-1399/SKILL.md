@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a diligencias preliminares de prop
 
 # Oposición a diligencias preliminares de propiedad horizontal
 
-> Formulario 1399 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026. Uso interno.
+> Formulario 1399 del plugin **Medidas cautelares y diligencias preliminares** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

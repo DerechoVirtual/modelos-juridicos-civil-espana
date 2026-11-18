@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la demanda verbal especial de
 
 # Contestación a la demanda verbal especial de alimentos
 
-> Formulario 0371 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0371 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

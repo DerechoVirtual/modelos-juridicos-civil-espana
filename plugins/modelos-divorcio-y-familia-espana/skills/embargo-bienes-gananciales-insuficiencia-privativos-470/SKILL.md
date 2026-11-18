@@ -5,7 +5,7 @@ description: "Redacta el escrito «Embargo de bienes gananciales por insuficienc
 
 # Embargo de bienes gananciales por insuficiencia de los privativos
 
-> Formulario 0470 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0470 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «El demandado se persona (escrito básico)» (
 
 # El demandado se persona (escrito básico)
 
-> Formulario 1356 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1356 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

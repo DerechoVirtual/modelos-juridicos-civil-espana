@@ -5,7 +5,7 @@ description: "Redacta el escrito «Entrega de llaves con la fianza afecta a las 
 
 # Entrega de llaves con la fianza afecta a las rentas atrasadas
 
-> Formulario 1303 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1303 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

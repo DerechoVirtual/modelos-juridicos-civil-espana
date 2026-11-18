@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ejecutiva con ampliación por nuevos 
 
 # Demanda ejecutiva con ampliación por nuevos plazos (general)
 
-> Formulario 0870 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0870 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

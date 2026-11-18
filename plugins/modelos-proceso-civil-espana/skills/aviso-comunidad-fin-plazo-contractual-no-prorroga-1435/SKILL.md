@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso de la comunidad: fin del plazo contract
 
 # Aviso de la comunidad: fin del plazo contractual y no prórroga
 
-> Formulario 1435 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1435 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

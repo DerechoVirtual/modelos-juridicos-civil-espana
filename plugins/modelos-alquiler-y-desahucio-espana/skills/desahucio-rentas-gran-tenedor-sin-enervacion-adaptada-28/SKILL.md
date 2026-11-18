@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desahucio y rentas del gran tenedor sin enerv
 
 # Desahucio y rentas del gran tenedor sin enervación (adaptada a la Ley 12/2023)
 
-> Formulario 0028 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0028 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

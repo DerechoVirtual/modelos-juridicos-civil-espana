@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso de queja por inadmisión de la casaci
 
 # Recurso de queja por inadmisión de la casación
 
-> Formulario 1063 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1063 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

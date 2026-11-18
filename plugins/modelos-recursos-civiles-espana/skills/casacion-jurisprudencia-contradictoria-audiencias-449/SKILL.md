@@ -5,7 +5,7 @@ description: "Redacta el escrito «Casación por jurisprudencia contradictoria d
 
 # Casación por jurisprudencia contradictoria de Audiencias Provinciales
 
-> Formulario 0449 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0449 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

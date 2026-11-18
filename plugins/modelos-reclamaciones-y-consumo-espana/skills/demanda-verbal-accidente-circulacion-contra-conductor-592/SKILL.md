@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal por accidente de circulación 
 
 # Demanda verbal por accidente de circulación contra conductor, propietario y aseguradora
 
-> Formulario 0592 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0592 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

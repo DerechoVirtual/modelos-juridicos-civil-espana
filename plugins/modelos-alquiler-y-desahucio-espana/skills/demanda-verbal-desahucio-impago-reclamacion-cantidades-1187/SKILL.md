@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal de desahucio por impago y recl
 
 # Demanda verbal de desahucio por impago y reclamación de cantidades de plaza de garaje
 
-> Formulario 1187 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1187 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

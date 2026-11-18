@@ -5,7 +5,7 @@ description: "Redacta el escrito «Modificación de medidas: solicitud» (formul
 
 # Modificación de medidas: solicitud
 
-> Formulario 0785 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0785 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

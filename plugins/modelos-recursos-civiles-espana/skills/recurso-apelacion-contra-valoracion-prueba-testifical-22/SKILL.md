@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso de apelación contra la valoración d
 
 # Recurso de apelación contra la valoración de la prueba testifical
 
-> Formulario 0022 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0022 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

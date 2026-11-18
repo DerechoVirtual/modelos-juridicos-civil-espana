@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mediación en disputas: contrato» (formulari
 
 # Mediación en disputas: contrato
 
-> Formulario 1181 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1181 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desahucio por expiración del plazo del gran 
 
 # Desahucio por expiración del plazo del gran tenedor (adaptada a la Ley 12/2023)
 
-> Formulario 0029 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0029 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

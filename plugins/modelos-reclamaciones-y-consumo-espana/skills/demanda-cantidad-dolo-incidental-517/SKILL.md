@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de cantidad por dolo incidental» (fo
 
 # Demanda de cantidad por dolo incidental
 
-> Formulario 0517 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0517 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del tenedor del título al expedie
 
 # Oposición del tenedor del título al expediente
 
-> Formulario 0691 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0691 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

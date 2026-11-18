@@ -5,7 +5,7 @@ description: "Redacta el escrito «Designación de contador-partidor dativo (art
 
 # Designación de contador-partidor dativo (art. 1057 CC)
 
-> Formulario 0732 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0732 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

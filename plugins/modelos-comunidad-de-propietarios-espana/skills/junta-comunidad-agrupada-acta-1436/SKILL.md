@@ -5,7 +5,7 @@ description: "Redacta el escrito «Junta de comunidad agrupada: acta» (formular
 
 # Junta de comunidad agrupada: acta
 
-> Formulario 1436 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1436 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

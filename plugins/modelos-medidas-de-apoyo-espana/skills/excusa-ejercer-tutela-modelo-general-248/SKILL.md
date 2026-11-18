@@ -5,7 +5,7 @@ description: "Redacta el escrito «Excusa para ejercer la tutela: modelo general
 
 # Excusa para ejercer la tutela: modelo general
 
-> Formulario 0248 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0248 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

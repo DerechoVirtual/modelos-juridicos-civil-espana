@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicación al Juez de la intención de rev
 
 # Comunicación al Juez de la intención de revocar el consentimiento otorgado judicialmente
 
-> Formulario 0756 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0756 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

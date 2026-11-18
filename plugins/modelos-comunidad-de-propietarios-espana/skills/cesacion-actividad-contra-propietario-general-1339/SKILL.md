@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cesación de actividad contra propietario (ge
 
 # Cesación de actividad contra propietario (general)
 
-> Formulario 1339 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1339 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

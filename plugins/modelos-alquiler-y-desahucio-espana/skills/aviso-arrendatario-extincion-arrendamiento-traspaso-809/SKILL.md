@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso al arrendatario: extinción del arrenda
 
 # Aviso al arrendatario: extinción del arrendamiento por traspaso del local de negocio
 
-> Formulario 0809 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0809 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

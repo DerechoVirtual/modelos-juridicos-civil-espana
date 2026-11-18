@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunero pide incluir un punto en el orden de
 
 # Comunero pide incluir un punto en el orden del día
 
-> Formulario 1389 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1389 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

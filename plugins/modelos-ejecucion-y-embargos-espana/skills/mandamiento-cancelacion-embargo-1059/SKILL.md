@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mandamiento de cancelación de embargo» (for
 
 # Mandamiento de cancelación de embargo
 
-> Formulario 1059 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1059 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

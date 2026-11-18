@@ -5,7 +5,7 @@ description: "Redacta el escrito «Testimonio del auto que concede la dispensa d
 
 # Testimonio del auto que concede la dispensa de impedimento matrimonial
 
-> Formulario 0783 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0783 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

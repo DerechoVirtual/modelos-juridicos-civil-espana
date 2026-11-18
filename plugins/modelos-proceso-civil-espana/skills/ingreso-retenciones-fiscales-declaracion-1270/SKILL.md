@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ingreso de retenciones fiscales: declaración
 
 # Ingreso de retenciones fiscales: declaración
 
-> Formulario 1270 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1270 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

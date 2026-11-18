@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud del actor de extensión de efectos 
 
 # Solicitud del actor de extensión de efectos de la sentencia del procedimiento testigo
 
-> Formulario 0033 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0033 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

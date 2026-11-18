@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecución de título judicial extranjero con
 
 # Ejecución de título judicial extranjero conforme al Reglamento (UE) 1215/2012
 
-> Formulario 0397 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0397 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

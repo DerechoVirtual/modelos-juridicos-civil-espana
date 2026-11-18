@@ -5,7 +5,7 @@ description: "Redacta el escrito «Subsanación de defectos u omisiones de la so
 
 # Subsanación de defectos u omisiones de la solicitud
 
-> Formulario 0792 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0792 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

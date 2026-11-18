@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convocatoria de las partes a la sesión infor
 
 # Convocatoria de las partes a la sesión informativa de mediación
 
-> Formulario 1506 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1506 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

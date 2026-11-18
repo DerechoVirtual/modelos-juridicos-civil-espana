@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud del arrendatario de prórroga extra
 
 # Solicitud del arrendatario de prórroga extraordinaria de vivienda habitual (art. 2 RDL 11/2020)
 
-> Formulario 0304 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0304 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

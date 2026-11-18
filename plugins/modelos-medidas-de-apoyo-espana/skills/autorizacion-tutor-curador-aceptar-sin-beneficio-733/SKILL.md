@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización del tutor o curador para acepta
 
 # Autorización del tutor o curador para aceptar sin beneficio de inventario o repudiar herencia
 
-> Formulario 0733 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0733 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

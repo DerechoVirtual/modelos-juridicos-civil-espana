@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión del desahucio de vulnerables sin 
 
 # Suspensión del desahucio de vulnerables sin alternativa habitacional (art. 1 RDL 11/2020)
 
-> Formulario 0196 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0196 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

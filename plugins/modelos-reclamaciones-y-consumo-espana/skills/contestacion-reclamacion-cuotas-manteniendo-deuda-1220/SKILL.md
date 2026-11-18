@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a reclamación de cuotas manten
 
 # Contestación a reclamación de cuotas manteniendo la deuda
 
-> Formulario 1220 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1220 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

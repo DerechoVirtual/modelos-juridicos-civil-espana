@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de gastos no incluidos en la tasació
 
 # Demanda de gastos no incluidos en la tasación de costas (juicio verbal)
 
-> Formulario 0035 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0035 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

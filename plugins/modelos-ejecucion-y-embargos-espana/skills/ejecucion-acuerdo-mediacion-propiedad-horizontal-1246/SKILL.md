@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecución de acuerdo de mediación en propie
 
 # Ejecución de acuerdo de mediación en propiedad horizontal
 
-> Formulario 1246 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1246 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

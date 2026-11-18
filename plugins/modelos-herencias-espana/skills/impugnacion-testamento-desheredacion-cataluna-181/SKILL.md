@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de testamento por desheredación
 
 # Impugnación de testamento por desheredación (Cataluña)
 
-> Formulario 0181 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0181 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

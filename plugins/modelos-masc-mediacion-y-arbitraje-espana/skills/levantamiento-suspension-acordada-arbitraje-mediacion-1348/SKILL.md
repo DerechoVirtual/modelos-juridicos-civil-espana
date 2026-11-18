@@ -5,7 +5,7 @@ description: "Redacta el escrito «Levantamiento de la suspensión acordada para
 
 # Levantamiento de la suspensión acordada para arbitraje o mediación
 
-> Formulario 1348 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1348 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

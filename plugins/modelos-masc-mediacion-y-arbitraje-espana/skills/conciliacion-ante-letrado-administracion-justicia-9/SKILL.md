@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conciliación ante el Letrado de la Administr
 
 # Conciliación ante el Letrado de la Administración de Justicia: solicitud (MASC)
 
-> Formulario 0009 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0009 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

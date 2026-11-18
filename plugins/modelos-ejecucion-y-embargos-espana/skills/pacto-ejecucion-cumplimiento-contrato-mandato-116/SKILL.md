@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pacto de ejecución y cumplimiento de un cont
 
 # Pacto de ejecución y cumplimiento de un contrato de mandato
 
-> Formulario 0116 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0116 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

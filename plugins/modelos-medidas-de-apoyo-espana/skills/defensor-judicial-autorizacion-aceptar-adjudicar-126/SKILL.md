@@ -5,7 +5,7 @@ description: "Redacta el escrito «Defensor judicial y autorización para acepta
 
 # Defensor judicial y autorización para aceptar y adjudicar una herencia
 
-> Formulario 0126 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0126 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

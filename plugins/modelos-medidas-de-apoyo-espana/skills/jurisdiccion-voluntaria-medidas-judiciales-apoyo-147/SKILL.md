@@ -5,7 +5,7 @@ description: "Redacta el escrito «Jurisdicción voluntaria para medidas judicia
 
 # Jurisdicción voluntaria para medidas judiciales de apoyo: curatela
 
-> Formulario 0147 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0147 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunidad agrupada: estatutos» (formulario 1
 
 # Comunidad agrupada: estatutos
 
-> Formulario 1235 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1235 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

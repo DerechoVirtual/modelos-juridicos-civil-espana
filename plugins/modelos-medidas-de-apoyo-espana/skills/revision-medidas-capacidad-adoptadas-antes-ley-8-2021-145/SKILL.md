@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revisión de medidas de capacidad adoptadas a
 
 # Revisión de medidas de capacidad adoptadas antes de la Ley 8/2021: solicitud
 
-> Formulario 0145 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0145 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

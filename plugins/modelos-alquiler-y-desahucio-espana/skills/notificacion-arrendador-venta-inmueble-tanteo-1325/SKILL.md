@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificación del arrendador de venta del inm
 
 # Notificación del arrendador de venta del inmueble para el tanteo del arrendatario
 
-> Formulario 1325 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1325 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

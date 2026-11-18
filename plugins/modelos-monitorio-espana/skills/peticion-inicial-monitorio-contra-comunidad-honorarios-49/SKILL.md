@@ -5,7 +5,7 @@ description: "Redacta el escrito «Petición inicial de monitorio contra la comu
 
 # Petición inicial de monitorio contra la comunidad por honorarios del administrador
 
-> Formulario 0049 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0049 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

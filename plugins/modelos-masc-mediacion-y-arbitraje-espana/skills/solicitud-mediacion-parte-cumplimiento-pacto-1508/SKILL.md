@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de mediación de una parte en cumpl
 
 # Solicitud de mediación de una parte en cumplimiento de pacto de sometimiento
 
-> Formulario 1508 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1508 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

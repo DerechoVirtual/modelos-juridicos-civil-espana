@@ -5,7 +5,7 @@ description: "Redacta el escrito «Renuncia del albacea o prórroga del albaceaz
 
 # Renuncia del albacea o prórroga del albaceazgo
 
-> Formulario 0724 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0724 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

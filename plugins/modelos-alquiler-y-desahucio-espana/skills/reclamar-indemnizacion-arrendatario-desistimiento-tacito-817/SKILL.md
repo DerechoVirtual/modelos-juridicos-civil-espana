@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamar indemnización al arrendatario por d
 
 # Reclamar indemnización al arrendatario por desistimiento tácito pasados seis meses
 
-> Formulario 0817 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0817 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

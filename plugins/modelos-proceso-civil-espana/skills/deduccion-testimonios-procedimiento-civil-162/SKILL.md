@@ -5,7 +5,7 @@ description: "Redacta el escrito «Deducción de testimonios en un procedimiento
 
 # Deducción de testimonios en un procedimiento civil
 
-> Formulario 0162 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0162 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

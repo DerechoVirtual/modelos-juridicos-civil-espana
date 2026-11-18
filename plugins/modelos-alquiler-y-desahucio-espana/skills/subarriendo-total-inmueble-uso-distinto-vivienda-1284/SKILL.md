@@ -5,7 +5,7 @@ description: "Redacta el escrito «Subarriendo total de inmueble (uso distinto d
 
 # Subarriendo total de inmueble (uso distinto de vivienda)
 
-> Formulario 1284 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1284 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

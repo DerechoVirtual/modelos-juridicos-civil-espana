@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de mediación previa a la demanda (
 
 # Solicitud de mediación previa a la demanda (MASC)
 
-> Formulario 0010 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0010 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

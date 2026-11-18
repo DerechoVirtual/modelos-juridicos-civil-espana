@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aprobación judicial del reconocimiento de fi
 
 # Aprobación judicial del reconocimiento de filiación no matrimonial (art. 23.3.c LJV)
 
-> Formulario 0185 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0185 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Disolución judicial de sociedad limitada ins
 
 # Disolución judicial de sociedad limitada instada por los administradores
 
-> Formulario 0802 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0802 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de cumplimiento de contrato por venta
 
 # Demanda de cumplimiento de contrato por venta de cosa ajena
 
-> Formulario 0273 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0273 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

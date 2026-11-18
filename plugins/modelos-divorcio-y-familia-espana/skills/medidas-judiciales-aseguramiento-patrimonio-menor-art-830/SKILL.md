@@ -5,7 +5,7 @@ description: "Redacta el escrito «Medidas judiciales de aseguramiento del patri
 
 # Medidas judiciales de aseguramiento del patrimonio del menor (art. 167 CC)
 
-> Formulario 0830 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0830 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

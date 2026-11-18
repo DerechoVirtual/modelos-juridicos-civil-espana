@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso a propietarios y arrendatarios del inic
 
 # Aviso a propietarios y arrendatarios del inicio de obras
 
-> Formulario 1411 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1411 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

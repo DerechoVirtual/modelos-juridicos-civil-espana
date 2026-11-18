@@ -5,7 +5,7 @@ description: "Redacta el escrito «Medidas por guarda o administración inadecua
 
 # Medidas por guarda o administración inadecuada de bienes de persona con discapacidad
 
-> Formulario 0149 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0149 del plugin **Capacidad y medidas de apoyo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

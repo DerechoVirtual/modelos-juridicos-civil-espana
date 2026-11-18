@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición de los interesados con paso a cont
 
 # Oposición de los interesados con paso a contencioso (plazo para cumplir una obligación)
 
-> Formulario 0764 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0764 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

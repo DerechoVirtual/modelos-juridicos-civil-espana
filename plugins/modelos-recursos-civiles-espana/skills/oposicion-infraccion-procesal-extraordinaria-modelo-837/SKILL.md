@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la infracción procesal extraord
 
 # Oposición a la infracción procesal extraordinaria: modelo general
 
-> Formulario 0837 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0837 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

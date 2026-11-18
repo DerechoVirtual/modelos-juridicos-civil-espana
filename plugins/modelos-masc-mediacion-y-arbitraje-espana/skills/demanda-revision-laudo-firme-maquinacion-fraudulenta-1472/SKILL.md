@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de revisión de laudo firme por maqui
 
 # Demanda de revisión de laudo firme por maquinación fraudulenta
 
-> Formulario 1472 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1472 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

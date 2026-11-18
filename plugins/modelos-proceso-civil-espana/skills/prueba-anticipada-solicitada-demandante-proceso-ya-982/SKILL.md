@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prueba anticipada solicitada por el demandant
 
 # Prueba anticipada solicitada por el demandante con el proceso ya iniciado
 
-> Formulario 0982 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0982 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

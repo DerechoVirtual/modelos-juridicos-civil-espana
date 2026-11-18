@@ -5,7 +5,7 @@ description: "Redacta el escrito «Anotación registral de resolución extranjer
 
 # Anotación registral de resolución extranjera de jurisdicción voluntaria
 
-> Formulario 0769 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0769 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Rechazo del cargo por el perito designado con
 
 # Rechazo del cargo por el perito designado con justa causa
 
-> Formulario 0685 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0685 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

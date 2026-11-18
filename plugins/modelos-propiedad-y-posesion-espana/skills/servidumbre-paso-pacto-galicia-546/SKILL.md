@@ -5,7 +5,7 @@ description: "Redacta el escrito «Servidumbre de paso por pacto (Galicia)» (fo
 
 # Servidumbre de paso por pacto (Galicia)
 
-> Formulario 0546 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0546 del plugin **Propiedad y derechos reales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

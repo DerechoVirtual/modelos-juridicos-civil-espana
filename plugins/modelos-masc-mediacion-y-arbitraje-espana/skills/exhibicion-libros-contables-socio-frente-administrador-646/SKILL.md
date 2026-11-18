@@ -5,7 +5,7 @@ description: "Redacta el escrito «Exhibición de libros contables del socio fre
 
 # Exhibición de libros contables del socio frente al administrador (jurisdicción voluntaria)
 
-> Formulario 0646 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0646 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

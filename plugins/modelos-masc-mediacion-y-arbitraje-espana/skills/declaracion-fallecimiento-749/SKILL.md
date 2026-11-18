@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declaración de fallecimiento» (formulario 7
 
 # Declaración de fallecimiento
 
-> Formulario 0749 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0749 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

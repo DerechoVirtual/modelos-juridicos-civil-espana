@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificación de procedimiento penal en tram
 
 # Certificación de procedimiento penal en tramitación
 
-> Formulario 1081 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1081 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

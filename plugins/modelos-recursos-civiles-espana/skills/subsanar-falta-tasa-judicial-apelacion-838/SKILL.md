@@ -5,7 +5,7 @@ description: "Redacta el escrito «Subsanar la falta de tasa judicial en la apel
 
 # Subsanar la falta de tasa judicial en la apelación
 
-> Formulario 0838 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0838 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

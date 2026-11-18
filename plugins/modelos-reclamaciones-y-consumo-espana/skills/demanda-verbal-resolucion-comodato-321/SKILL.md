@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal de resolución de comodato» (
 
 # Demanda verbal de resolución de comodato
 
-> Formulario 0321 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0321 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnar la transmisión de la vivienda arren
 
 # Impugnar la transmisión de la vivienda arrendada: demanda
 
-> Formulario 0323 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0323 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desahucio de alquiler de temporada por expira
 
 # Desahucio de alquiler de temporada por expiración del término
 
-> Formulario 0475 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0475 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ejecutiva de la división de cosa com
 
 # Demanda ejecutiva de la división de cosa común de finca que fue vivienda familiar
 
-> Formulario 0269 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0269 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

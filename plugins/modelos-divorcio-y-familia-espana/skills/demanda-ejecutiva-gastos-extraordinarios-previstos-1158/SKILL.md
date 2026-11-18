@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ejecutiva de gastos extraordinarios p
 
 # Demanda ejecutiva de gastos extraordinarios previstos en la sentencia de separación o divorcio
 
-> Formulario 1158 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1158 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

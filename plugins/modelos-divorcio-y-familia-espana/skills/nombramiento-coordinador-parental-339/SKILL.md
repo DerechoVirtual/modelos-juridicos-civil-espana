@@ -5,7 +5,7 @@ description: "Redacta el escrito «Nombramiento de coordinador parental» (formu
 
 # Nombramiento de coordinador parental
 
-> Formulario 0339 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0339 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

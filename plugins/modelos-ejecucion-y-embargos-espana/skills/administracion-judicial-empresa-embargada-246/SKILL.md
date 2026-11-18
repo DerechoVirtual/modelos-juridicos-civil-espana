@@ -5,7 +5,7 @@ description: "Redacta el escrito «Administración judicial de empresa embargada
 
 # Administración judicial de empresa embargada
 
-> Formulario 0246 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0246 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

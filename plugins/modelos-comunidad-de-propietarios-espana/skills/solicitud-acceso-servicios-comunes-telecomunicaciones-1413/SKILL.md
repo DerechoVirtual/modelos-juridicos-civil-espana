@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de acceso a servicios comunes de te
 
 # Solicitud de acceso a servicios comunes de telecomunicaciones
 
-> Formulario 1413 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1413 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

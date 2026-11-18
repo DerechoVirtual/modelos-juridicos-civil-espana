@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otrosí: medidas cautelares» (formulario 134
 
 # Otrosí: medidas cautelares
 
-> Formulario 1344 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1344 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

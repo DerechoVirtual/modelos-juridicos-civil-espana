@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones de conformidad con la causa de in
 
 # Alegaciones de conformidad con la causa de inadmisión del recurso
 
-> Formulario 1073 del plugin **Recursos civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1073 del plugin **Recursos civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

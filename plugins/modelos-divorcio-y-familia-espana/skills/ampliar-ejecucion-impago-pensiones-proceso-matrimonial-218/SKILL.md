@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ampliar la ejecución por impago de pensiones
 
 # Ampliar la ejecución por impago de pensiones en proceso matrimonial y embargar bienes
 
-> Formulario 0218 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0218 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la ejecución de título no judi
 
 # Oposición a la ejecución de título no judicial
 
-> Formulario 0947 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0947 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

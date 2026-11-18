@@ -5,7 +5,7 @@ description: "Redacta el escrito «Nulidad parcial del convenio por vicios del c
 
 # Nulidad parcial del convenio por vicios del consentimiento en gananciales, o rescisión por lesión
 
-> Formulario 1451 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1451 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

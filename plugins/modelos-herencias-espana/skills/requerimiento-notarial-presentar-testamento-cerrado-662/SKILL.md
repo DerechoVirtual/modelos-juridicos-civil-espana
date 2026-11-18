@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento notarial para presentar un test
 
 # Requerimiento notarial para presentar un testamento cerrado
 
-> Formulario 0662 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0662 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

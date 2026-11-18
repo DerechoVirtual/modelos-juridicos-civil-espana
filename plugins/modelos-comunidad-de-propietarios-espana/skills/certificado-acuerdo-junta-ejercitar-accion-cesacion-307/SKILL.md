@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificado del acuerdo de la junta de ejerci
 
 # Certificado del acuerdo de la junta de ejercitar la acción de cesación
 
-> Formulario 0307 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0307 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

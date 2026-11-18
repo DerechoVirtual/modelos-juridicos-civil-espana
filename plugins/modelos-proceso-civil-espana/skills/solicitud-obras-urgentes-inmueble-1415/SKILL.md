@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de obras urgentes en el inmueble» 
 
 # Solicitud de obras urgentes en el inmueble
 
-> Formulario 1415 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1415 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

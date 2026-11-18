@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzamiento de la suspensión acordada por pre
 
 # Alzamiento de la suspensión acordada por prejudicialidad civil
 
-> Formulario 1082 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1082 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

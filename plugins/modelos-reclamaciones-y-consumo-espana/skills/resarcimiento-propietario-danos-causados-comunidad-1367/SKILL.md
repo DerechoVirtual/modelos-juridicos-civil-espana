@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resarcimiento del propietario por daños caus
 
 # Resarcimiento del propietario por daños causados por la comunidad
 
-> Formulario 1367 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1367 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

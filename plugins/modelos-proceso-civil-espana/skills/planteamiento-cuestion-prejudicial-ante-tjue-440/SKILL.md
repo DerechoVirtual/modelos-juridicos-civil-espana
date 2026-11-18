@@ -5,7 +5,7 @@ description: "Redacta el escrito «Planteamiento de cuestión prejudicial ante e
 
 # Planteamiento de cuestión prejudicial ante el TJUE
 
-> Formulario 0440 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0440 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

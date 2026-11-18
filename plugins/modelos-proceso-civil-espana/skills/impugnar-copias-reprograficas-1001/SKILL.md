@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnar copias reprográficas» (formulario 
 
 # Impugnar copias reprográficas
 
-> Formulario 1001 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1001 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a demanda de rescisión por les
 
 # Contestación a demanda de rescisión por lesión de la liquidación de gananciales del convenio
 
-> Formulario 1452 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 1452 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

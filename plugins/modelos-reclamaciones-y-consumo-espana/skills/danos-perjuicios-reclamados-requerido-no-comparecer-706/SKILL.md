@@ -5,7 +5,7 @@ description: "Redacta el escrito «Daños y perjuicios reclamados por el requeri
 
 # Daños y perjuicios reclamados por el requerido por no comparecer el solicitante a la conciliación
 
-> Formulario 0706 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0706 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

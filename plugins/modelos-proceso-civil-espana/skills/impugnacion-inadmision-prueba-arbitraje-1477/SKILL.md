@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación de la inadmisión de una prueba 
 
 # Impugnación de la inadmisión de una prueba en el arbitraje
 
-> Formulario 1477 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1477 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Entrega de llaves con desacuerdo en arrendami
 
 # Entrega de llaves con desacuerdo en arrendamiento de uso distinto de vivienda
 
-> Formulario 0553 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0553 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

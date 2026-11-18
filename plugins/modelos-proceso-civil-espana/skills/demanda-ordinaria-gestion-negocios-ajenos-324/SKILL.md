@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ordinaria por gestión de negocios aj
 
 # Demanda ordinaria por gestión de negocios ajenos
 
-> Formulario 0324 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0324 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

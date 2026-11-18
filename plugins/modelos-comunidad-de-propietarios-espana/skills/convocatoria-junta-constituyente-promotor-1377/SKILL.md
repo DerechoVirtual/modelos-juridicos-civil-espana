@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convocatoria de la junta constituyente por el
 
 # Convocatoria de la junta constituyente por el promotor
 
-> Formulario 1377 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1377 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

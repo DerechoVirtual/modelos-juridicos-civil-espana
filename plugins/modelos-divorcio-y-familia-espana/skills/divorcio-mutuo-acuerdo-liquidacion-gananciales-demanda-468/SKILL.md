@@ -5,7 +5,7 @@ description: "Redacta el escrito «Divorcio de mutuo acuerdo con liquidación de
 
 # Divorcio de mutuo acuerdo con liquidación de gananciales: demanda
 
-> Formulario 0468 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0468 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

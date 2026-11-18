@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda verbal de división de cosa común tr
 
 # Demanda verbal de división de cosa común tras divorcio en separación de bienes
 
-> Formulario 0383 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0383 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

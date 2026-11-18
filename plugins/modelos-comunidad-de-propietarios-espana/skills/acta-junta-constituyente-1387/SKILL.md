@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de la junta constituyente» (formulario 
 
 # Acta de la junta constituyente
 
-> Formulario 1387 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 1387 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

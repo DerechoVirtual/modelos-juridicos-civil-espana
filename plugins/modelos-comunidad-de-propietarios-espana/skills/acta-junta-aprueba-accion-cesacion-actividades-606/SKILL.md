@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de la junta que aprueba la acción de ce
 
 # Acta de la junta que aprueba la acción de cesación por actividades prohibidas
 
-> Formulario 0606 del plugin **Propiedad horizontal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0606 del plugin **Propiedad horizontal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

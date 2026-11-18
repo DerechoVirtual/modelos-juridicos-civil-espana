@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de restitución de menor por sustracc
 
 # Demanda de restitución de menor por sustracción internacional
 
-> Formulario 0520 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0520 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

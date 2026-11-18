@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oferta vinculante confidencial como MASC» (f
 
 # Oferta vinculante confidencial como MASC
 
-> Formulario 0008 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 0008 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

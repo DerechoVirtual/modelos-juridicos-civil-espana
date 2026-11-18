@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pacto de subarriendo parcial de vivienda» (f
 
 # Pacto de subarriendo parcial de vivienda
 
-> Formulario 1285 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1285 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

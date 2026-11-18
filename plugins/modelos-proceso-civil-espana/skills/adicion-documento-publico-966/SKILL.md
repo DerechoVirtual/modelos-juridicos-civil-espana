@@ -5,7 +5,7 @@ description: "Redacta el escrito «Adición a un documento público» (formulari
 
 # Adición a un documento público
 
-> Formulario 0966 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0966 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión del lanzamiento de vivienda habit
 
 # Suspensión del lanzamiento de vivienda habitual (Ley 12/2023, derecho a la vivienda)
 
-> Formulario 0058 del plugin **Ejecución civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0058 del plugin **Ejecución civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

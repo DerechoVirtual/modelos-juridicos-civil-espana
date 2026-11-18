@@ -5,7 +5,7 @@ description: "Redacta el escrito «Monitorio: petición» (formulario 1254 de mo
 
 # Monitorio: petición
 
-> Formulario 1254 del plugin **Monitorio y cambiario** · revisado el 17-11-2026. Uso interno.
+> Formulario 1254 del plugin **Monitorio y cambiario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

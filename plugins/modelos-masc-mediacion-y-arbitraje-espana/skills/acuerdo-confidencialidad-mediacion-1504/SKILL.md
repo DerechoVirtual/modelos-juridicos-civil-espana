@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de confidencialidad en la mediación�
 
 # Acuerdo de confidencialidad en la mediación
 
-> Formulario 1504 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026. Uso interno.
+> Formulario 1504 del plugin **Jurisdicción voluntaria, MASC, mediación y arbitraje** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

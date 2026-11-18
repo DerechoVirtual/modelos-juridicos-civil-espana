@@ -5,7 +5,7 @@ description: "Redacta el escrito «Escritura pública de separación o divorcio 
 
 # Escritura pública de separación o divorcio de mutuo acuerdo: solicitud
 
-> Formulario 0659 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0659 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnación por el solicitante de la denegac
 
 # Impugnación por el solicitante de la denegación de justicia gratuita
 
-> Formulario 0404 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0404 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

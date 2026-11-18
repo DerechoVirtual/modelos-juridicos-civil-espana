@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de la comunidad contra un particular 
 
 # Demanda de la comunidad contra un particular para eliminar obra en elemento común
 
-> Formulario 1142 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 1142 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

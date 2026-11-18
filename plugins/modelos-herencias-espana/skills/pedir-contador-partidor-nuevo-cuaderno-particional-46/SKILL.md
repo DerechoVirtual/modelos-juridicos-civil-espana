@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir al contador-partidor un nuevo cuaderno 
 
 # Pedir al contador-partidor un nuevo cuaderno particional adaptado a la sentencia de apelación
 
-> Formulario 0046 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0046 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

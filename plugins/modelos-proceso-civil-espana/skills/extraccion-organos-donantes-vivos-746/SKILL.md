@@ -5,7 +5,7 @@ description: "Redacta el escrito «Extracción de órganos de donantes vivos» (
 
 # Extracción de órganos de donantes vivos
 
-> Formulario 0746 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 0746 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

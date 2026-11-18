@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desahucio y rentas contra arrendatario y fiad
 
 # Desahucio y rentas contra arrendatario y fiador (uso distinto de vivienda)
 
-> Formulario 1279 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1279 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

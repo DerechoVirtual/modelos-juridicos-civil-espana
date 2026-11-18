@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda ordinaria de reducción de legado» (
 
 # Demanda ordinaria de reducción de legado
 
-> Formulario 0325 del plugin **Sucesiones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0325 del plugin **Sucesiones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

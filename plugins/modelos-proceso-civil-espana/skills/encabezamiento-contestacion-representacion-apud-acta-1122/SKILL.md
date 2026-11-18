@@ -5,7 +5,7 @@ description: "Redacta el escrito «Encabezamiento de contestación con represent
 
 # Encabezamiento de contestación con representación apud acta
 
-> Formulario 1122 del plugin **Escritos procesales civiles** · revisado el 17-11-2026. Uso interno.
+> Formulario 1122 del plugin **Escritos procesales civiles** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

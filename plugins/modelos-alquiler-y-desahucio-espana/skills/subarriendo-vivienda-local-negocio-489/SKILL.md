@@ -5,7 +5,7 @@ description: "Redacta el escrito «Subarriendo de vivienda o local de negocio» 
 
 # Subarriendo de vivienda o local de negocio
 
-> Formulario 0489 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0489 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Compraventa de bien tronquero con llamamiento
 
 # Compraventa de bien tronquero con llamamiento previo (País Vasco)
 
-> Formulario 0584 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0584 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

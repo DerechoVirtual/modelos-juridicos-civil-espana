@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda para pasar de custodia compartida a c
 
 # Demanda para pasar de custodia compartida a custodia individual
 
-> Formulario 0020 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0020 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

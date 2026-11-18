@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso del arrendatario de rebaja de renta por
 
 # Aviso del arrendatario de rebaja de renta por obras de conservación
 
-> Formulario 1316 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026. Uso interno.
+> Formulario 1316 del plugin **Arrendamientos y desahucio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

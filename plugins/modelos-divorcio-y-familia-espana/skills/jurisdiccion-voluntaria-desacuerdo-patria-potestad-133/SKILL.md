@@ -5,7 +5,7 @@ description: "Redacta el escrito «Jurisdicción voluntaria por desacuerdo en la
 
 # Jurisdicción voluntaria por desacuerdo en la patria potestad: vacunación COVID
 
-> Formulario 0133 del plugin **Familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0133 del plugin **Familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

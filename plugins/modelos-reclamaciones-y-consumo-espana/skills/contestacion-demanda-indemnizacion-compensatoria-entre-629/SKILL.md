@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación a la demanda de indemnización 
 
 # Contestación a la demanda de indemnización compensatoria entre convivientes
 
-> Formulario 0629 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026. Uso interno.
+> Formulario 0629 del plugin **Contratos, consumo y responsabilidad civil** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 
