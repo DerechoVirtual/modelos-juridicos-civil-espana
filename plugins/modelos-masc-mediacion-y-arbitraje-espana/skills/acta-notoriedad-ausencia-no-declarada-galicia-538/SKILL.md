@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -51,7 +51,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -59,3 +59,62 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0538 · Acta de notoriedad de ausencia no declarada (Galicia)
+
+- Año del modelo: 2016
+- Revisión 17-11-2026: 8 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+En [LUGAR], a [FECHA].
+
+ANTE MI, Notario del Ilustre Colegio de [COLEGIO], con residencia en [COMPLETAR],
+
+COMPARECE
+
+D/Dña. [NOMBRE Y APELLIDOS], mayor de edad, vecino/a de [COMPLETAR], con domicilio en Exhibe DNI/NIF
+
+Sujeto/a al Derecho civil de Galicia.
+
+Intervienen en su propio nombre y derecho.
+
+Juicio Notarial: Tiene a mi juicio capacidad e interés legítimo para este requerimiento.
+
+Objeto: El compareciente me requiere a mí, el Notario, para acreditar por notoriedad la situación de ausencia no declarada de su cónyuge, Dña/D
+
+EXPONE
+
+Que Dña/D, se encuentra en paradero desconocido desde el [FECHA], siendo que no puede localizarse de ninguna manera (breve exposición del modo de la desaparición/y de los intentos de localización de la persona).
+
+Que el/la compareciente, D./Dña. [NOMBRE Y APELLIDOS] es el cónyuge no separado legalmente o de hecho (o el descendiente mayor de edad y al ascendientes, por este orden) en la fecha de desaparición.
+
+Que el ausente no ha previsto nada para esta situación, ni ha dejado nombrado representante ni firmado poder, y existen actos y negocios jurídicos de administración ordinaria que no puedan demorarse.
+
+Que en atención al art. 48 de la Ley 2/2006, de 14 de junio, de Derecho civil de Galicia corresponde al cónyuge no separado legalmente o de hecho (o a los descendientes mayores de edad y a los ascendientes, por este orden) la representación del ausente de hecho en todos los actos y negocios jurídicos de administración ordinaria que no puedan demorarse y la obligación de velar por los intereses de éste.
+
+Siendo lícito el objeto y fin de este requerimiento es aceptado por mí, el Notario, que cumplo en este mismo acto.
+
+Prueba de confesión: Propone con tal carácter la exposición que antecede.
+
+Prueba documental: Certificado de matrimonio del requirente.
+
+Numero
+
+ACTA DE NOTORIEDAD. CONCLUSIÓN
+
+Yo, Notario hago constar:
+
+Que en acta autorizada por mí el, número, se me requirió para lo que consta en la misma.
+
+Que en el instrumento de referencia se practicaron las pruebas pertinentes.
+
+Declaración de Notoriedad: Practicadas las pruebas referidas y siendo, a mi juicio, suficientes y satisfactorias, yo, el Notario, declaro por notoriedad el hecho de que D/Dña. [NOMBRE Y APELLIDOS] está en situación de ausencia no declarada, siendo que Dña./D será su representante a los efectos del art. 48 de la LDCG.
+
+Dejo nota en la matriz referenciada de haberse concluido positivamente lo requerido.
+
+========================================================================

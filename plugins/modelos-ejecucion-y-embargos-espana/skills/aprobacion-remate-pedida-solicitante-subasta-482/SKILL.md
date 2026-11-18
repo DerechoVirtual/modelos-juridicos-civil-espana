@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -55,7 +55,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -63,3 +63,36 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0482 · Aprobación del remate pedida por el solicitante de la subasta
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 9 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Escrito del solicitante de la subasta interesando la aprobación del remate, tras dictado de diligencia de ordenación por la que no cubriendo la puja el tipo mínimo que hubiera fijado el solicitante, habiéndose reservado el mismo expresamente el derecho a aprobarla o, habiendo efectuado el licitador oferta de aceptar el remate modificando algunas de las condiciones, se confiere vista del expediente para que en el término de tres días pida lo que le interese.
+
+Formulario adaptado a la reforma procesal de la LO 1/2025.
+
+AL TRIBUNAL
+
+Don/Doña [NOMBRE Y APELLIDOS], Procurador/a de los Tribunales y de Don/Doña [NOMBRE Y APELLIDOS], según tengo acreditado en autos de subasta voluntaria judicial n.º [Nº]/[AÑO], ante el Tribunal comparezco y como mejor proceda en Derecho, DIGO:
+
+Que habida cuenta que la licitación más alta ofertada por los licitadores concurrentes resultó ser inferior al importe mínimo de licitación fijado por mi mandante para su aprobación en el pliego de condiciones particulares de la subasta celebrada [COMPLETAR]), mediante diligencia de ordenación de fecha [FECHA] se nos confirió traslado al objeto de pronunciarnos en el plazo de tres días en relación a su aprobación o el sobreseimiento del expediente, lo que verificamos a través del presente escrito en el sentido de interesar la aprobación del remate [COMPLETAR]).
+
+Por lo expuesto, conforme a lo dispuesto en el art. 111.6 LJV,
+
+SUPLICO AL TRIBUNAL:
+
+Que teniendo por presentado este escrito, se sirva unirlo al expediente de su referencia y dictar decreto aprobando el remate en favor del licitador Don/Doña [NOMBRE Y APELLIDOS] por el importe de [IMPORTE] euros [COMPLETAR].
+
+Por ser de Justicia que pido en [LUGAR], a [FECHA].
+
+Firma de Abogado/a	Firma de Procurador/a
+
+========================================================================

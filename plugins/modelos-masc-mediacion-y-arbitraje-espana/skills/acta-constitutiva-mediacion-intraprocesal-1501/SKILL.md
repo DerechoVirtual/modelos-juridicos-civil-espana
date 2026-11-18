@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -57,7 +57,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -65,3 +65,62 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1501 · Acta constitutiva de mediación intraprocesal
+
+- Año del modelo: 2014
+- Revisión 17-11-2026: 27 campos de relleno marcados en blanco; 5 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Parte
+EXPONEN
+Firmas
+
+Formulario adaptado a la reforma procesal de la LO 1/2025.
+
+ACTA CONSTITUTIVA DE LA MEDIACIÓN
+
+D. [NOMBRE Y APELLIDOS], mayor de edad, con DNI [DNI/NIE], y domiciliado en [COMPLETAR], C.P., calle., núm. [Nº], piso [COMPLETAR], letra [COMPLETAR], dirección electrónica [COMPLETAR], y teléfono [TELÉFONO].
+
+Y D. [NOMBRE Y APELLIDOS], mayor de edad, con DNI [DNI/NIE], y domiciliado en [COMPLETAR], C.P., calle [CALLE], núm. [Nº], piso [COMPLETAR], letra [COMPLETAR], dirección electrónica [COMPLETAR], y teléfono [TELÉFONO],
+
+EXPONEN
+
+1) Que ostentan la condición de demandante y demandado, respectivamente, en el proceso civil número [NÚMERO], seguido en la Sección Civil del Tribunal de Instancia de [SEDE], que actualmente se encuentra en la fase [COMPLETAR].
+
+2) Que tienen la intención de resolver el conflicto por vía extrajudicial y aceptan desarrollar la mediación para la resolución del conflicto planteado en el proceso antes expresado dentro de los siguientes términos:
+
+I. DESIGNACIÓN DE MEDIADOR: Ambas partes de común acuerdo designan como mediador a D. [NOMBRE Y APELLIDOS], [COMPLETAR]
+
+II. OBJETO DEL CONFLICTO QUE SE SOMETE A MEDIACIÓN: Que el conflicto que se somete a mediación es el planteado en el proceso [COMPLETAR], antes expresado, esto es, determinar si D. [NOMBRE Y APELLIDOS], en su condición de vendedor, responde de los vicios apreciados en la vivienda adquirida por D. [NOMBRE Y APELLIDOS], reclamándose la cantidad de [IMPORTE] euros.
+
+III. PROGRAMA DE ACTUACIONES Y DURACIÓN MÁXIMA DEL PROCEDIMIENTO:
+
+El programa de actuaciones comprenderá las sesiones de mediación que pudieran ser necesarias [COMPLETAR] a criterio del mediador, en atención al principio de flexibilidad [COMPLETAR] y al principio de bilateralidad
+
+Las partes acuerdan que el plazo de duración máxima del procedimiento de mediación será de dos meses a contar desde la firma del presente documento.
+
+IV. COSTE DE LA MEDIACIÓN. El coste de la mediación se dividirá por igual entre las partes firmantes, y se abonará a la finalización del procedimiento.
+
+El coste de la mediación incluirá los honorarios del mediador a razón de [IMPORTE] euros por sesión, con una cifra máxima de [IMPORTE] euros.
+
+V. ACEPTACIÓN Y ASUNCIÓN DE OBLIGACIONES: Las partes declaran haber sido informadas acerca de las características básicas de la mediación, Y manifiestan su voluntad de participar en la mediación y asumir las obligaciones que de ella se deriven, y tanto las partes, como el mediador se comprometen a aceptar y cumplir estos principios básicos.
+
+Las partes solicitarán de mutuo acuerdo la suspensión del proceso pendiente, formalizándose en este momento el correspondiente escrito.
+
+Cualquiera de las partes está facultada a instar la reanudación del proceso si finaliza la mediación por cualquier causa.
+
+VI: LUGAR DE CELEBRACIÓN Y LENGUA DEL PROCEDIMIENTO: Que ambas partes convienen que la mediación se desarrolle en [COMPLETAR] y que el idioma en el que se sustanciará el procedimiento será el castellano.
+
+Y para que así conste, se extiende esta acta con un ejemplar para cada una de les partes, a uno solo efecto, al lugar y fecha indicados.
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Firmas de las partes y del mediador
+
+========================================================================

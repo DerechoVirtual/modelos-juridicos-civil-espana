@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -51,7 +51,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -59,3 +59,40 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0648 · Notificación a la sociedad de la solicitud previa de disolución judicial
+
+- Año del modelo: 2015
+- Revisión 17-11-2026: 10 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Formulario adaptado a la reforma procesal de la LO 1/2025.
+
+AL CONSEJO DE ADMINISTRACIÓN DE LA SOCIEDAD [COMPLETAR]
+
+D. [NOMBRE Y APELLIDOS], mayor de edad, actuando en mi propio nombre y en mi condición de socios de la sociedad [COMPLETAR], por medio del presente escrito, de conformidad a lo dispuesto en el art. 362 y siguientes de la Ley de Sociedades de Capital, por medio del presente escrito SOLICITO LA DISOLUCIÓN DE LA SOCIEDAD en base a los hechos y a los efectos que seguidamente
+
+EXPONGO
+
+La Sociedad [COMPLETAR] fue constituida en fecha [FECHA] de [COMPLETAR] de [COMPLETAR], siendo su objeto social [COMPLETAR]
+
+Al menos desde el año [COMPLETAR] la Sociedad no tiene ninguna actividad, habiendo transcurrido en exceso el plazo de un año presuntivo del cese de la actividad.
+
+Concurre la causa de disolución de cese de actividad establecida en el art. 363.1.a) de la Ley de Sociedades de Capital, lo cual además está produciendo grave perjuicio a los socios, puesto que los bienes de la sociedad se van a ver perjudicados por el continuo aumento de gastos sin que exista actividad alguna generadora de ingresos.
+
+Que, atendido lo anterior y en mi condición de socio, les requiero para que convoquen inmediatamente la junta general para adoptar, en su caso, el acuerdo de disolución, conforme previene el art. 365 de la Ley de Sociedades de Capital.
+
+Que, de no convocarse la Junta, les notifico que acudiré a la Sección de lo Mercantil del Tribunal de Instancia competente para instar la disolución judicial de la sociedad, tal como me autoriza el art. 117 de la Ley de Jurisdicción Voluntaria, reservándome en todo caso las acciones que me corresponden para exigir la responsabilidad de los administradores.
+
+Por lo expuesto, les requiero a la disolución de la sociedad [COMPLETAR] por causa legal de cese de actividad, comunicándoles que, caso de no atender el requerimiento, iniciaré las acciones judiciales para la disolución de la sociedad.
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+(Firma socio)
+
+========================================================================

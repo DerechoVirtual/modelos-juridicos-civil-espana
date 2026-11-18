@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -53,7 +53,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -61,3 +61,22 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1000 · Parcialidad del testigo: manifestaciones
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 1 citas normativas corregidas tras comprobarlas en el BOE; 4 campos de relleno marcados en blanco; 2 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Con la venía de S.S.ª:
+
+Para hacer constar que el testigo D. [NOMBRE Y APELLIDOS], que acaba de manifestar que no le comprenden las generales de la Ley, ha omitido señalar que esta persona está actuando como demandante en el juicio [COMPLETAR] n.º [NÚMERO] tramitado ante la Sección Civil del Tribunal de Instancia de [SEDE], plaza n.º [NOTA DE REVISIÓN: El Tribunal de Instancia es único por partido judicial (art. 84.1 LOPJ); lo que se numera es la plaza dentro de la Sección (DT 1.ª LO 1/2025). En escritos iniciales (demanda, solicitud, petición monitoria) no se indica plaza: «…DEL TRIBUNAL DE INSTANCIA DE [partido]», para reparto. Fuente: LOPJ art. 84.1-2 (redacc. LO 1/2025, BOE-A-2025-76; consolidado BOE-A-1985-12666) y LO 1/2025 DT 1.ª (plazas con la numeración del juzgado de procedencia).] [COMPLETAR] en que, al igual que en el caso que nos ocupa, se está reclamando una indemnización por los daños sufridos en las caravanas que se encontraban aparcadas en el local siniestrado. Aunque no parece que entre el demandante D. [NOMBRE Y APELLIDOS] y el testigo D. existan especiales relaciones de amistad, sí es cierto que ambos eran titulares de vehículos que resultaron afectados por el incendio de la nave, y por lo tanto ambos están demandando por el mismo concepto a las mismas personas.
+
+Así las cosas entendemos que se le debe interrogar nuevamente con relación al posible interés que puede tener en que se estime la presente demanda para que opere efectos favorables en su propia reclamación.
+
+========================================================================

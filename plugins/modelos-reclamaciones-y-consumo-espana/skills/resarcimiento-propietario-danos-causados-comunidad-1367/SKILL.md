@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -52,7 +52,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -60,3 +60,40 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1367 · Resarcimiento del propietario por daños causados por la comunidad
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 5 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (IMPORTE)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+A la atención de:
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+Presidente de la Comunidad de Propietarios de [COMPLETAR]
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Muy Sr. mío:
+
+En su calidad de representante de la Comunidad de Propietarios de [COMPLETAR], de la que formo parte, me dirijo a Ud. para exponerle la siguiente petición:
+
+Para facilitar la instalación de se ha. Según informe que adjunto, la causa de es la obra en los elementos comunes citados, y el valor de asciende a [IMPORTE] euros. Así las cosas, les ruego que en el plazo de días procedan a.
+
+Igualmente y como consecuencia de la ejecución de estas obras, me vi obligado a pernoctar noches fuera de mi vivienda. Adjunto copia de las facturas de los gastos que ello me ocasionó y que intereso que me sea reembolsado.
+
+En caso de no atender a esta petición me vería obligado a acudir a la vía judicial.
+
+A la espera de sus noticias, reciba un saludo.
+
+Firmado: Recibí:
+
+========================================================================

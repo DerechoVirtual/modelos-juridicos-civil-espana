@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -47,7 +47,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -55,3 +55,44 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1393 · Estatuto privativo del título constitutivo
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 11 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+RÉGIMEN DE COMUNIDAD:
+
+La Comunidad en la que se integra el [COMPLETAR] objeto de esta escritura y los demás elementos que componen en inmueble en el que se ubica se regirán por la Ley de Propiedad Horizontal, por el Código Civil y la Ley Hipotecaria y por las reglas siguientes:
+
+ELEMENTOS COMUNES
+
+Primera.— Son elementos comunes del inmueble los que se destinen o puedan destinarse al uso y disfrute común de sus ocupantes tales como suelo, vuelo, cimentaciones, pasos, pasillo, portal, escaleras, fachadas, patios de luces, cubiertas, conducciones de agua, luz, energía eléctrica, comunicaciones telefónicas o telemáticas, hasta la entrada en elementos independientes, etc, y son elementos propios los que sirven únicamente a la finca de que se trata tales como puertas, tabiques interiores, suelo, cielo raso, etc.
+
+(En su caso) Constituye elementos comunes de uso privativo [COMPLETAR].
+
+Segunda.— La cuota de participación asignada a cada piso o local del inmueble servirá para fijar la contribución de cada titular a los gastos comunes y a todos los beneficios o cargas que de asuman, [COMPLETAR] con las siguientes excepciones:
+
+1.º Los dueños de los locales quedan excluidos de contribución a los gastos de [COMPLETAR]. Cuando existan estos gastos la contribución del resto de los titulares se hará [COMPLETAR].
+
+2.º Cuando se aprueben gastos relativos a [DESCRIBIR], la cuota de participación será de [COMPLETAR].
+
+Tercera.— Los titulares de elementos independientes podrán por sí solos realizar operaciones de agrupación, agregación, segregación, división, subdivisión permitidas por la ley y con los permisos y licencias administrativos correspondientes, sin que ello altere la estructura externa del edificio ni disminuya su seguridad. En estos casos, la cuota de participación del elemento o los elementos resultantes se fijará por suma o distribución de los que tenían asignados.
+
+Cuarta.— Los comuneros podrán realizar obras en su parte privativa siempre que no afecten al resto del inmueble.
+
+Se requerirá el consentimiento previo de la Comunidad por mayoría de para la ejecución de obras que afecten o puedan afectar a [COMPLETAR].
+
+En concreto, en los locales de negocio sin necesidad de aprobación por la Comunidad de Propietarios se podrán realizar las obras siguientes: [COMPLETAR].
+
+Quinta.— En las plazas de garaje [COMPLETAR] se permite el cerramiento por cada uno de sus titulares.
+
+Sexta.— [COMPLETAR].
+
+========================================================================

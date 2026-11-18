@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -59,7 +59,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -67,3 +67,57 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1509 · Acuerdo de mediación alcanzado en ejecución de sentencia
+
+- Año del modelo: 2014
+- Revisión 17-11-2026: 1 citas normativas corregidas tras comprobarlas en el BOE; 22 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Fecha
+Exposición de las partes
+ACUERDO
+Firmas
+
+Formulario adaptado a la reforma procesal de la LO 1/2025.
+
+ACUERDO DE MEDIACIÓN
+
+En la ciudad de [COMPLETAR], a [COMPLETAR] de [COMPLETAR], de [COMPLETAR]
+
+EXPONEN:
+
+Que han seguido procedimiento de mediación ajustado a las previsiones de la Ley 5/2012, de 6 de julio, con intervención del mediador D. [NOMBRE Y APELLIDOS], y habiendo finalizado el mismo han alcanzado el siguiente
+
+ACUERDO
+
+El objeto de la mediación ha sido el conflicto derivado de la ejecución de la reparación de la fachada del inmueble sito en [LOCALIDAD], y titularidad del ejecutante, a que venía obligado el ejecutado por sentencia firme de fecha [FECHA] de [COMPLETAR], de [COMPLETAR], de la que dimana el proceso de ejecución número [NÚMERO] seguido ante la Sección Civil del Tribunal de Instancia de [SEDE], plaza n.º [NOTA DE REVISIÓN: El Tribunal de Instancia es único por partido judicial (art. 84.1 LOPJ); lo que se numera es la plaza dentro de la Sección (DT 1.ª LO 1/2025). En escritos iniciales (demanda, solicitud, petición monitoria) no se indica plaza: «…DEL TRIBUNAL DE INSTANCIA DE [partido]», para reparto. Fuente: LOPJ art. 84.1-2 (redacc. LO 1/2025, BOE-A-2025-76; consolidado BOE-A-1985-12666) y LO 1/2025 DT 1.ª (plazas con la numeración del juzgado de procedencia).]
+
+Ambas partes, a la vista de la problemática planteada en la ejecución de esta obligación de hacer, convienen la novación de la misma, la cual será sustituida íntegramente por el pago de la cantidad de [IMPORTE] euros por parte del ejecutado, en los plazos que se expresan a continuación.
+
+En consecuencia, el EJECUTADO se compromete a abonar al EJECUTANTE la cantidad de [IMPORTE] euros en los siguientes plazos:
+
+1.- Primer plazo por importe de [IMPORTE] euros, con vencimiento el día [FECHA] de [COMPLETAR]
+
+2.- Segundo plazo por importe de [IMPORTE] euros, con vencimiento el día [FECHA] de [COMPLETAR]
+
+3.- Tercer plazo por importe de [IMPORTE] euros, con vencimiento el día [FECHA] de [COMPLETAR]
+
+Dichas cantidades serán satisfechas en la cuenta número [NÚMERO], titularidad del EJECUTANTE, con anterioridad a la fecha de su respectivo vencimiento.
+
+El incumplimiento de cualquiera de los plazos supondrá el vencimiento de la totalidad de la obligación.
+
+Como consecuencia de lo convenido en este acto, las partes se obligan a dar órdenes a sus respectivos representantes procesales para que, de mutuo acuerdo, soliciten de mutuo acuerdo la homologación del presente acuerdo de mediación, asumiendo cada una de las partes los costes derivados del proceso de ejecución.
+
+Ambas partes manifiestan que han quedado advertidas por el mediador de que el presente acuerdo es vinculante y que pueden solicitar su homologación del tribunal de la ejecución.
+
+A los efectos de formalización del acuerdo de mediación, se firma el presente acuerdo en tres ejemplares por las partes, con entrega de un ejemplar a cada uno de los intervinientes y al mediador.
+
+Firma de las partes
+
+========================================================================

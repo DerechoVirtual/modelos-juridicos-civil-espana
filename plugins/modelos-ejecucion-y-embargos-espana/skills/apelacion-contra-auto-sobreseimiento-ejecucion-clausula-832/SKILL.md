@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -62,7 +62,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -70,3 +70,72 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0832 · Apelación contra el auto de sobreseimiento de la ejecución por cláusula abusiva
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 14 campos de relleno marcados en blanco; 4 huecos del original que se habían perdido sin marca, marcados (Nº, Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Formulario adaptado a la reforma procesal de la LO 1/2025.
+
+Ejecución hipotecaria n.º [Nº DE PROCEDIMIENTO]/[AÑO]
+
+A LA AUDIENCIA PROVINCIAL DE [LOCALIDAD]
+
+D./Dña. [NOMBRE Y APELLIDOS], Procurador de los Tribunales, en nombre y representación de D./Dña. [NOMBRE Y APELLIDOS], según tengo debidamente acreditado en el procedimiento referenciado, ante la Sala comparezco y como mejor proceda en derecho DIGO:
+
+Que según permite el art. 695.4 en relación con el art. 455.1 ambos de la LEC, interpongo recurso de apelación contra el auto nº [Nº]/[AÑO] de [COMPLETAR] (fecha), por el que se acuerda (Opciones):
+
+• El sobreseimiento de la ejecución
+
+• La inaplicación de una cláusula abusiva
+
+• La desestimación de la oposición por la causa cláusula abusiva
+
+en atención a los siguientes:
+
+Presupuestos
+
+1.º Los arts. 455.1 y 695.4 de la LEC permiten la interposición del presente recurso de apelación.
+
+2º Hacemos constar según exige el art. 458.2 de la LEC contra el auto nº [Nº]/[AÑO] de fecha [FECHA]. Impugnándose el acuerdo de su parte dispositiva de [COMPLETAR] (sobreseimiento de la ejecución, inaplicación de una cláusula [COMPLETAR] del contrato de préstamo hipotecario de fecha [FECHA] por declararla abusiva, desestimación de la oposición por la causa cláusula abusiva).
+
+3.º El recurso se interpone dentro del plazo legalmente establecido en el art. 458.1 de la LEC y se funda en las siguientes:
+
+ALEGACIONES
+
+ (se desarrollarán los motivos de impugnación al recurso que se estimen oportunos).
+
+Por las razones expuestas deberá dejarse sin efecto la resolución recurrida, de modo que se acuerde (Opciones):
+
+•Dejar sin efecto el sobreseimiento, ordenando la continuación de los trámites de ejecución
+
+• Declarar que la cláusula nº… de contrato de préstamo hipotecario de fecha no es conforme a derecho y no abusiva, ordenando continuar los trámites de la ejecución en los términos indicados en la demanda.
+
+• Estimar la oposición de esta parte por la causa de cláusula abusiva, declarando tal la cláusula nº [NÚMERO] del contrato de préstamo hipotecario [COMPLETAR] y, por tanto, sin efecto.
+
+Costas
+
+En aplicación del art. 398 de la LEC deberán imponerse las costas a la parte contraria.
+
+Por lo expuesto,
+
+SUPLICO A LA SALA: Que tenga por presentado este escrito y por formulado recurso de apelación contra el auto n.º [Nº]/[AÑO] de fecha [FECHA] dictado en el presente procedimiento a fin de que en su día la Audiencia Provincial acuerde:
+
+•Dejar sin efecto el sobreseimiento, ordenando la continuación de los trámites de la ejecución.
+
+•Declarar que la cláusula nº… de contrato de préstamo hipotecario de fecha no es conforme a derecho y no abusiva, ordenando continuar los trámites de la ejecución en los términos indicados en la demanda.
+
+•Estimar la oposición de esta parte por la causa de cláusula abusiva, declarando tal la cláusula nº [NÚMERO] del contrato de préstamo hipotecario [COMPLETAR] y, por tanto, sin efecto.
+
+Todo ello con imposición de costas a la parte contraria.
+
+Es justicia que pido en [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+========================================================================

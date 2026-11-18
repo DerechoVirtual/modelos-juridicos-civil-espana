@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -56,7 +56,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -64,3 +64,42 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0649 · Devolución de lo consignado pedida por el promotor
+
+- Año del modelo: 2015
+- Revisión 17-11-2026: 1 puntualizaciones normativas añadidas en el texto; 12 campos de relleno marcados en blanco; 2 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Formulario adaptado a la reforma procesal de la LO 1/2025.
+
+A LA SECCIÓN CIVIL DEL TRIBUNAL DE INSTANCIA DE [SEDE]
+
+[NOTA DE REVISIÓN: Regla general: el TI tiene Sección Única, de Civil y de Instrucción; solo en los partidos que fija la Ley 38/1988 hay Sección Civil separada. Donde no la haya: «A LA SECCIÓN ÚNICA, DE CIVIL Y DE INSTRUCCIÓN, DEL TRIBUNAL DE INSTANCIA DE…». Fuente: LOPJ art. 84.2 (redacc. LO 1/2025, BOE-A-2025-76).]
+
+D. [NOMBRE Y APELLIDOS], Procurador de los Tribunales, actuando en nombre y representación del promotor D. [NOMBRE Y APELLIDOS], según tengo acreditado en este expediente, ante el Tribunal comparezco y como mejor proceda en Derecho
+
+DIGO:
+
+Que, en virtud del traslado conferido por resolución de fecha [FECHA] de [COMPLETAR] de [COMPLETAR], por medio del presente escrito, de conformidad con lo dispuesto en el art. 99.4 de la Ley de Jurisdicción Voluntaria, solicito la devolución de lo consignado [COMPLETAR], en base a los siguientes
+
+HECHOS Y FUNDAMENTOS
+
+El pasado día [FECHA] de [COMPLETAR] de [COMPLETAR], el acreedor D. fue notificado de la consignación sin que haya comparecido en el plazo de diez días concedido, lo cual abunda en lo injustificado de su actitud.
+
+Ante esta actitud del acreedor, esta parte se ve en la obligación de solicitar la devolución de lo consignado, al amparo de lo dispuesto en el art. 99.4 de la Ley de Jurisdicción Voluntaria, interesando que, previo traslado al acreedor a fin de que autorice la retirada de lo consignado, decrete el archivo del expediente y se dejen sin efecto las garantías de la obligación, consistentes en la fianza personales solidaria de [COMPLETAR], tal como se expuso en el escrito iniciador de este expediente, y perdiendo el acreedor cualquier preferencia sobre la cosa [COMPLETAR].
+
+Por lo anterior,
+
+AL TRIBUNAL SUPLICO que tenga por presentado este escrito con los documentos que acompaño y sus copias, y en su virtud, previos los trámites legales, acuerde la devolución de lo consignado y el archivo del expediente con pérdida de preferencia del acreedor sobre la cosa y cancelación de las garantías en la forma expuesta [COMPLETAR].
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+(Firma Abogado y Procurador).
+
+========================================================================

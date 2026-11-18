@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -63,7 +63,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -71,3 +71,64 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1375 · Convocar la junta constituyente por los propietarios
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 2 bloques de opciones sin texto dejados en blanco con sus rótulos; 19 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (HORA)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+Todos ellos con dirección a estos efectos en [COMPLETAR]
+
+A la atención de:
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+CONVOCATORIA DE JUNTA CONSTITUYENTE DE LA COMUNIDAD DE PROPIETARIOS DE LA C/ [CALLE] N.º DE [COMPLETAR].
+
+D./Dña. [NOMBRE Y APELLIDOS], D./Dña. [NOMBRE Y APELLIDOS] y D./Dña. [NOMBRE Y APELLIDOS], en su calidad de propietarios de partes divisas del inmueble situado en la C/ [CALLE] n.º [NÚMERO] de esta ciudad convocan al resto de los titulares a la Junta constituyente de la Comunidad de Propietarios que se celebrará en [COMPLETAR] el día [FECHA] de [COMPLETAR] a las [Nº] horas en primera convocatoria o a las [HORA] horas del mismo día en segunda convocatoria.
+
+El orden del día será el siguiente:
+
+ORDEN DEL DÍA
+
+Designación de las personas que actuarán como Presidente y Secretario de la reunión debiendo el segundo levantar acta de su contenido.
+
+Propuesta y votación del acuerdo de constitución de la Comunidad de Propietarios de [COMPLETAR].
+
+Delegación o encargo a la persona que se designe para que proceda a realizar los trámites necesarios para su legalización.
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Estatutos / Deliberación del proyecto / Encargo a un profesional — el texto de cada opción no venía en el formulario original]
+
+Fijación de la cuota de participación mensual en los gastos comunes según [COMPLETAR] (cuota de participación u otro criterio).
+
+(Otras posibilidades:)
+
+— Fijación de una cuota diferente para quienes sean propietarios de plaza de garaje.
+
+— Exclusión a los propietarios de locales de negocio de determinados gastos.
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Presupuesto / Deliberación presupuesto / Encargo elaboración presupuesto — el texto de cada opción no venía en el formulario original]
+
+Deliberación y votación sobre la creación de un fondo de reserva o sus sustitución por un contrato de mantenimiento del inmueble y sus instalaciones.
+
+Elección de Presidente y Secretario de la Comunidad para el período y estudio y, aprobación en su caso, de la contratación de un Administrador.
+
+Estudio de contratación de Administrador de la Comunidad, de Servicio de mantenimiento y de limpieza.
+
+Firmado:
+
+========================================================================

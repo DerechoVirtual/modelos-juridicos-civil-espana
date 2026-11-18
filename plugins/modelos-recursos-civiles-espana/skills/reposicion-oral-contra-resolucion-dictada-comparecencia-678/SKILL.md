@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -49,7 +49,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -57,3 +57,24 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0678 · Reposición oral contra resolución dictada en la comparecencia
+
+- Año del modelo: 2015
+- Revisión 17-11-2026: 2 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE DOCUMENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Formulario adaptado a la reforma procesal de la LO 1/2025.
+
+ Con la venia, al amparo de lo dispuesto en el art. 20.1 de la Ley de Jurisdicción Voluntaria, formulamos recurso de reposición contra la desestimación de la declinatoria por falta de competencia territorial de ese Tribunal, puesto que, como hemos justificado sobradamente, el lugar donde debía cumplirse la obligación era el domicilio de mi representado, conforme a lo establecido en el art. 1171 del Código Civil, al tratarse de una obligación dineraria y no haberse pacto otro domicilio según consta en el contrato aportado por el solicitante como documento núm. [Nº DE DOCUMENTO]
+
+Por este motivo, alegamos, con todos los respetos, la infracción del art. 98.2 de la Ley de Jurisdicción Voluntaria que fija la competencia territorial por el lugar de cumplimiento de la obligación, que en este caso coincide con el fuero subsidiario del domicilio del deudor, por aplicación del art. 1171 del Código Civil, siendo que mi representado reside en la localidad de [COMPLETAR], como resulta indubitado, habiéndose alegado esta excepción oportunamente por esta parte conforme autoriza el art. 18.2, regla tercera, de la Ley de Jurisdicción Voluntaria.
+
+Por lo expuesto, solicitamos que, con estimación de este recurso de reposición, se estime la falta de competencia territorial y se acuerde la remisión de las actuaciones a los Tribunales de [LOCALIDAD] por ser los competentes, según lo establecido en el art. 16.3 de la Ley de Jurisdicción Voluntaria.
+
+========================================================================

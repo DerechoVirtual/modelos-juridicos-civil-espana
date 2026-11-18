@@ -36,8 +36,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -67,7 +67,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -75,3 +75,67 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1321 · Actualización de renta en arrendamientos de vivienda anteriores al 9-5-1985
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 18 campos de relleno marcados en blanco; 3 huecos del original que se habían perdido sin marca, marcados (IMPORTE)
+- Avisos de la revisión: Uso residual: solo para contratos anteriores al 9-5-1985 que subsistan; los porcentajes escalonados de las DT 2.ª.11 y 3.ª.6 LAU se cuentan desde la entrada en vigor de la Ley (1-1-1995), por lo que su recorrido de 5 o 10 años está agotado: revisar el cálculo.
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+C/ [CALLE]
+
+NIF n.º [NIF]
+
+A la atención de:
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+C/ [CALLE]
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Muy Sr./Sra. Mío/a:
+
+Pongo en su conocimiento que, en aplicación de lo dispuesto en el número 11 de la disposición transitoria segunda de la Ley de Arrendamientos Urbanos de 1994, a partir del próximo mes de [COMPLETAR], en que se cumple la anualidad número [NÚMERO] de vigencia del contrato de arrendamiento de vivienda sita en la C/ [CALLE], n.º [NÚMERO], piso [COMPLETAR], de [COMPLETAR], celebrado entre el que suscribe como arrendador y Ud. como arrendatario, procederé a aplicar la actualización de la renta permitida por esta norma en los siguientes términos:
+
+—Tipo de arrendamiento: Vivienda.
+
+—Fecha del contrato [COMPLETAR]
+
+—Renta inicial: [IMPORTE] euros [COMPLETAR].
+
+—Renta actual: [IMPORTE] euros.
+
+—IPC en fecha inicial:
+
+—IPC en fecha de actualización:
+
+—Índice actualizador = IPC actual / IPC inicial.
+
+—Renta actualizada = Índice actualizador × renta inicial.
+
+—Cuadro de actualización: [COMPLETAR].
+
+—Repercusión del Impuesto sobre bienes inmuebles: Cuantía: [IMPORTE] euros [COMPLETAR], que se abonará.
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: 12 mensualidades / Próximo recibo / En el primer año — el texto de cada opción no venía en el formulario original]
+
+Adjunto certificación del Instituto Nacional de Estadística expresiva de los índices determinantes de la nueva renta.
+
+Igualmente pongo en su conocimiento la posibilidad que tiene de oponerse a la actualización de la renta en los términos expresados, mediante comunicación fehaciente al que suscribe en el plazo máximo de 30 días.
+
+Caso de no recibirse ninguna notificación, entenderemos que está conforme con la actualización y la misma empezará a aplicarse en el mes de [COMPLETAR]
+
+Reciba un saludo:
+
+Fdo.: D./Dña. [NOMBRE Y APELLIDOS]
+
+========================================================================

@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -59,7 +59,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -67,3 +67,56 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1236 · Aviso del arrendador de venta de la vivienda: derecho de tanteo
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 1 puntualizaciones normativas añadidas en el texto; 11 campos de relleno marcados en blanco; 4 huecos del original que se habían perdido sin marca, marcados (IMPORTE)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+C/ [CALLE]
+
+NIF n.º [NIF]
+
+A la atención de:
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+C/ [CALLE]
+
+Muy Sr./Sra. Mío/a:
+
+Pongo en su conocimiento que la vivienda que ocupa Ud. como inquilino en la C/ [CALLE], n.º [NÚMERO], piso [COMPLETAR], de [COMPLETAR], va a ser vendida en fechas próximas en las siguientes condiciones:
+
+—Precio: [IMPORTE] euros.
+
+—Forma de pago:
+
+—Cargas:
+
+—Impuestos: [IMPORTE] euros.
+
+—Accesorios de la vivienda: [IMPORTE] euros.
+
+—Precio de accesorios de la vivienda: [IMPORTE] euros.
+
+—.
+
+—Adquirente:
+
+La presente notificación tiene como finalidad asegurar el derecho de adquisición preferente reconocido al arrendatario. [NOTA DE REVISIÓN: Art. 25.2 LAU (RDL 29/2026): tanteo en 30 días naturales; la notificación caduca a los 180 días naturales; si la vivienda se vende junto con otros inmuebles o activos, debe expresar el precio imputado a la vivienda y los criterios objetivos usados. Fuente: LAU (Ley 29/1994), BOE-A-1994-26003, art. 25.2 y 25.7 (redacción RDL 29/2026, BOE-A-2026-20823 (convalidado: BOE-A-2026-23755)).]
+
+Reciba un saludo:
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Fdo.: D./Dña. [NOMBRE Y APELLIDOS]
+
+========================================================================

@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -56,7 +56,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -64,3 +64,18 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0993 · Alegaciones complementarias y de aclaración
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 19 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Con la venia: (Opciones):— Tal como permite el art. 426.1 de la LEC la parte actora desea realizar una aclaración complementa- ria en relación con lo expuesto por el demandado en la contestación a la demanda en el fundamento de hecho [COMPLETAR], ya que si bien es cierto, y así lo expusimos en la demanda, que se firmó un contrato entre las partes según el cual mi representado se comprometía a [COMPLETAR], el contrario olvida mencionar que esta tarea resultó imposible porque la lluvia que cayó esos días impidió realizar cualquier labor agrícola. Como prueba [COMPLETAR] (acompañamos a efectos probatorios informe del perito D. [NOMBRE Y APELLIDOS], que acredita estos extremos, o presentaremos antes del juicio informe pericial del que se deberá dar traslado al contrario o interesamos que en aplicación del art. 339.3 de la LEC por el Tribunal se designe un perito con el título de [LOCALIDAD] para que dictamine sobre [DESCRIBIR])— Cuando esta parte reclama la propiedad de la finca de [COMPLETAR] está solicitando que se le declare el derecho dominical sobre una extensión de [COMPLETAR] m2, y cuyos lindes son [COMPLETAR] No incluye, por tanto, la reclamación la construcción situada en [COMPLETAR] porque la misma se encuentra fuera de los límites citados, tal y como se acredita con los planos que presentamos en este momento.— El actor, en aplicación de los arts. 412 y 426.3 de la LEC interesa añadir una petición accesoria a la ya manifestada en el suplico de la demanda consistente en que la condena de hacer del actor incluya también la contratación del seguro de daños materiales o seguro de caución exigido por el art. 19 de la Ley de ordenación de la edificación, a fin de garantizar la calidad y durabilidad de la obra que ha de realizar.— Después de contestar a la demanda, la parte demandada ha recibido notificación de la contesta- ción a la solicitud presentada ante [ÓRGANO] Tal y como se puede apreciar en este documento que ahora presentamos, se confirma lo que alegamos en el hecho n.º [NÚMERO] del citado escrito.— Tal y como permite el art. 426.5 de la LEC y en atención a la alegación de la parte [COMPLETAR] con respecto a [COMPLETAR] presentamos [COMPLETAR] (el documento sobre [DESCRIBIR] o el dictamen elaborado por D. relativo a [DESCRIBIR]) dirigido a rebatir lo alegado de contrario.— A instancia del Tribunal esta parte procede a realzar las aclaraciones que se le interesan respecto a [COMPLETAR] (la afirmación contenida en el hecho [COMPLETAR] o la aplicación del precepto [COMPLETAR] a este caso concreto). (razonar).
+
+========================================================================

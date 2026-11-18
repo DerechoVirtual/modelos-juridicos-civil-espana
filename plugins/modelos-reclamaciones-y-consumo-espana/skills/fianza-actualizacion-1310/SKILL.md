@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,46 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1310 · Fianza: actualización
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 1 citas normativas corregidas tras comprobarlas en el BOE; 10 campos de relleno marcados en blanco; 5 huecos del original que se habían perdido sin marca, marcados (IMPORTE)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+C/ [CALLE]
+
+A la atención de:
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+C/ [CALLE]
+
+Muy Sr./Sra. Mío/a:
+
+Habiendo superado el contrato de arrendamiento de vivienda de la C/ [CALLE], n.º [NÚMERO], la duración de cinco años (o siete si el arrendador fuese persona jurídica) [NOTA DE REVISIÓN: Art. 36.2 LAU: el plazo de tres años solo rige en contratos sujetos a la redacción anterior al RDL 7/2019. Fuente: LAU (Ley 29/1994), BOE-A-1994-26003, art. 36.2; RDL 7/2019, BOE-A-2019-3108.], debido a [COMPLETAR], deberá procederse a la actualización de la fianza en las condiciones siguientes:
+
+—Renta inicial pactada: [IMPORTE] euros.
+
+—Fianza inicial depositada: [IMPORTE] euros.
+
+—Renta actual: [IMPORTE] euros.
+
+—Índice de actualización aplicable: [COMPLETAR].
+
+—Valor actual de la fianza: [IMPORTE] euros.
+
+—Diferencia con la anterior: [IMPORTE] euros.
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Fdo.: D./Dña. [NOMBRE Y APELLIDOS]
+
+========================================================================

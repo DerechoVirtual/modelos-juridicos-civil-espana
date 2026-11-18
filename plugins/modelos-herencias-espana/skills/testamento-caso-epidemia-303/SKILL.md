@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -57,7 +57,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -65,3 +65,52 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0303 · Testamento en caso de epidemia
+
+- Año del modelo: 2020
+- Revisión 17-11-2026: 22 campos de relleno marcados en blanco; 2 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Testamento abierto especial otorgado en tiempo de epidemia sin intervención de Notario.
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].a las [Nº] horas.
+
+Yo, Don [COMPLETAR], mayor de edad, nacido el día [FECHA], vecino de [COMPLETAR], con domicilio en [LOCALIDAD], con D.N.I. nº [NÚMERO], por el presente documento vengo a otorgar testamento abierto, y a tal efecto, DIGO:
+
+Que soy hijo de los consortes Don [COMPLETAR] y Doña [COMPLETAR], ambos ya fallecidos; estando casado en únicas nupcias con Doña [COMPLETAR], de cuyo matrimonio tengo tres hijos, llamados Don [COMPLETAR], Doña [COMPLETAR] y Doña [NOMBRE Y APELLIDOS]
+
+Que ordeno mi última voluntad a tenor de las siguientes
+
+CLAÚSULAS
+
+PRIMERA.- Lego a mi cónyuge el usufructo universal y vitalicio de mi herencia, relevándole de la obligación de prestar fianza y hacer inventario. Si alguno de mis descendientes legitimarios no estuviese conforme con esta disposición, quedará reducido a su legítima estricta, acreciendo su parte en los tercios de mejora y libre disposición a los que lo estuvieren; y si ninguno fuese conforme, lega a su cónyuge el tercio de libre disposición en pleno dominio, además de su cuota legal usufructuaria.
+
+Ordeno a mis herederos respetar esta disposición testamentaria y determino que aquel que la impugnare, reciba en tal caso, del testador sólo lo que por legítima corta le conceda la Ley, acreciendo lo que perdiera en los tercios de mejora y libre disposición en favor de los que acaten su voluntad expresada.
+
+SEGUNDA.- Instituyo por mis únicos universales herederos por partes iguales a mis antes mencionados hijos, Don [COMPLETAR], Doña [COMPLETAR] y Doña [COMPLETAR], quienes serán sustituidos vulgarmente, en caso de premoriencia o incapacidad, por sus respectivos descendientes.
+
+TERCERA.- Nombro albacea, comisario, contador-partidor, con las más amplias facultades que el Código Civil le confiere, y por el plazo legal prorrogable por otro periodo igual, a mi Abogado Don [NOMBRE Y APELLIDOS]
+
+CUARTA.- Revoco y dejo sin efecto alguno, cualquier disposición testamentaria anterior.
+
+TESTIGOS
+
+Debido a las circunstancias excepcionales de epidemia (art. 701 CCiv) bajo las que se redacta este testamento, son testigos de mis últimas voluntades las siguientes personas, todas ellas mayores de edad y con capacidad suficiente para testificar, quienes firman conmigo este documento en prueba de veracidad de cuanto se ha recogido en el mismo.
+
+D./Dª [NOMBRE Y APELLIDOS], nacido enel día, hijo dey, vecino de [COMPLETAR], con domicilio, y provisto de DNI.
+
+D./Dª [NOMBRE Y APELLIDOS], nacido enel día, hijo dey, vecino de [COMPLETAR], con domicilio, y provisto de DNI.
+
+D./Dª [NOMBRE Y APELLIDOS], nacido enel día, hijo dey, vecino de [COMPLETAR], con domicilio, y provisto de DNI.
+
+Es justicia que solicito en [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Firma del testador
+
+	Firma de los testigos

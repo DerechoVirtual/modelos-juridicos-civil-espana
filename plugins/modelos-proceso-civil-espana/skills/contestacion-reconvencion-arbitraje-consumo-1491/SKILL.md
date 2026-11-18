@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -52,7 +52,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -60,3 +60,43 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1491 · Contestación a la reconvención en arbitraje de consumo
+
+- Año del modelo: 2014
+- Revisión 17-11-2026: 12 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Encabezamiento
+PRIMERO
+Solicitud a la Corte Arbitral
+Firmas
+
+A LA CORTE ARBITRAL DE [COMPLETAR]
+
+D. [NOMBRE Y APELLIDOS], mayor de edad, con DNI núm. [Nº], con domicilio a efectos de notificaciones en [DOMICILIO A EFECTOS DE NOTIFICACIONES], con número de teléfono/ fax/ correo electrónico [CORREO ELECTRÓNICO], ante la Secretaría de la Corte de Arbitraje de [COMPLETAR] comparezco y como mejor proceda, DIGO;
+
+Que en fecha [FECHA] se me ha dado traslado de la reconvención formulada por el demandado D [COMPLETAR] en solicitud de la cantidad de [IMPORTE] euros, por lo que, en el plazo concedido, mediante este escrito contesto a la reconvención, fundándome en las siguientes
+
+PRIMERO Se niegan los hechos y fundamentos alegados por el demandado en su reconvención.
+
+El demandado pretende el abono de los importes de un servicio que no fue prestado, puesto que había cursado oportunamente la baja en el servicio de alarma y me dí de alta en la empresa de seguridad [COMPLETAR], precisamente por las graves deficiencias en la prestación del servicio, que motiva la demanda rectora de este procedimiento, al producirse hasta cinco robos en mi empresa en el corto espacio de tiempo de dos meses.
+
+A efectos acreditativos, acompaño como documentos [COMPLETAR] copia el contrato suscrito con la empresa de seguridad [COMPLETAR] en relación al mismo servicio, así como copia de los recibos abonados, los cuales se corresponden con el periodo que pretende percibir indebidamente la empresa reclamada.
+
+En cuanto a la baja en el servicio, acompaño como documento [COMPLETAR] copia del correo electrónico enviado al servicio de atención del cliente de la empresa de seguridad demandante, donde se pone de manifiesto que cursé oportunamente la baja en el servicio y los hechos que lo motivaron, esto es, la comisión de cinco robos sin que se detectara en ningún momento por los servicios de la empresa de seguridad ni se diera ningún aviso a la Policía.
+
+En virtud de lo expuesto, es de justicia y por ello
+
+SOLICITO A LA CORTE ARBITRAL que tenga por formulada esta contestación a la reconvención y, tras los trámites legales y de conformidad a lo expuesto en este escrito, la desestime íntegramente en el laudo que ponga fin a este procedimiento, imponiendo las costas y gastos al demandante reconvencional.
+
+Lugar y fecha
+
+Firma del demandado reconvenido, representante y/o abogado
+
+========================================================================

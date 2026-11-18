@@ -39,8 +39,8 @@ El original no traía texto: solo remitía al comunicación a la Agencia Vasca d
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: la referencia al modelo oficial y a sus normas (el original no traía más texto).
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: la referencia al modelo oficial y a sus normas (el original no traía más texto).
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -50,8 +50,30 @@ Los que exija el modelo oficial. Cuando lo tengas, recorre sus apartados y pide 
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
 2. Localiza el modelo oficial vigente en la fuente indicada. Si es un anexo de una norma (BOE o EUR-Lex), léelo con `leer_boe`; si está en una sede electrónica, búscalo en ella y anota el enlace y la fecha.
-3. Comprueba con Jurisprudenciator las normas de la lista y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento).
+3. Comprueba con Jurisprudenciator las normas de la lista y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento).
 4. Pide al usuario los datos que exige el modelo y explícale qué documentación tiene que acompañar.
 5. Rellena el modelo con esos datos. Si el modelo es un PDF rellenable, entrega los datos ordenados por apartado para pasarlos al PDF; si es un formulario de una norma, entrégalo en **Word (.docx)** con su estructura.
 6. Indica dónde y cómo se presenta (sede electrónica, oficina o autoridad competente) y el plazo, si lo hay.
 7. Cierra con: datos pendientes, enlace y fecha del modelo usado y normas comprobadas con Jurisprudenciator.
+
+## Texto del formulario
+
+### Formulario 0208 · Comunicación a la AVPD de la designación del DPD
+
+- Año del modelo: 2020
+- Revisión 17-11-2026: el original no traía el texto: sustituido por la referencia al modelo oficial vigente y a sus normas
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+[NOTA DE REVISIÓN: el original no trae el texto de este documento: es un modelo oficial (comunicación a la Agencia Vasca de Protección de Datos (AVPD) de la designación, nombramiento o cese del delegado de protección de datos). No se redacta un escrito libre: hay que descargar el modelo oficial vigente y rellenarlo.]
+
+Documento: comunicación a la Agencia Vasca de Protección de Datos (AVPD) de la designación, nombramiento o cese del delegado de protección de datos.
+
+Dónde obtenerlo: en la sede electrónica de la AVPD (formulario de comunicación del delegado de protección de datos).
+
+Normas que lo regulan (compruébalas antes de usarlo):
+
+- art. 37.7 del Reglamento (UE) 2016/679 (RGPD)
+- art. 34.3 LOPDGDD (comunicación en diez días a la autoridad de protección de datos)

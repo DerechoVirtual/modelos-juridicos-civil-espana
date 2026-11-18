@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -51,7 +51,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -59,3 +59,24 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0311 · Diligencia de ordenación que suspende un señalamiento civil por el estado de alarma COVID-19
+
+- Año del modelo: 2020
+- Revisión 17-11-2026: 1 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+DILIGENCIA DE ORDENACIÓN DEL LETRADO DE LA ADMINISTRACIÓN DE JUSTICIA SR/SRA
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+De conformidad a lo establecido en la disposición adicional segunda del Real Decreto 463/2020, de 14 de marzo (RCL 2020, 376), por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, y estando señalada comparecencia de medidas provisionales previas en proceso de divorcio para el día y no estando estas actuaciones procesales exceptuadas de la regla general de suspensión, se acuerda la suspensión del señalamiento procediéndose a realizar nuevo señalamiento tan pronto pierda vigencia la declaración del estado de alarma y se reanuden las actuaciones y plazos procesales.
+
+Comuníquese esta resolución por la vía más rápida a las partes, haciéndoles saber que contra la misma cabe recurso de reposición en el plazo de cinco días siguientes al de la finalización del estado de alarma decretado por RD 463/2020 o de sus prórrogas.
+
+Así lo acuerda, manda y firma S.Sª; doy fe.

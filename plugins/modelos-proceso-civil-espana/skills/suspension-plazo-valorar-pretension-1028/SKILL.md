@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -55,7 +55,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -63,3 +63,28 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1028 · Suspensión del plazo para valorar la pretensión
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 11 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA COMISIÓN DE ASISTENCIA JURÍDICA GRATUITA
+
+D./Dña. [NOMBRE Y APELLIDOS], Letrado del Iltre. Colegio de Abogados de [COLEGIO] y de D./Dña. [NOMBRE Y APELLIDOS], según designación provisional realizada en fecha [FECHA] con n.º [Nº] de expediente [COMPLETAR], comparezco y EXPONGO:
+
+Que a pesar de los intentos realizados para ponerme en contacto con D./Dña. [NOMBRE Y APELLIDOS] consistentes en llamadas telefónicas y remisión de la carta que acompaño a este escrito, hasta la fecha los mismos han resultado infructuosos pues no he conseguido comunicarme con él ni, por tanto, que me entregara la documentación necesaria para estudiar su pretensión y, en su caso, el cauce jurídico oportuno para defenderla. Por este motivo, y antes de que transcurra el plazo señalado en el art. 32 de la Ley de Asistencia Jurídica Gratuita, solicito la interrupción del plazo para poder presentar, si fuera oportuno, solicitud de relevación de esta intervención letrada si tras el análisis de dicha documentación no se encontrara, a criterio de quien suscribe, fundamento para [COMPLETAR] (presentar demanda judicial u oponerse a la reclamación de contrario).
+
+Por lo expuesto,
+
+SOLICITO: Que tenga por presentado este escrito con el documento que acompaño, lo admita y, en atención a lo expuesto, acuerde interrumpir el plazo legalmente establecido para formular propuesta de insostenibilidad de la pretensión, requiriendo a D./Dña. [NOMBRE Y APELLIDOS] para que presente la documentación necesaria consistente en [DESCRIBIR] en el plazo de diez días, dándose traslado de la misma a este Letrado.
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+========================================================================

@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -54,7 +54,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -62,3 +62,40 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0216 · Comunicación a los trabajadores de la instalación del control horario
+
+- Año del modelo: 2020
+- Revisión 17-11-2026: 3 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Por medio de la presente les informamos que la empresa [COMPLETAR], S.A. ha procedido a la instalación de sistemas de control horario en el centro de trabajo con fines de control, tal y como se señala a continuación.
+
+Respecto al tratamiento de datos en el lugar de trabajo, el artículo 20.3 del Estatuto de los Trabajadores dispone que "El empresario podrá adoptar las medidas que estime más oportunas de vigilancia y control para verificar el cumplimiento por el trabajador de sus obligaciones y deberes laborales, guardando en su adopción y aplicación la consideración debida a su dignidad y teniendo en cuenta, la capacidad real de los trabajadores con discapacidad, en su caso".
+
+Por su parte, el artículo 34.9 del Estatuto de los Trabajadores, exige un registro obligatorio de jornada, es decir, la obligación de las empresas de tener un control efectivo del número de horas que realizan sus empleados.
+
+El control horario se realiza mediante un sistema de control de huella dactilar y mediante la introducción de una tarjeta personal, a elección del trabajador, a lo que se añade la realización de una fotografía de verificación y con la única finalidad de verificar el cumplimiento horario en el centro de trabajo. Esos datos personales no se comunican a ninguna otra entidad, encontrándose protegidos por las correspondientes medidas de seguridad atendiendo a los riesgos existentes.
+
+Esta comunicación viene a dar cumplimiento al deber de informar a los afectados, en los términos establecidos en el artículo 13 del Reglamento General de Protección de Datos.
+
+Los registros se conservarán durante cuatro años y permanecerán a disposición de las personas trabajadoras, de sus representantes legales y de la Inspección de Trabajo y Seguridad Social.
+
+La normativa de protección de datos permite que pueda ejercer ante el responsable del tratamiento sus derechos de acceso, rectificación, oposición, supresión (“derecho al olvido”), limitación del tratamiento, portabilidad y de no ser objeto de decisiones individualizadas.
+
+De todo ello han sido informados los representantes de los trabajadores.
+
+Para que así conste a todos los efectos.
+
+D./Dña. [NOMBRE Y APELLIDOS],
+
+Director/a de Recursos Humanos.
+
+Recibo la comunicación: D./Dña. [NOMBRE Y APELLIDOS]

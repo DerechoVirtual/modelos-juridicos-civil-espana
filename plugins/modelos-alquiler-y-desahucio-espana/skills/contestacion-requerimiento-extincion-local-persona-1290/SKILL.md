@@ -36,8 +36,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -60,7 +60,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -68,3 +68,39 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1290 · Contestación al requerimiento de extinción de local de persona física anterior a 1985
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 11 campos de relleno marcados en blanco
+- Avisos de la revisión: Desde el 24-11-2014 ya no cabe la subrogación de un descendiente en locales anteriores al 9-5-1985 (DT 3.ª.3 LAU: veinte años desde la aprobación de la Ley); solo la del cónyuge que continúe la actividad.
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+C/ [CALLE]
+
+A la atención de:
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+C/ [CALLE]
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Muy Sr./Sra. Mío/a:
+
+Recibida su comunicación de fecha [FECHA] por la que se me requiere para que deje libre el local que vengo ocupando como arrendatario en virtud de contrato de arrendamiento de fecha [FECHA], pongo en su conocimiento que a la fecha de mi jubilación se subrogará en la posición de arrendatario D./Dña. [NOMBRE Y APELLIDOS], [COMPLETAR] del que suscribe.
+
+Por este motivo deberán aplicarse las prórrogas legales hasta el máximo legalmente permitido en aplicación de la Ley de Arrendamientos Urbanos y, en consecuencia, no procede dar por extinguido el contrato de arrendamiento del local de negocio sito en [LOCALIDAD] de fecha
+
+Reciba un saludo.
+
+Fdo.: D./Dña. [NOMBRE Y APELLIDOS]
+
+========================================================================

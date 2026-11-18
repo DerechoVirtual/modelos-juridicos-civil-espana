@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -49,7 +49,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -57,3 +57,52 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0089 · Convocatoria de la junta general ordinaria de propietarios (Cataluña)
+
+- Año del modelo: 2023
+- Revisión 17-11-2026: 3 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (FECHA)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Muy Señor mío:
+
+Por la presente y por orden del Presidente, y de conformidad con lo que dispone el apartado 21.1 del artículo 553 del Libro V del Código Civil de Catalunya, se le convoca a la Junta General Ordinaria de la Comunidad de [COMPLETAR], que tendrá lugar en la zona comunitaria, el LUNES DE [COMPLETAR], a las 18.30 horas en única convocatoria, con el siguiente,
+
+ORDEN DEL DÍA
+
+1.º Aprobación liquidación 01-01-2019 a 31-12-2019. Comunidad y parquing.
+
+2.º Aprobación presupuesto ordinario ejercicio 2020.
+
+3.º Presentación y aprobación, en su caso, de los presupuestos para la adecuación de la instalación de baja tensión en la finca.
+
+4.º Normas de uso interior de la zona comunitaria y piscina. Fiestas.
+
+5.º Renovación Junta Rectora.
+
+6.º Ruegos y preguntas.
+
+Se ruega su asistencia o bien delegue el voto en caso de inasistencia.
+
+Asimismo, conforme a lo que dispone el apartado 21.4 del citado artículo 553 del CC Ca. Se hace constar:
+
+1.º Que los no asistentes se entenderá que votan a favor de los acuerdos adoptados, a menos que manifiesten expresamente su oposición en el plazo de treinta días desde que sean notificados.
+
+2.º Que los propietarios que no estén al corriente de pago en el momento del inicio de la reunión, podrán participar en esta pero NO TENDRÁN DERECHO DE VOTO.
+
+Firmado: Sr. Presidente.
+
+P.O.
+
+Por la presente confiero especial representación a D, para que delibere y vote en mi nombre en la Junta General Ordinaria de la Comunidad de [COMPLETAR], a celebrar el día [FECHA]
+
+Fdo: Entidad
+
+Listado de propietarios con cuotas pendientes.
+
+D, Cuota

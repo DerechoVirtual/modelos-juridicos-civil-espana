@@ -36,8 +36,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -59,7 +59,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -67,3 +67,37 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1446 · Aviso del arrendador de extinción del arrendamiento de local
+
+- Año del modelo: 2014
+- Revisión 17-11-2026: 8 campos de relleno marcados en blanco
+- Avisos de la revisión: Plazo ya vencido: la extinción a los 20 años de la DT 3.ª.4 LAU se produjo el 31-12-2014/1-1-2015 (25 años si hubo traspaso en los 10 años previos, es decir, en 2019-2020); uso solo histórico o para litigios pendientes.
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Firmas
+
+Modelo de carta comunicando al arrendatario de local comercial persona jurídica la extinción del contrato de arrendamiento por transcurso del plazo de veinte años de la entrada en vigor de la LAU 1994, es decir, el 31 de diciembre de 2014, conforme a su Disposición Transitoria Tercera 4.1.
+
+[NOMBRE Y APELLIDOS], S.L.
+
+Calle [CALLE], n.º [NÚMERO]
+
+Estimados Señores:
+
+En nuestra condición de arrendadores del local sito en [LOCALIDAD] del número [NÚMERO] de la calle [CALLE] de esta ciudad, según contrato de arrendamiento formalizado con Vds. en fecha [FECHA], les notificamos que de conformidad con lo dispuesto en la Disposición Transitoria Tercera apartado 4.1.ª de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, que entró en vigor el día 1 de enero de 1995, el contrato de arrendamiento suscrito debe considerarse extinguido al transcurrir veinte años desde la entrada en vigor de la citada Ley.
+
+Por tanto, la relación arrendaticia finalizará, de acuerdo con las previsiones de la disposición legal citada, el próximo día 31 de diciembre de 2014, por lo que llegada la referida fecha deberán devolver la posesión del referido local comercial a la propiedad, comunicándoles por la presente nuestra voluntad de no renovar dicho arrendamiento y la expresa exclusión de la tácita reconducción.
+
+Sin otro particular, le saludamos atentamente.
+
+En [LUGAR], a [FECHA].
+
+Firma del arrendador/a
+
+========================================================================

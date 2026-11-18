@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -53,7 +53,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -61,3 +61,36 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0111 · Requerimiento para aceptar o repudiar la herencia (Aragón)
+
+- Año del modelo: 2022
+- Revisión 17-11-2026: 14 campos de relleno marcados en blanco; 10 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS, Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA NOTARÍA DE [COMPLETAR]
+
+D/Dª. [NOMBRE Y APELLIDOS] actuando en su nombre y representación, con DNI [DNI/NIE], y domicilio en [LOCALIDAD] ante la Notaría comparezco y DIGO [COMPLETAR]:
+
+-Que al amparo de lo dispuesto en el art. 348 del Código de Derecho Foral de Aragón, en relación con el art. 1005 del Código Civil y preceptos concordantes de la Ley de Jurisdicción Voluntaria y Ley del Notariado, solicito que sea requerido D/Dª. [NOMBRE Y APELLIDOS], con domicilio en [LOCALIDAD], para que manifieste si acepta o repudia la herencia del finado D/Dª [NOMBRE Y APELLIDOS], con último domicilio en [LOCALIDAD], en base a los siguientes HECHOS y FUNDAMENTOS [COMPLETAR]:
+
+HECHOS Y FUNDAMENTOS
+
+PRIMERO.- El causante D/Dª [NOMBRE Y APELLIDOS]. era hermano/a del solicitante, y convivió en su domicilio de [COMPLETAR], sito en esta localidad, desde el año [COMPLETAR] hasta su fallecimiento ocurrido el día [FECHA].
+
+En todo este tiempo, D. se ocupó de su manutención, de todos los gastos de su última enfermedad y funerarios, así como todos los impuestos, contribuciones, obras, y mantenimiento, de las fincas que tenía en propiedad D. [NOMBRE Y APELLIDOS], herencia de la difunta madre de ambos D.. [NOMBRE Y APELLIDOS]
+
+Habiendo fallecido el causante D. sin otorgar testamento, mi mandante D/Dª. [NOMBRE Y APELLIDOS], además de afrontar los gastos y pagos en vida y tras la muerte de su hermano, se preocupó de instar la declaración de herederos ab-intestato, a cuyo efecto se siguió expediente notarial núm. [Nº DE PROCEDIMIENTO] en esa Notaría, en el que se autorizó acta de fecha [FECHA] en el que se declaraba herederos a mi mandante, y al ahora requerido, su otro hermano D. [NOMBRE Y APELLIDOS] (acompaño como documento núm. copia del acta).
+
+SEGUNDO.- Pese al tiempo transcurrido, el llamado a la herencia D/Dª [NOMBRE Y APELLIDOS] no ha hecho manifestación alguna sobre su voluntad de aceptar o repudiar la herencia, pese a haber sido instado por el solicitante en diferentes ocasiones al efecto, por lo que me veo en la obligación de acudir a V.S. para que requiera al llamado a fin de que, en plazo que no exceda de sesenta días, acepte o repudie la herencia, con los apercibimientos establecidos en el artículo 348 del Código de Derecho Foral de Aragón.
+
+Por lo anteriormente expuesto, SUPLICO A LA NOTARÍA que tenga por presentada esta solicitud con los documentos que se acompañan y, en su virtud, se requiera a D/Dª. [NOMBRE Y APELLIDOS] para que en el plazo de sesenta días, manifieste si acepta o repudia la herencia del difunto D/Dª. [NOMBRE Y APELLIDOS], con los apercibimientos legales oportunos.
+
+En [COMPLETAR]
+
+(Firma del/de la solicitante)

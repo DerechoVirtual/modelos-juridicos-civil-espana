@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -52,7 +52,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -60,3 +60,34 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0923 · Otrosí: acreditación de pago en arrendamientos con lanzamiento
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 7 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+OTROSÍ DIGO: Que a los efectos previstos en el apartado 1 del art. 449 de la LEC, manifiesto que mi representado, el/la demandado/a D./D.ª [NOMBRE Y APELLIDOS], ha procedido:
+
+(opciones):
+
+— A pagar al arrendador demandante todas las cantidades que en concepto de rentas vencidas y adelantadas debía abonar hasta la fecha con arreglo al contrato de arrendamiento suscrito entre las partes, comprometiéndose igualmente a liquidar las que vayan venciendo hasta la resolución de este recurso.
+
+— A ingresar sujeto a liquidación final, la cantidad de [IMPORTE] euros en concepto de renta de los meses de [COMPLETAR] más las que vayan venciendo hasta un límite de [COMPLETAR] mensualidades, comprometiéndose a ingresar las cantidades que vencieran superada esta cifra si se alargara la tramitación de este recurso por más tiempo del aquí previsto.
+
+Acredito este extremo, a los efectos probatorios exigidos por el precepto antedicho, con: (opciones):
+
+— El recibo firmado por el arrendador expresivo del cobro de las referidas cantidades.
+
+— El ejemplar original del justificante de transferencia bancaria.
+
+NUEVAMENTE SUPLICO AL TRIBUNAL que tenga por formulada la anterior manifestación y por acreditado el pago de las cantidades que mi representado/a D./Dña. [NOMBRE Y APELLIDOS] ha hecho efectivo, con fecha de [COMPLETAR], al/a la arrendador/a demandante D./Dña. [NOMBRE Y APELLIDOS] en concepto de rentas vencidas y adelantadas que debía pagar con arreglo al contrato de arrendamiento suscrito entre las partes, teniendo por cumplido el requisito establecido por el art. 449.1 de la LEC y acuerde, en definitiva, tener por interpuesto el recurso de apelación.
+
+Es justicia que reitero en igual lugar y fecha.
+
+========================================================================

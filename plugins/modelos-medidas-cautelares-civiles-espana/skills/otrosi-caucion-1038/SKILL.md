@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -50,7 +50,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -58,3 +58,36 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1038 · Otrosí: caución
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 11 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+OTROSÍ II DIGO:
+
+(Opciones):
+
+1.º Que esta parte renuncia a exigir caución al demandado para que pueda comparecer y contestar a la presente demanda.
+
+2.º Que el demandado ha de prestar caución en la cuantía de [IMPORTE] euros cifra que, de forma provisional y sin perjuicio de su concreción posterior, se calcula para responder de los frutos que haya percibido indebidamente, de los daños y perjuicios irrogados y de las costas de este juicio.
+
+Así, hasta la fecha, el valor de los frutos percibidos se calcula por esta parte en [IMPORTE] euros. Acompañamos como doc. n.º [NÚMERO] facturas de venta del año anterior y con el n.º [NÚMERO] informe del perito en [COMPLETAR], D./Dña [NOMBRE Y APELLIDOS] en el que realiza las operaciones oportunas para hallar ese precio.
+
+Los perjuicios irrogados a la fecha se calculan de la siguiente manera [COMPLETAR] y se acreditan con los siguientes documentos [COMPLETAR]
+
+Finalmente las costas se calculan según las tablas orientativas de honorarios de Procurador y Abogado.
+
+NUEVAMENTE SUPLICO: Que [COMPLETAR] (opciones):
+
+1.º Tenga por hecha la renuncia de esta parte a exigir caución al demandado para comparecer y contestar a esta demanda.
+
+2.º Acuerde exigir al demandado D./Dña [NOMBRE Y APELLIDOS] la caución de [IMPORTE] euros en virtud de los cálculos realizados por esta parte, que podrá prestar en cualquiera de las formas establecidas en el art. 64.2, párr. segundo de la LEC, antes de oponerse a la demanda.
+
+========================================================================

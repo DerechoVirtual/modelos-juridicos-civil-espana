@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -57,7 +57,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -65,3 +65,40 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1061 · Apelación contra la desestimación del recurso de revisión
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 12 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Juicio [COMPLETAR] (Ordinario/verbal) n.º [NÚMERO] Recurso de apelación
+
+A LA AUDIENCIA PROVINCIAL DE [LOCALIDAD]
+
+D./Dña. [NOMBRE Y APELLIDOS], Procurador de los Tribunales, en nombre y representación de D./Dña. [NOMBRE Y APELLIDOS], según tengo debidamente acreditado en el procedimiento referenciado, ante la Sala comparezco y como mejor proceda en derecho DIGO:
+
+Que mediante el presente escrito, y según permite el art. 454 bis.3 en relación con los arts. 455.1 y 458 de la LEC, procedo a INTERPONER RECURSO DE APELACIÓN contra el auto n.º [Nº] de fecha [FECHA] dictado en este procedimiento por el que se acuerda [COMPLETAR] (estimar o desestimar) el recurso de revisión interpuesto contra el Decreto del Letrado de la Administración de Justicia de fecha [FECHA] por el que se acordaba [COMPLETAR], todo ello en atención a las siguientes
+
+ALEGACIONES
+
+El recurso se presenta dentro del plazo concedido por el art. 458 de la LEC y ante el órgano que ha dictado la resolución recurrida.
+
+Los pronunciamientos del auto que se impugnan son los siguientes:
+
+Las razones que motivan este recurso son las siguientes:
+
+Que acompaño a este escrito justificante de ingreso en la cuenta del Tribunal del depósito para recurrir.
+
+Por lo expuesto,
+
+SUPLICO A LA SALA: que tenga por presentado este escrito, lo admita y acuerde tener por interpuesto recurso de apelación contra el auto de fecha [FECHA] y, previos los trámites oportunos, en su día se dicte por la Audiencia Provincial resolución estimando las pretensiones de esta parte.
+
+Es justicia que pido en [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+========================================================================

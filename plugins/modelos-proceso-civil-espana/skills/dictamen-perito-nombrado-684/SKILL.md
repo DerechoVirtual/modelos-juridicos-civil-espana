@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -60,7 +60,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -68,3 +68,50 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0684 · Dictamen del perito nombrado
+
+- Año del modelo: 2015
+- Revisión 17-11-2026: 15 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Escrito por el que el perito comunica la emisión de un dictamen adjunto
+
+Formulario adaptado a la reforma procesal de la LO 1/2025.
+
+A LA SECCIÓN DE LO MERCANTIL DEL TRIBUNAL DE INSTANCIA DE [SEDE]
+
+D./Dña. [NOMBRE Y APELLIDOS], con DNI [DNI/NIE], de profesión [PROFESIÓN], y domicilio profesional en [LOCALIDAD], calle [CALLE], nº [NÚMERO], ante el Tribunal comparezco y como mejor en Derecho proceda, DIGO:
+
+Que por medio del presente escrito, y de conformidad con el art. 138.4 de la Ley 15/2015, de 2 de julio, de la Jurisdicción Voluntaria (en lo sucesivo, LJV), comparezco ante el Tribunal y aporto el dictamen pericial encargado. Todo ello, en base a los siguientes
+
+Hechos y consideraciones jurídicas:
+
+1.ª [COMPLETAR])
+
+El pasado [FECHA] se me notificó decreto del Letrado de la Administración de Justicia del órgano al cual tengo el honor de dirigirme, en el que se comunicaba mi nombramiento como tercer perito conforme a lo dispuesto en el art. 38 de la Ley 50/1980, de 8 de octubre, de Contrato de Seguro (en lo sucesivo, LCS), en el marco del expediente de jurisdicción voluntaria tramitado con nº [NÚMERO] / [COMPLETAR].
+
+2.ª [COMPLETAR])
+
+Que en la referida comunicación se me requería para que en el plazo legal de dos días previsto en el art. 342.1 de la Ley de Enjuiciamiento Civil, compareciera en el Tribunal, y manifestara si acepto el cargo, lo que hice en fecha [FECHA]. Una vez aceptado el mismo, se me proveyó del correspondiente nombramiento, y se me dio vista del expediente y de los dictámenes emitidos por los peritos de las partes.
+
+3.ª [COMPLETAR])
+
+Que dentro del plazo legal de 30 días previsto en el art. 138.4 LJV, aporto el dictamen pericial encargado, y que adjunto a este escrito con copias para las partes. Tal y como se dispuesto en mi nombramiento, y a partir de lo dispuesto en los arts. 342.1 y 335.2 de la Ley de Enjuiciamiento Civil, en el propio dictamen manifiesto, bajo juramento de decir verdad, que he actuado y con la mayor objetividad posible, tomando en consideración tanto lo que pueda favorecer como lo que sea susceptible de causar perjuicio a cualquiera de las partes, y que conozco las sanciones penales en las que podría incurrir si incumpliere mi deber como perito.
+
+Por todo lo expuesto, al amparo del art. 138 LJV,
+
+SUPLICO AL TRIBUNAL
+
+Que teniendo por presentado este escrito se tenga por aportado el dictamen pericial encargado, para su incorporación al expediente.
+
+Por ser de Justicia que pido en [LUGAR], a [FECHA].
+
+Firma del perito
+
+========================================================================

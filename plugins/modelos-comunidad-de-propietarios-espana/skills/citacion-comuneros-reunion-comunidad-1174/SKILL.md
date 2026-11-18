@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,46 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1174 · Citación de los comuneros a la reunión de la comunidad
+
+- Año del modelo: 2015
+- Revisión 17-11-2026: 1 desplegables convertidos en elección en blanco; 16 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+En [LUGAR], a [FECHA].
+
+Los abajo firmantes, que representan más de la cuarta parte del número total de propietarios de esta comunidad (o el 25% de cuotas de participación), por la facultad que les confiere el art. 16.1 LPH, le comunicamos a Usted como Presidente/a de la Junta de Propietarios que convocamos en el día de hoy junta general extraordinaria de la comunidad de propietarios sita en la calle [CALLE], n.º [NÚMERO], de la ciudad de [COMPLETAR], a celebrar el próximo día [FECHA] de [COMPLETAR], de [COMPLETAR], a las [Nº] horas en primera convocatoria, y a las [Nº] horas en segunda convocatoria en caso de no alcanzarse el quórum a que se refiere el art. 16.2 LPH, en [COMPLETAR], con arreglo al siguiente:
+
+ORDEN DEL DÍA
+
+1) [COMPLETAR]
+
+2) [COMPLETAR]
+
+3) [COMPLETAR]
+
+4) [COMPLETAR]
+
+Siendo promovida la convocatoria por los siguientes propietarios:
+
+-
++
+Añadir más párrafos iguales
+
+- [COMPLETAR]
+
+Esta misma carta la remitimos por [ELEGIR: certificado / burofax] a todos los propietarios.
+
+Aprovechamos la ocasión para saludarle atentamente,
+
+Por ser de Justicia que pido en [LUGAR], a [FECHA].
+
+Firma de los propietarios convocantes
+
+========================================================================

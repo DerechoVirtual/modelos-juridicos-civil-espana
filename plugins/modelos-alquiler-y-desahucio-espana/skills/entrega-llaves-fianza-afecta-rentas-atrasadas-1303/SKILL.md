@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -60,7 +60,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -68,3 +68,44 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1303 · Entrega de llaves con la fianza afecta a las rentas atrasadas
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 19 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+MANIFIESTAN
+
+Que con fecha [FECHA] en [COMPLETAR] los comparecientes firmaron un contrato de arrendamiento de [COMPLETAR] sito en [LOCALIDAD] en el que consta el resto de circunstancias personales de cada uno.
+
+Que durante este tiempo y hasta esta fecha las partes han cumplido con su obligaciones, salvo la del arrendatario de pago de la renta de los meses de [COMPLETAR]
+
+Que en fecha [FECHA] el [COMPLETAR] comunicó al [COMPLETAR].
+
+Que la otra parte muestra su conformidad con la citada opción.
+
+Por este motivo, de mutuo acuerdo y mediante el presente escrito.
+
+CONVIENEN
+
+ de mutuo acuerdo el contrato de arrendamiento de fecha [FECHA] suscrito en [COMPLETAR] entre D./Dña. [NOMBRE Y APELLIDOS] como arrendador y D./Dña. [NOMBRE Y APELLIDOS] como arrendatario.
+
+Proceder D./Dña. [NOMBRE Y APELLIDOS] a la entrega de las llaves del inmueble a D./Dña. [NOMBRE Y APELLIDOS] que éste acepta.
+
+Reconocer el arrendatario que adeuda al arrendador las rentas de [COMPLETAR], que asciende a [IMPORTE] euros.
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Afectar la fianza al abono deuda pendiente / Entrega de cantidad para cubrir el impago / Devolver el exceso de la fianza, deducidas las rentas pendientes / Pacro aplazamiento deuda — el texto de cada opción no venía en el formulario original]
+
+Y para que conste y surta los efectos oportunos firman el presente documento, en el lugar y fecha indicado.
+
+Fdo.: D./Dña. [NOMBRE Y APELLIDOS] Fdo.: D./Dña. [NOMBRE Y APELLIDOS]
+
+========================================================================

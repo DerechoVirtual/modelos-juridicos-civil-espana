@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -51,7 +51,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -59,3 +59,38 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0251 · Reclamación al banco del importe garantizado por aval a primer requerimiento
+
+- Año del modelo: 2020
+- Revisión 17-11-2026: 20 campos de relleno marcados en blanco; 2 huecos del original que se habían perdido sin marca, marcados (IMPORTE)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+De:
+
+A:
+
+A LA ENTIDAD BANCARIA [COMPLETAR] SUCURSAL DE [COMPLETAR]
+
+Le dirijo la presente en mi condición de beneficiario del AVAL A PRIMER REQUERIMIENTO otorgado por el banco al que me dirijo por escritura pública otorgada por el Notario D [COMPLETAR] en fecha [FECHA], e inscrito en el Registro Especial de Avales con el número [NÚMERO], siendo parte avalada [COMPLETAR].
+
+De conformidad a lo pactado en la citada garantía, por medio de la presente RECLAMO el pago de la cantidad de [IMPORTE] euros, al no haber sido satisfechas por la parte avalada las facturas garantizadas a su vencimiento, las cuales adjunto, y que son las siguientes:
+
+Documento número [Nº DE DOCUMENTO]: Factura número [NÚMERO] Fecha de vencimiento [COMPLETAR] Importe: [IMPORTE] euros
+
+Documento número [Nº DE DOCUMENTO]:. Factura número [NÚMERO] Fecha de vencimiento [COMPLETAR] Importe: [IMPORTE] euros
+
+Como es conocido por la entidad a la que me dirijo, debo subrayar que el aval a primer requerimiento prestado supone una obligación de garantía inmediata que pierde su carácter accesorio de la obligación principal, por lo que la obligación de la entidad avalista es independiente de la obligación del garantizado y del contrato inicial, de modo que el garante no puede oponer al beneficiario, que reclama el pago, las excepciones derivadas de la relación causal garantizada que pueda haber entre el avalado y el beneficiario.
+
+En consecuencia, y de acuerdo a lo pactado, le REQUIERO para el pago de [IMPORTE] euros en el plazo de [Nº] días hábiles, mediante ingreso en la cuenta [COMPLETAR], advirtiéndole que en otro caso esta parte se verá obligada a iniciar las acciones legales que le corresponda para la ejecución de la garantía prestada.
+
+Atentamente,
+
+En la localidad/ciudad de [COMPLETAR], a [COMPLETAR] de [COMPLETAR] del año [COMPLETAR]
+
+Fdo.:

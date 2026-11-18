@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -52,7 +52,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -60,3 +60,75 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1513 · Acta inicial de mediación familiar
+
+- Año del modelo: 2014
+- Revisión 17-11-2026: 14 campos de relleno marcados en blanco; 2 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Fecha y mediador
+MANIFIESTA
+Términos
+Firmas
+
+ACTA INICIAL DE LA MEDIACIÓN
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+D. [NOMBRE Y APELLIDOS], mediador de la institución [COMPLETAR], con el numero, [COMPLETAR]
+
+MANIFIESTA
+
+Que la citada comparecencia lo ha sido a efectos de ser informados de la mediación familiar que pueden iniciar para resolver las controversias derivadas del cese de la convivencia conyugal, tanto en el aspecto económico como en las relaciones paterno filiales, habiendo sido informados [COMPLETAR] sobre sus derechos y deberes, principios rectores de la mediación, de las características del procedimiento, de su duración y de los honorarios profesionales.
+
+Que, a la vista de la información recibida, manifiestan que tienen la intención de resolver el conflicto por vía extrajudicial y aceptan desarrollar la mediación para la resolución del conflicto planteado en el proceso antes expresado dentro de los siguientes
+
+Términos
+
+Designación de mediador
+
+Ambas partes de común acuerdo designan como mediador a quien suscribe D. [NOMBRE Y APELLIDOS], cuyas circunstancias constan en el encabezamiento.
+
+Objeto del conflicto que se somete a mediación
+
+Que el conflicto que se somete a mediación es el derivado del cese de la convivencia conyugal de ambas partes a fin de regular lo procedente sobre los efectos personales y patrimoniales derivados de la disolución de su matrimonio que tienen intención de instar judicialmente y en especial:
+
+- Ejercicio de la patria potestad y régimen de guarda y visitas de los hijos comunes [COMPLETAR] y [COMPLETAR], de [COMPLETAR] y [Nº] años de edad respectivamente.
+
+- Pensión económica que debe satisfacerse en su caso en concepto de alimentos y educación de los hijos comunes.
+
+- Atribución del domicilio familiar.
+
+- Aspectos patrimoniales derivados de la disolución del matrimonio y de la liquidación del régimen de gananciales.
+
+Programa de actuaciones y duración máxima del procedimiento
+
+El programa de actuaciones comprenderá las sesiones de mediación que pudieran ser necesarias (individuales y/o conjuntas) a criterio del mediador, en atención al principio de flexibilidad y al principio de igualdad.
+
+Las partes acuerdan que el plazo de duración máxima del procedimiento de mediación será de [Nº] meses a contar desde la firma del presente documento [COMPLETAR]
+
+Coste de la mediación
+
+El coste de la mediación se dividirá por igual entre las partes firmantes, y se abonará a la finalización del procedimiento.
+
+El coste de la mediación incluirá los honorarios del mediador a razón de [IMPORTE] euros por sesión, con una cifra máxima de [IMPORTE] euros.
+
+Aceptación y asunción de obligaciones
+
+Las partes declaran haber sido informadas acerca de las características básicas de la mediación, Y manifiestan su voluntad de participar en la mediación y asumir las obligaciones que de ella se deriven, observando el deber de confidencialidad en relación a cualquier documento o manifestación que se realice en el procedimiento, salvo el acuerdo total o parcial que pudiera alcanzarse, y tanto las partes, como el mediador se comprometen a aceptar y cumplir estos principios básicos.
+
+Lugar de celebración y lengua del procedimiento
+
+Que ambas partes convienen que la mediación se desarrolle en [COMPLETAR] y que el idioma en el que se sustanciará el procedimiento será el castellano.
+
+Y para que así conste, se extiende esta acta con un ejemplar para cada una de las partes, a uno solo efecto, al lugar y fecha indicados.
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+========================================================================

@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -54,7 +54,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -62,3 +62,42 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0810 · Contestación al requerimiento del arrendador: extinción por fallecimiento del arrendatario
+
+- Año del modelo: 2015
+- Revisión 17-11-2026: 22 huecos del original que se habían perdido sin marca, marcados (CALLE, COMPLETAR, DNI/NIE, DÍA, FECHA, LUGAR, MES, NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./Dña. [NOMBRE Y APELLIDOS] (cónyuge o descendiente del arrendatario)
+
+C/ [CALLE] (domicilio)
+
+[COMPLETAR] (ciudad)
+
+A la atención de:
+
+D./Dña. [NOMBRE Y APELLIDOS] (arrendador)
+
+C/ [CALLE] (domicilio)
+
+[COMPLETAR] (ciudad)
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO]
+
+Muy Sr. Mío:
+
+En contestación a su requerimiento de fecha [FECHA] procedo a comunicarle que, en atención a lo permitido por la D.T. tercera B), 3º de la LAU he pasado a regentar el negocio que se desarrolla en el local del que es Ud. propietario, y que se encuentra arrendado en virtud de contrato de fecha [FECHA]
+
+La acredito mi condición de [COMPLETAR] (esposo/a, D./Dña. [NOMBRE Y APELLIDOS], o descendiente [COMPLETAR]) con [COMPLETAR] (copia del libro de familia que acompaño, o certificado del Registro Civil). Igualmente acompaño copia de la situación de alta en el impuesto de actividades económicas en la actividad de [COMPLETAR], que es la que se desarrolla en el local.
+
+En definitiva y en atención a la regulación indicada deberá entenderse subrogado como arrendatario en el contrato de arrendamiento del local situado en [COMPLETAR] de fecha [FECHA] D. Dña. [NOMBRE Y APELLIDOS] por las razones expuestas, no procediendo la resolución de contrato por causa de fallecimiento que Ud. pretende, y debiendo girar a partir de esta fecha las facturas a mi nombre: D./Dña. [NOMBRE Y APELLIDOS], NIF n.º [DNI/NIE]
+
+A la espera de sus noticias, reciba un saludo: Fdo.: D./Dña. [NOMBRE Y APELLIDOS] (el subrogado)
+
+========================================================================

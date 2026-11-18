@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -56,7 +56,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -64,3 +64,30 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0232 · Aceptar la oferta de la aseguradora
+
+- Año del modelo: 2020
+- Revisión 17-11-2026: 14 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+A la atención de:
+
+Compañía de Seguros:
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+S. nº [Nº] de siniestro:
+
+Muy Sres. Míos:
+
+Por medio de esta comunicación procedo a aceptar la oferta motivada de indemnización de fecha [FECHA] de [COMPLETAR] de [COMPLETAR] por importe de [IMPORTE] euros, emitida con relación al siniestro causado por el vehículo asegurado en su compañía modelo [MARCA/MODELO], matrícula [MATRÍCULA], conducido por D./Dña. [NOMBRE Y APELLIDOS] el día [FECHA] de [COMPLETAR] de [COMPLETAR] en [COMPLETAR], haciendo constar, con relación a la renuncia de acciones, que ésta se hace respecto a la cantidad y por los efectos indicados y sin perjuicio de las que se pudieran ejercer si aparecieran con posterioridad otros perjuicios derivados de este accidente. Además, se hace constar que el pago del importe que se ofrece no se condiciona a la renuncia por el perjudicado del ejercicio de futuras acciones en el caso de que la indemnización percibida fuera inferior a la que en derecho pueda corresponderle.
+
+Reciban un saludo:

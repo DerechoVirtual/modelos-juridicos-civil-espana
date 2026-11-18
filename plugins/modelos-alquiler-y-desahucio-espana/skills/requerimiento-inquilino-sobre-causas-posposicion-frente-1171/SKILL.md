@@ -36,8 +36,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -61,7 +61,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -69,3 +69,29 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1171 · Requerimiento al inquilino sobre causas de posposición frente a la denegación de prórroga
+
+- Año del modelo: 2015
+- Revisión 17-11-2026: 2 llamadas a nota sin texto retiradas; 1 desplegables convertidos en elección en blanco; 4 campos de relleno marcados en blanco
+- Avisos de la revisión: Régimen del TRLAU 1964 (denegación de prórroga por necesidad): solo aplicable a contratos de vivienda anteriores al 9-5-1985 (DT 2.ª LAU); para contratos LAU 1994 celebrados desde el 6-3-2019 la recuperación por necesidad exige cláusula expresa (art. 9.3). El art. 64.3 TRLAU 1964 (posposición) es de uso residual.
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Estimado/a Sr./a:
+
+En mi condición de arrendador de la vivienda de la cual es Usted arrendatario, en virtud del contrato suscrito en fecha [FECHA], sita en [LOCALIDAD] del número [NÚMERO] de la calle [CALLE] de esta ciudad, por la presente le requiero para que conforme a lo previsto en el art. 64.3 LAU 1964, en el plazo improrrogable de treinta días, nos manifieste fehacientemente las circunstancias de posposición que en usted concurren respecto a los demás inquilinos del inmueble, especificando fecha de su contrato, número de personas que convivientes, su condición de pensionista o cualquier otra situación por la que entienda que tiene derecho preferente frente a los demás inquilinos a permanecer en su vivienda.
+
+En caso de que en dicho plazo no reciba comunicación de usted en la forma indicada, entenderé que acepta las circunstancias de posposición que le atribuyo y que son las siguientes:
+
+— Fecha de contrato [ELEGIR: — Familiares que conviven en el piso / — Condición de pensionista]
+
+Sin otro particular, reciba un cordial saludo.
+
+Firma y DNI
+
+========================================================================

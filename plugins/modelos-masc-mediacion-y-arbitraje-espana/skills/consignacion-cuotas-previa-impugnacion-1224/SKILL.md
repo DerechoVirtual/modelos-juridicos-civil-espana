@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -52,7 +52,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -60,3 +60,34 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1224 · Consignación de cuotas previa a la impugnación
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 14 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Consignación
+
+AL SERVICIO COMÚN DE REGISTRO Y REPARTO DEL TRIBUNAL DE INSTANCIA DE [SEDE]
+
+Que con el presente escrito, según permite el artículo 18.2 de la LPH, y teniendo esta parte intención de impugnar el acuerdo adoptado en Junta de la Comunidad de Propietarios de la C/ [CALLE] n.º [NÚMERO] de [COMPLETAR], procedo a consignar por vía judicial la cantidad de [IMPORTE] euros correspondientes a las cuotas de comunidad de los meses de [COMPLETAR] que según cuentas de la indicada Comunidad corresponde abonar a mi representado.
+
+Adjunto como documento n.º [NÚMERO] justificante bancario del referido ingreso [ y como documento n.º [NÚMERO] copia del acta en el que se indican las cuotas que corresponden a cada propietario.
+
+Por lo expuesto,
+
+SUPLICO AL TRIBUNAL: Que tenga por presentado este escrito con los documentos que acompaño y copia de todo ello, lo admita a trámite y acuerde tener por consignada, a los efectos del artículo 18.2 de la LPH y de permitir impugnar el acuerdo de Junta de Propietarios de la Comunidad de Propietarios de la C/ [CALLE], nº [NÚMERO] de [COMPLETAR], las cantidad de [IMPORTE] euros para que se considere a D./Dña. [NOMBRE Y APELLIDOS] al corriente de pago de las cuotas de la comunidad.
+
+Es justicia que pido en [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+OTROSÍ DIGO: Que según indica el artículo 9.2 del Real Decreto 467/2006, de 21 de abril, por el que se regulan los depósitos y consignaciones judiciales en metálico, de efectos o valores, interesamos que, una vez que sea reclamado este ingreso por el LAJ del Tribunal al que corresponda el conocimiento de la impugnación del acuerdo de la Junta de Propietarios, se acuerde por el Secretario de este Servicio realizar la oportuna transferencia de la cantidad ahora consignada a la cuenta de consignaciones de aquel Tribunal.
+
+NUEVAMENTE SUPLICO: Que se tengan por hechas las anteriores manifestaciones a los efectos oportunos, por ser justicia que pido en mismo lugar y fecha.
+
+========================================================================

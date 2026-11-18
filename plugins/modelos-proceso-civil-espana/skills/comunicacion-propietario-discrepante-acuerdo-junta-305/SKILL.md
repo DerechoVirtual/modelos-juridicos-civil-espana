@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -57,7 +57,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -65,3 +65,34 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0305 · Comunicación del propietario discrepante de un acuerdo de la junta
+
+- Año del modelo: 2020
+- Revisión 17-11-2026: 13 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Escrito de propietario al Secretario de la comunidad oponiéndose a acuerdo.
+
+AL SR. SECRETARIO DE LA COMUNIDAD DE PROPIETARIOS [COMPLETAR]
+
+D./Dª. [NOMBRE Y APELLIDOS], con D.N.I. nº [NÚMERO], con domicilio a efectos de notificaciones en [DOMICILIO A EFECTOS DE NOTIFICACIONES], ante el Sr. Secretario de esta Comunidad comparezco y DIGO:
+
+Que, soy propietario/a de la vivienda/local identificada como [COMPLETAR] en la Comunidad anteriormente mencionada.
+
+Que, en fecha [FECHA] me ha sido notificado Acta en el que se recoge el acuerdo adoptado por la Junta General Ordinaria/Extraordinaria, que tuvo lugar en [COMPLETAR], el día [FECHA] a las [Nº] horas, en relación a [COMPLETAR]; por unanimidad de los presentes y representados/aprobado por mayoría de [COMPLETAR], en la que no participé por estar ausente.
+
+Que, tal y como dispone el art. 17.8 LPH, los acuerdos de la Junta de propietarios se sujetarán, entre otras, a la siguiente regla: «Salvo en los supuestos expresamente previstos en los que no se pueda repercutir el coste de los servicios a aquellos propietarios que no hubieren votado expresamente en la Junta a favor del acuerdo, o en los casos en los que la modificación o reforma se haga para aprovechamiento privativo, se computarán como votos favorables los de aquellos propietarios ausentes de la Junta, debidamente citados, quienes una vez informados del acuerdo adoptado por los presentes, conforme al procedimiento establecido en el artículo 9,no manifiesten su discrepancia mediante comunicación a quien ejerza las funciones de secretario de la comunidad en el plazo de 30 días naturales, por cualquier medio que permita tener constancia de la recepción».
+
+En base a lo anteriormente expuesto, y en virtud del derecho que me confiere el citado artículo 17.8 de la Ley de Propiedad Horizontal, y no estando conforme con el referido acuerdo; vengo a manifestarle en plazo legal mi discrepancia con el mismo, por los siguientes motivos: [COMPLETAR].
+
+Por todo ello, SOLICITO que se tenga por presentado el presente escrito, se sirva admitirlo y se tenga por realizada mi oposición, reservándome el derecho a impugnar judicialmente dicho acuerdo.
+
+Atentamente en [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Firma del/a propietario/a

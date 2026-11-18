@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -55,7 +55,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -63,3 +63,48 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1417 · Consentimiento del propietario a una servidumbre
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 28 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+EXPONEN
+
+Que los primeros actúan en su propio nombre y derecho y como propietarios en pro indiviso y por partes iguales de [COMPLETAR] situado en [COMPLETAR] e inscrito en el Registro de la Propiedad n.º [NÚMERO] de al [COMPLETAR].
+
+Que el segundo actúa en nombre y por mandato de la Comunidad de Propietarios de [COMPLETAR] conferido en Junta de Propietarios de fecha [FECHA] en la que se acordó [COMPLETAR], según acta de ésta que figura en el libro de actas de esta Comunidad.
+
+Que en la citada Junta de Propietarios se adoptó también el acuerdo de instalar en la Comunidad [COMPLETAR], actuación para la que resultaba imprescindible la constitución de la servidumbre de [COMPLETAR], que afecta a los primeros comparecientes.
+
+Que ambas partes se reconocen capacidad suficiente para otorgar el presente documento de reconocimiento de establecimiento de servidumbre en beneficio de la Comunidad de Propietarios de [COMPLETAR] y que recae sobre [DESCRIBIR] de [COMPLETAR], en atención a las siguientes
+
+CLÁUSULAS
+
+D./Dña. [NOMBRE Y APELLIDOS] y D./Dña. [NOMBRE Y APELLIDOS], en su calidad de propietarios de [COMPLETAR] situado en [COMPLETAR], autorizan la constitución de servidumbre consistente en a favor de la Comunidad de Propietarios de [COMPLETAR], pasando, por tanto, a constituirse la finca sobre la que está constituida la Comunidad a tener el carácter de predio dominante y el inmueble del que son titulares D./Dña. [NOMBRE Y APELLIDOS] y D./Dña. [NOMBRE Y APELLIDOS] el de predio sirviente.
+
+Las obras necesarias de acomodación de las instalaciones correrán por cuenta de la Comunidad de Propietarios que se obliga a hacer frente a todos los gastos que se deriven de la obra y la restauración.
+
+La Comunidad de Propietarios deberá indemnizar a los propietarios del predio sirviente con la cantidad [IMPORTE] de euros por las limitaciones al ejercicio de su propiedad que supone esta servidumbre [COMPLETAR].
+
+Son obligaciones de la Comunidad de Propietarios las de [COMPLETAR].
+
+Son obligaciones de la propiedad de [COMPLETAR] las siguientes [COMPLETAR].
+
+La Comunidad de Propietarios de [COMPLETAR] tendrá derecho a [COMPLETAR].
+
+La propiedad del predio sirviente tendrá derecho a [COMPLETAR].
+
+Y para que conste y surta los efectos oportunos suscriben el presente documento que consta de folios en cada uno de los dos ejemplares que se emiten con único fin en el lugar y fecha del encabezamiento.
+
+Firmado: Recibí:
+
+========================================================================

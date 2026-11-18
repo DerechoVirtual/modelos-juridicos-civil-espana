@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,74 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1207 · Certificar la liquidación de deudas
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 33 campos de relleno marcados en blanco; 12 huecos del original que se habían perdido sin marca, marcados (DNI/NIE, FECHA, HORA, IMPORTE, Nº)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+D./Dña. [NOMBRE Y APELLIDOS] de la Comunidad de Propietarios de la C/ n.º [Nº], mayor de edad, con DNI n.º [DNI/NIE] y domicilio a efectos de notificaciones en [DOMICILIO A EFECTOS DE NOTIFICACIONES], certifico lo siguiente:
+
+A la Junta de la Comunidad de Propietarios de fecha [FECHA], celebrada en a las [HORA] horas en convocatoria, asistieron los propietarios que a continuación se indican:
+
+D./Dña. [NOMBRE Y APELLIDOS], piso, con coeficiente de participación del%.
+
+D./Dña. [NOMBRE Y APELLIDOS], piso, con coeficiente de participación del%.
+
+D./Dña. [NOMBRE Y APELLIDOS], piso, con coeficiente de participación del%.
+
+D./Dña. [NOMBRE Y APELLIDOS], piso, con coeficiente de participación del%.
+
+D./Dña. [NOMBRE Y APELLIDOS], local [COMPLETAR], con coeficiente de participación del%.
+
+D./Dña. [NOMBRE Y APELLIDOS], local [COMPLETAR], con coeficiente de participación del%.
+
+Asistieron en definitiva propietarios de los que componen el total de la Comunidad y que representaban una cuota de participación de%.
+
+D./Dña. [NOMBRE Y APELLIDOS] y D./Dña. [NOMBRE Y APELLIDOS] estaban privados del derecho de voto por no encontrarse al corriente del pago de las cuotas, tal como constaba en la convocatoria, y por no haber procedido a abonarlas antes de la celebración de la Junta, o a consignar su importe o a reclamar judicialmente.
+
+Los comuneros habían sido convocados debidamente a la Junta teniendo conocimiento previo del orden del día.
+
+El punto n.º [Nº] del orden del día se refería a la siguiente cuestión: «Estudio y aprobación, en su caso, de la presentación de reclamación judicial contra los propietarios morosos D./Dña. [NOMBRE Y APELLIDOS] del piso y D./Dña. [NOMBRE Y APELLIDOS] del local [COMPLETAR], que adeudan en estos momentos y cuotas respectivamente. Aprobación en caso afirmativo de la liquidación de la deuda y autorización al Sr. Presidente para que en nombre de la Comunidad otorgue poder a favor de Procuradores y Abogados de [COMPLETAR] para la presentación de la oportuna demanda reclamando las cuotas no pagadas y los gastos que ello ocasione».
+
+En el debate por D./Dña. [NOMBRE Y APELLIDOS] se sugirió la posibilidad de realizar un requerimiento extrajudicial previo, aceptando someter también a votación esta posibilidad.
+
+Sometido este punto a votación con el inciso indicado el resultado fue el que a continuación se transcribe:
+
+Votos a favor:
+
+D./Dña. [NOMBRE Y APELLIDOS], piso, con coeficiente de participación del%.
+
+D./Dña. [NOMBRE Y APELLIDOS], piso, con coeficiente de participación del%.
+
+D./Dña. [NOMBRE Y APELLIDOS], piso, con coeficiente de participación del%.
+
+D./Dña. [NOMBRE Y APELLIDOS], local [COMPLETAR], con coeficiente de participación del%.
+
+Votos en contra
+
+D./Dña. [NOMBRE Y APELLIDOS], piso+, con coeficiente de participación del%.
+
+D./Dña. [NOMBRE Y APELLIDOS], local [COMPLETAR], con coeficiente de participación del%.
+
+En consecuencia, se aprueba con votos a favor que representan el % de cuotas de participación y votos en contra, que representan el % cuotas de participación el siguiente acuerdo: «Acuerdo de la Comunidad de Propietarios de la C/ n.º para reclamar a D./Dña. [NOMBRE Y APELLIDOS] del piso y a D./Dña. [NOMBRE Y APELLIDOS] del local [COMPLETAR], las cantidades que adeudan en estos momentos a la Comunidad por y cuotas impagadas por importe de [IMPORTE] euros y [IMPORTE] euros, respectivamente. En primer lugar se practicará un requerimiento extrajudicial mediante [ÓRGANO] y si en el plazo de siete días no se liquidaran las cantidades indicadas se presentará la reclamación judicialmente. En este caso se autoriza al Secretario para emitir este certificado de liquidación de las deudas y al Presidente para que en nombre de la Comunidad otorgue poder a favor de Procuradores y Abogados de para la presentación de la demanda o de la petición inicial de juicio monitorio para reclamación de las cuotas no pagadas y los gastos que ello ocasione.
+
+En cuanto a la liquidación de estado de cuentas se concretan las deudas con los siguientes cálculos:
+
+D./Dña. [NOMBRE Y APELLIDOS], del piso: cuotas impagadas a [IMPORTE] euros cada cuota, total [IMPORTE] euros, más los gastos de requerimiento previo, y
+
+D./Dña. [NOMBRE Y APELLIDOS], del local n.º [Nº]: cuotas impagadas a [IMPORTE] euros cada cuota, total [IMPORTE] euros, más los gastos de requerimiento previo».
+
+Lo expuesto es trascripción literal del acuerdo adoptado, según figura en el acta de la Junta de la Comunidad de Propietarios de fecha [FECHA], y así lo certifico yo el Secretario de la Comunidad con el visto bueno del Presidente.
+
+Firmado:V.B. El Presidente
+
+========================================================================

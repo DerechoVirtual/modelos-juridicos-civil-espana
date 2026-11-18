@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -57,7 +57,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -65,3 +65,20 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1420 · Pedir que se acredite la discapacidad
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: restos de formato retirados; 1 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Comunidad de Propietarios de [dirección]A la atención de:D./Dña. [comunero] [dirección]En [LUGAR], a [DÍA] de [MES] de [AÑO].Muy Sr. mío:Habiendo recibido su solicitud de realización en los elementos comunes de obras destinadas a mejorar la accesibilidad en el inmueble consistentes en y no constando que [el titular del inmueble o una persona que viva, trabaje o preste sus servicios en el] [piso o local] de su propiedad sufra algún tipo de discapacidad, le ruego que proceda a acreditarnos esta situación en la forma regulada en el artículo 2.º del Real Decreto 1414/2006, de 1 de diciembre, por el que se determina la consideración de personas con discapacidad. Una vez justificada la necesidad procederemos al estudio de su propuesta. [En su caso] Al no residir de forma permanente la persona a favor de la cual se solicita la reforma del inmueble, le rogamos también que acredite la relación [laboral o de servicio] que mantiene con el titular del inmueble.A la espera de sus noticias, reciba un saludo.
+
+Firmado: [Presidente, Secretario Administrador] Recibí: [comunero]
+
+========================================================================

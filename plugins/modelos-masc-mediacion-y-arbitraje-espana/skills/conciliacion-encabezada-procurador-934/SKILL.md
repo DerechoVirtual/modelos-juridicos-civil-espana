@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -53,7 +53,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -61,3 +61,40 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0934 · Conciliación encabezada por procurador
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 20 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+AL JUEZ DE PAZ DE [COMPLETAR]
+
+O AL LETRADO DE LA ADMINISTRACIÓN DE JUSTICIA DE LA SECCIÓN CIVIL/DE LO MERCANTIL
+
+D./Dña. [NOMBRE Y APELLIDOS], Procurador de los Tribunales, en nombre y representación de D./Dña. [NOMBRE Y APELLIDOS], según acredito con la escritura de poder que acompaño, ante el Tribunal comparezco bajo la dirección letrada de D./Dña. [NOMBRE Y APELLIDOS] y como mejor proceda en derecho DIGO:
+
+Que mediante el presente escrito, en la representación que acredito, y según permiten los arts. 139 y siguientes de la Ley de jurisdicción voluntaria solicitamos celebrar Acto de Conciliación con D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, con domicilio en C/ [CALLE] de [COMPLETAR] y DNI n.º [DNI/NIE], con objeto de que SE AVENGA a reconocer lo siguiente:
+
+S Que D./Dña. [NOMBRE Y APELLIDOS] y D./Dña. [NOMBRE Y APELLIDOS] suscribieron contrato de [COMPLETAR] según el cual
+
+D./Dña. [NOMBRE Y APELLIDOS] se obligaba a [COMPLETAR].
+
+S Que cumplido el plazo pactado D./Dña. [NOMBRE Y APELLIDOS] ha cumplido su obligación de [COMPLETAR] pero el requerido de conciliación no ha procedido a pagar la cantidad de [IMPORTE] euros.
+
+S Que D./Dña. [NOMBRE Y APELLIDOS] adeuda a mi representado la cantidad de [IMPORTE] euros en atención a la indicada relación.
+
+S Que en este acto proceda a liquidar su deuda entregando la cantidad de [IMPORTE] euros a favor de mi representado.
+
+Por lo expuesto,
+
+SUPLICO AL (JUEZ DE PAZ O AL LETRADO DE LA ADMINITRACIÓN DE JUSTICIA): Que tenga por presentado este escrito, se sirva admitirlo, promovido y citar al solicitante a través de esta representación procesal y al requerido, a celebrar Acto de Conciliación sobre los extremos a que se contrae este escrito con objeto de que el conciliado se avenga a lo que se pide en el cuerpo de la presente papeleta y acordando expedir y entregarme testimonio del acta con su resultado.
+
+Es justicia que pido en [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+========================================================================

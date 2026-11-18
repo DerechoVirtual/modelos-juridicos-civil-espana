@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -55,7 +55,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -63,3 +63,34 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0630 · Expediente notarial por robo de título valor
+
+- Año del modelo: 2015
+- Revisión 17-11-2026: 26 campos de relleno marcados en blanco; 6 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS, Nº, Nº DE DOCUMENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D. [NOMBRE Y APELLIDOS], con NIF [NIF], con domicilio en [LOCALIDAD], correo electrónico [CORREO ELECTRÓNICO], teléfono [TELÉFONO], actuando en mi propio nombre comparezco ante esa Notaría y formulo solicitud de expediente notarial por robo del cheque núm. [Nº] del que es legítimo tenedor el solicitante, librado contra el Banco [COMPLETAR], Oficina [COMPLETAR], con domicilio en [LOCALIDAD], por el aceptante D. [NOMBRE Y APELLIDOS], con domicilio en [LOCALIDAD], la cual fundo en los siguientes:
+
+HECHOS Y FUNDAMENTOS
+
+El solicitante es legítimo tenedor de la letra de cambio número [NÚMERO] emitida el pasado día [FECHA], en la localidad de [COMPLETAR], cuyo librado es D. [NOMBRE Y APELLIDOS], con domicilio en [LOCALIDAD], por importe de [IMPORTE] euros, la cual está domiciliada en la entidad bancaria [COMPLETAR], número de cuenta [COMPLETAR], con vencimiento [COMPLETAR].
+
+La citada cambial fue emitida como consecuencia de las relaciones comerciales entre el solicitante y el librado D. [NOMBRE Y APELLIDOS], en virtud de las cuales el firmante adeudaba la cantidad de [IMPORTE] euros, emitiéndose el cheque con el número de serie [COMPLETAR], del talonario emitido por la entidad bancaria [COMPLETAR], sucursal de [COMPLETAR] (se acompaña como documentos número [Nº DE DOCUMENTO], copia del contrato de reconocimiento de deuda en cuya cláusula [COMPLETAR] consta la emisión de la letra de cambio y copia de la misma).
+
+En el día de la fecha, cuando el solicitante se dirigía a ingresar la letra de cambio para su descuento en la sucursal de [COMPLETAR] ha sido víctima de un robo con intimidación a las [Nº] horas del día [FECHA], en el cual le ha sido sustraído, entre otros bienes y efectos, la referida cambial, tal como consta relacionado en la denuncia formulada en la Comisaría de Policía de [COMPLETAR] que acompaño como documento núm. [Nº DE DOCUMENTO].
+
+Atendido lo anterior, dirijo a V.I. la presente solicitud por ser competente al corresponder el distrito notarial con el de lugar del pago, de conformidad a lo dispuesto en el art. 78 de la Ley del Notariado, a fin de que se suspenda el pago y se autorice a mi representado a la percepción de su importe, una vez cumplidos los trámites legales.
+
+Por todo lo expuesto,
+
+SOLICITO A V.I.: Tenga por presentado este escrito y demás documentos junto con las copias que se acompañan, tenga por formulada solicitud de expediente de jurisdicción voluntaria por robo de la letra de cambio descrita en el hecho primero, disponiendo la citación del librado y dar publicidad al expediente, y tras los trámites correspondientes, acuerde la suspensión de la obligación de pago y, transcurrido el plazo legal, se dicte resolución autorizando a mi representado al cobro de su crédito en la fecha de vencimiento.
+
+En(lugar, fecha y firma del solicitante)
+
+========================================================================

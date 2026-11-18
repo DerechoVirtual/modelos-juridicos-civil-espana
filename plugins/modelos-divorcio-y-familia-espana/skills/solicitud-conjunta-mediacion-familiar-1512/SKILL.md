@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -59,7 +59,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -67,3 +67,49 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1512 · Solicitud conjunta de mediación familiar
+
+- Año del modelo: 2014
+- Revisión 17-11-2026: 32 campos de relleno marcados en blanco; 4 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Parte
+EXPONEN
+Solicitud a la institución
+Firmas
+
+A LA INSTITUCIÓN DE MEDIACIÓN DE [COMPLETAR]
+
+D. [NOMBRE Y APELLIDOS], mayor de edad, con DNI [DNI/NIE], estado civil [ESTADO CIVIL], y domiciliado en [COMPLETAR], C.P., calle [CALLE], núm. [Nº], piso [COMPLETAR], letra [COMPLETAR], dirección electrónica [COMPLETAR], y teléfono
+
+D. [NOMBRE Y APELLIDOS], mayor de edad, con DNI [DNI/NIE], estado civil [ESTADO CIVIL], y domiciliado en [COMPLETAR], C.P., calle [CALLE], núm. [Nº], piso [COMPLETAR], letra [COMPLETAR], dirección electrónica [COMPLETAR], y teléfono
+
+Y D. [NOMBRE Y APELLIDOS], mayor de edad, con DNI [DNI/NIE], estado civil [ESTADO CIVIL], y domiciliado en [COMPLETAR], C.P., calle [CALLE], núm. [Nº], piso [COMPLETAR], letra [COMPLETAR], dirección electrónica [COMPLETAR], y teléfono [TELÉFONO],
+
+EXPONEN
+
+Que actúan en su propio nombre, habiendo convenido solicitar mediación de la institución [COMPLETAR], para dirimir la controversia que se expone a continuación, solicitando de forma expresa la designación de un mediador.
+
+ Que la controversia que se ha planteado entre las partes deriva de la división del inmueble sito en [LOCALIDAD], el cual fue heredado por los tres hermanos que suscriben en pro indiviso del causante y padre de los que suscriben D. [NOMBRE Y APELLIDOS], en testamento de fecha [FECHA] de [COMPLETAR] de [COMPLETAR], ostentando cada uno de ellos un tercio de la propiedad del inmueble, pero discrepando en la forma y condiciones para llevar a cabo la división del mismo.
+
+Que de conformidad con lo dispuesto en el art. 16.1 de la Ley 5/2012 las partes han acordado que el idioma en el que se sustanciará el procedimiento será el de la presente solicitud, y que las sesiones se desarrollarán en
+
+Que las partes asumen el coste de la mediación por terceras partes, ofreciendo la entrega de la correspondiente provisión de fondos tan pronto sea solicitada.
+
+Que ambas partes designan la dirección electrónica que consta en el encabezamiento como medio para la práctica de notificaciones.
+
+En virtud de lo expuesto,
+
+SOLICITAMOS DE LA INSTITUCIÓN, que tenga por formulada la presente petición y en su virtud, proceda a la designación de mediador, citando a las partes para la celebración de la sesión informativa, y continuar el procedimiento a fin de resolver la controversia que dejamos expuesta.
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Firma de las partes
+
+========================================================================

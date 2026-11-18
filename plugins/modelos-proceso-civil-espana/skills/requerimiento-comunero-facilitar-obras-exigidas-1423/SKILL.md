@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -51,7 +51,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -59,3 +59,36 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1423 · Requerimiento al comunero para facilitar obras exigidas por la Administración
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 4 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+Presidente de la Comunidad de Propietarios de [COMPLETAR]
+
+A la atención de:
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+Muy Sr. mío:
+
+Como ya sabe Ud., el Ayuntamiento de nuestra ciudad nos ha requerido para que procedamos a reparar los miradores del edificio con vistas a la C/, ya que de su parte superior se están desprendiendo tejas que pueden ocasionar daños en la vía pública o a los transeúntes. La empresa con la que la Comunidad ha contratado las obras se ha ofrecido a realizar los arreglos desde el interior de las viviendas sin tener que instalar andamios, abaratando de esta manera considerablemente el precio final. Para que ello sea posible, le solicito nuevamente su colaboración facilitando el acceso de los operarios a su casa con la única finalidad de llevar a cabo la obra. Finalmente pongo en su conocimiento que de oponerse injustificadamente a esta pretensión responderá de las sanciones que, en su caso y por esta causa, se puedan imponer a la Comunidad en vía administrativa por la demora en el cumplimiento de la orden de reparación que hemos recibido, según se prevé en el artículo 10.2 de la Ley de Propiedad Horizontal.
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Atentamente,
+
+Firmado:
+
+Recibí:
+
+========================================================================

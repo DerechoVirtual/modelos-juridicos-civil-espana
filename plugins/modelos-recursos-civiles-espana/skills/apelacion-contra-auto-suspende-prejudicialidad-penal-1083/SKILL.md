@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,48 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1083 · Apelación contra el auto que suspende por prejudicialidad penal
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 15 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Juicio [COMPLETAR] n.º [Nº DE PROCEDIMIENTO]/[AÑO]
+
+A LA AUDIENCIA PROVINCIAL DE [LOCALIDAD]
+
+D./Dña. [NOMBRE Y APELLIDOS] Procurador de los Tribunales, en nombre, y representación de D./Dña. [NOMBRE Y APELLIDOS], según tengo debidamente acreditado en el procedimiento referenciado ante la Sala comparezco y como mejor proceda en Derecho DIGO:
+
+Que, mediante el presente escrito y según permiten los arts. 41.2, 455.1 y 458 de la LEC, interpongo recurso de apelación contra el auto n.º [NÚMERO] de fecha [FECHA] por el que se acuerda la suspensión de las presentes actuaciones por prejudicialidad penal en atención a los siguientes presupuestos y alegaciones:
+
+PRESUPUESTOS
+
+Formulo el presente recurso de apelación contra el Auto de fecha [FECHA] mediante el que se acuerda la suspensión del presente procedimiento.
+
+Interpongo recurso de apelación dentro del plazo legal de veinte días previsto en el art. 458 de la LEC.
+
+El pronunciamiento que se impugna de la parte dispositiva del auto es [COMPLETAR] (la suspensión de las actuaciones, la condena en costas a esta parte [COMPLETAR])
+
+ALEGACIONES
+
+La resolución recurrida entiende que la tramitación de las diligencias previas relativas a [DESCRIBIR] en las que aparece como imputado [COMPLETAR] pueden tener relevancia decisiva en el presente procedimiento civil porque [COMPLETAR].
+
+Esta parte entiende que el razonamiento no es correcto porque [COMPLETAR].
+
+Por lo expuesto,
+
+SUPLICO A LA SALA: Que tenga por presentado este escrito y por interpuesto RECURSO DE APELACIÓN contra el Auto de fecha [FECHA] mediante el que se acuerda la suspensión del presente procedimiento, a fin de que en su día, y previos los trámites legales oportunos, se acuerde por la Audiencia Provincial dejar sin efecto esta resolución, acordando la continuación del presente procedimiento y entendiendo que no existe cuestión prejudicial penal.
+
+Es justicia que pido en [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+OTROSÍ I DIGO: Que según exige la DA decimoquinta de la LOPJ acompaño justificante de haber efectuado el depósito para recurrir.
+
+NUEVAMENTE SUPLICO: Que se tenga por hecha esta manifestación a los efectos oportunos, por ser justicia que pido en mismo lugar y fecha.
+
+========================================================================

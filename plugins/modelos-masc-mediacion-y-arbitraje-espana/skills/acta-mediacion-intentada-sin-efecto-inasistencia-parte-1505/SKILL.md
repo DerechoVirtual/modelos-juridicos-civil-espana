@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -52,7 +52,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -60,3 +60,30 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1505 · Acta de mediación intentada sin efecto por inasistencia de una parte a la sesión informativa
+
+- Año del modelo: 2014
+- Revisión 17-11-2026: 4 campos de relleno marcados en blanco; 4 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Partes y datos de la sesión informativa
+Desistimiento de una de las partes
+Firmas
+
+ACTA DE SESIÓN INFORMATIVA SIN EFECTO
+
+D. [NOMBRE Y APELLIDOS], mediador de la institución [COMPLETAR] hago constar que en el día de la fecha he citado a las partes D. y D. [NOMBRE Y APELLIDOS] para la celebración de una sesión informativa sobre mediación en relación a [COMPLETAR], habiendo comparecido D. [NOMBRE Y APELLIDOS] y sin que lo haya hecho D. [NOMBRE Y APELLIDOS], pese a estar debidamente citado.
+
+De conformidad a lo que dispone el art. 17.1 de la Ley 5/2012, entiendo que D. desiste de la mediación solicitada al no haber comparecido sin que haya alegado justa causa, expidiendo la presente acta de constancia de la cual se entrega copia a la otra parte por no ser confidencial la información aquí recogida.
+
+Y para que así conste en el expediente de mediación número [Nº DE EXPEDIENTE], expido la presente a [DÍA] de [MES] de [AÑO]
+
+Firma del mediador
+
+========================================================================

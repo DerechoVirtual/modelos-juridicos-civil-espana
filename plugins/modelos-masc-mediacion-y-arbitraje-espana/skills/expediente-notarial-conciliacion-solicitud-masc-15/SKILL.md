@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,42 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0015 · Expediente notarial de conciliación: solicitud (MASC)
+
+- Año del modelo: 2025
+- Revisión 17-11-2026: 17 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Escrito de solicitud de conciliación ante Notario a los efectos de cumplir el requisito de procedibilidad para la iniciación de la vía jurisdiccional, conforme a los arts. 5.1 y 14.3 LO 1/2025.
+
+A LA NOTARÍA DE [COMPLETAR]
+
+D./Dª [NOMBRE Y APELLIDOS], mayor de edad, casado y de profesión [PROFESIÓN], vecino de [COMPLETAR], con domicilio en [LOCALIDAD], correo electrónico [CORREO ELECTRÓNICO] con NIF núm. comparezco ante la Notaría y solicito la celebración de ACTO DE CONCILIACIÓN con el requerido D./Dª [NOMBRE Y APELLIDOS], mayor de edad, con domicilio en [LOCALIDAD] y correo electrónico [CORREO ELECTRÓNICO], en base a los siguientes
+
+HECHOS Y FUNDAMENTOS:
+
+PRIMERO.- Se insta esta solicitud de conciliación al amparo de lo dispuesto en el art. 81 LN, que establece que podrá realizarse ante Notario la conciliación de los distintos intereses de los otorgantes con la finalidad de alcanzar un acuerdo extrajudicial, sobre cualquier controversia contractual como la que es objeto de esta solicitud.
+
+SEGUNDO.- La petición se funda en que el solicitante y el requerido suscribieron en fecha [FECHA] un contrato privado de compraventa sobre el piso de propiedad del requerido sito en [LOCALIDAD] fijando un precio de [IMPORTE] euros a satisfacer en tres plazos por importe de [IMPORTE] euros cada uno, los cuales fueron abonados puntualmente por el solicitante (acompaño como documentos [COMPLETAR] contrato y recibos de pago del precio).
+
+TERCERO.- El requerido no ha otorgado la escritura pública de compraventa a que se comprometió en el referido contrato.
+
+CUARTO.- El objeto de la conciliación es que el requerido se avenga al otorgamiento de la escritura pública de la compraventa realizada en fecha [FECHA] y al pago de la mitad de los gastos notariales, registrales y fiscales conforme a lo pactado.
+
+QUINTO.- La presente solicitud se formaliza asimismo, y en su caso, a los efectos de cumplir el requisito de procedibilidad para la iniciación de la vía jurisdiccional de conformidad a lo dispuesto en el art. 5.1 de la Ley Orgánica 1/2025 y conforme autoriza el art. 14.3 de la citada Ley Orgánica 1/2025, (si la solicitud es anterior a la entrada en vigor: para el caso de interposición de la demanda una vez haya entrado en vigor la citada Ley a partir del día 3 de abril de 2025), solicitando que se advierta al requerido sobre estas circunstancias.
+
+En virtud de lo antes indicado,
+
+SOLICITO A V.I.:
+
+Que tenga por presentada esta solicitud de conciliación al objeto expresado, citando de comparecencia al requerido D/Dª [NOMBRE Y APELLIDOS] en la forma legalmente prevista con las advertencias oportunas; y una vez celebrado, disponga que se me entregue copia autorizada de la escritura pública de conciliación.
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Firma del/de la solicitante

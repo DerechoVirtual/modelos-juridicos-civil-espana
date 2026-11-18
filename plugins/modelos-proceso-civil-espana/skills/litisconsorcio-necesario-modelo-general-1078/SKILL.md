@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -62,7 +62,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -70,3 +70,42 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1078 · Litisconsorcio necesario: modelo general
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 1 puntualizaciones normativas añadidas en el texto; 18 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA SECCIÓN CIVIL DEL TRIBUNAL DE INSTANCIA DE [SEDE]
+
+[NOTA DE REVISIÓN: Regla general: el TI tiene Sección Única, de Civil y de Instrucción; solo en los partidos que fija la Ley 38/1988 hay Sección Civil separada. Donde no la haya: «A LA SECCIÓN ÚNICA, DE CIVIL Y DE INSTRUCCIÓN, DEL TRIBUNAL DE INSTANCIA DE…». Fuente: LOPJ art. 84.2 (redacc. LO 1/2025, BOE-A-2025-76).]
+
+D./Dña. [NOMBRE Y APELLIDOS], Procurador de los Tribunales, interviniendo en nombre de D./Dña. [NOMBRE Y APELLIDOS], según acredito mediante certificación del Registro Electrónico de Apoderamientos Judiciales que acompaño a este escrito, ante el Tribunal comparezco, bajo dirección letrada del Abogado D./Dña. [NOMBRE Y APELLIDOS], y como mejor proceda en Derecho DIGO:
+
+Que en nombre de mi representado, mediante el presente escrito formulo Demanda de Juicio [COMPLETAR] sobre [DESCRIBIR] ejercitando la acción [COMPLETAR] que asiste a mi poderdante, dirigiendo esta Demanda contra la entidad [COMPLETAR], con domicilio social en contra D./Dña. [NOMBRE Y APELLIDOS] mayor de edad, con domicilio social en [LOCALIDAD] y contra D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, (estado civil) con domicilio en [LOCALIDAD] y DNI n.º [DNI/NIE] para que tramitada en legal forma se dicte Sentencia conforme a lo que se pide en el Suplico de esta Demanda, que baso en los siguientes
+
+HECHOS
+
+ (los que vengan al caso)
+
+FUNDAMENTOS DE DERECHO
+
+(peculiaridad de demanda con litisconsorcio pasivo necesario).
+
+COMPETENCIA—
+
+LITISCONSORCIO NECESARIO.—Establece el art. 12.2 de la LEC que “cuando por razón de lo que sea objeto del juicio la tutela jurisdiccional solicitada sólo pueda hacerse efectiva frente a varios sujetos conjuntamente considerados, todos ellos deberán ser demandados, como litisconsortes, salvo que la ley disponga expresamente otra cosa”. En el presente supuesto se ejercita una acción relativa a una de las obligaciones indivisibles a que se refiere el art. 1139 del Código Civil, por lo que se impone, por imperativo legal, demandar a todos los implicados en el cumplimiento de la obligación indivisible.
+
+Por lo expuesto,
+
+SUPLICO AL TRIBUNAL: Que tenga por presentado este escrito con los documentos que acompaño y copia de todo ello, lo admita a trámite y en su día dicte sentencia por la que se condene conjunta y solidariamente a la entidad [COMPLETAR], a D./Dña. [NOMBRE Y APELLIDOS] y a D./Dña. [NOMBRE Y APELLIDOS] a [COMPLETAR] todo ello con expresa imposición de costas a la parte demandada.
+
+Es justicia que pido en [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+========================================================================

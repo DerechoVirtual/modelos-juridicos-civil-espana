@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -55,7 +55,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -63,3 +63,52 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1377 · Convocatoria de la junta constituyente por el promotor
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 19 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+A la atención de:
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+CONVOCATORIA DE JUNTA CONSTITUYENTE DE LA COMUNIDAD DE PROPIETARIOS DE LA C/ [CALLE] N.º [NÚMERO].
+
+D./Dña. [NOMBRE Y APELLIDOS], promotor de esta reunión, en su calidad de [COMPLETAR], convoca a todos los propietarios de este inmueble a Junta constituyente que tendrá lugar en [COMPLETAR] la sede de esta empresa en [COMPLETAR], los locales del inmueble [COMPLETAR]) el día [FECHA] de [COMPLETAR] de [COMPLETAR] a las [Nº] horas en primera convocatoria o a las [Nº] horas del mismo día en segunda convocatoria.
+
+El orden del día de la reunión será el siguiente:
+
+ORDEN DEL DÍA
+
+Presentación de los propietarios y determinación de personas que actuarán en esta Junta como Presidente y Secretario, levantando este último acta de la reunión.
+
+(En su caso) Exposición por la [COMPLETAR] del funcionamiento de servicios comunes y del mantenimiento necesario.
+
+Propuesta y votación del acuerdo de constituir la Comunidad de Propietarios de [COMPLETAR] y delegación en quien se designe para la realización de los trámites necesarios para su legalización.
+
+Exposición de proyecto de Estatutos para la comunidad y, en su caso, votación para su aprobación o modificación. Este proyecto se une como anexo n.º 1 a esta convocatoria.
+
+Exposición de presupuesto para el año [COMPLETAR], dotación de fondo de reserva y fijación de cuantía mensual de contribución de cada propietario según cuota de participación a los gastos comunes. El presupuesto, proyecto de fondo de reserva y propuesta de cuotas se unen a esta convocatoria como anexo n.º 2.
+
+Elección de Presidente y Secretario de la Comunidad para el período [COMPLETAR] y estudio, y aprobación en su caso, de la necesidad de contratar un administrador.
+
+Estudio de contratación de los servicios de Administrador, de mantenimiento de servicios comunes y de limpieza.
+
+Ruegos y preguntas.
+
+Al tratarse de la primera reunión de la Junta de Propietarios, se hace constar que no existen vecinos que adeuden cantidad por cuotas impagadas.
+
+Firmado:
+
+========================================================================

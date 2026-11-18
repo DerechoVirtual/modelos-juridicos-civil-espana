@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -61,7 +61,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -69,3 +69,44 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0497 · Desistimiento del proceso de separación o divorcio de mutuo acuerdo
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 2 citas normativas corregidas tras comprobarlas en el BOE; restos de formato retirados; notas del formulario agrupadas al final (1); 1 desplegables convertidos en elección en blanco; 6 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Escrito de uno de los cónyuges solicitando desistimiento del proceso de separación o divorcio de mutuo acuerdo.
+
+Formulario adaptado a la reforma procesal de la LO 1/2025.
+
+A LA SECCIÓN DE FAMILIA, INFANCIA Y CAPACIDAD DEL TRIBUNAL DE INSTANCIA DE [SEDE], PLAZA N.º [COMPLETAR]
+
+[NOTA DE REVISIÓN: Denominación legal: Sección de Familia, Infancia y Capacidad. Si no existe en el partido, conoce la Sección Civil o la Única (art. 86.3-4 LOPJ). Fuente: LOPJ arts. 84.2.a) y 86 (redacc. LO 1/2025, BOE-A-2025-76).]
+
+[NOTA DE REVISIÓN: El Tribunal de Instancia es único por partido judicial (art. 84.1 LOPJ); lo que se numera es la plaza dentro de la Sección (DT 1.ª LO 1/2025). En escritos iniciales (demanda, solicitud, petición monitoria) no se indica plaza: «…DEL TRIBUNAL DE INSTANCIA DE [partido]», para reparto. Fuente: LOPJ art. 84.1-2 (redacc. LO 1/2025, BOE-A-2025-76; consolidado BOE-A-1985-12666) y LO 1/2025 DT 1.ª (plazas con la numeración del juzgado de procedencia).]
+
+D./Dña. [NOMBRE Y APELLIDOS], Procurador/a de los Tribunales y de D./Dña. [NOMBRE Y APELLIDOS], representación que tengo debidamente acreditada en autos de [ELEGIR: separación / divorcio] de mutuo acuerdo n.º [Nº]/[AÑO], y sobre la base del poder para pleitos que abarca facultades especiales para desistir del proceso, que se acompañó con la demanda y consta testimoniado en autos, ante el Tribunal comparezco y como mejor en Derecho proceda (1), DIGO:
+
+Que por medio del presente escrito y siguiendo instrucciones de mi mandante vengo a DESISTIR en forma del presente procedimiento, con expresa reserva de acción, de conformidad con lo establecido en el art. 20 LEC, firmando este escrito mi mandante junto conmigo en prueba de conformidad.
+
+Por lo expuesto,
+
+SUPLICO AL TRIBUNAL
+
+que teniendo por presentado este escrito, se sirva admitirlo, quedando unido a los autos de su razón, y en su virtud, dando traslado del mismo a D./Dña. [NOMBRE Y APELLIDOS] por plazo de diez días, acuerde el archivo del presente procedimiento teniéndome por DESISTIDO del mismo, sin hacer especial pronunciamiento en cuanto a las costas causadas, junto a lo demás que en Derecho proceda.
+
+Es Justicia de hacerse en [LUGAR], a [FECHA].
+
+Firma del Abogado	Firma del Procurador/a
+
+NOTAS DEL FORMULARIO
+
+(1) Véase sobre esta cuestión AAP Asturias de 22 de enero de 2004, rec. 839/2003; y SSAP Coruña de 25 de junio de 2013, rec. 23/2013 o Málaga de 9 de junio de 2016, rec. 1/2016.
+
+========================================================================
