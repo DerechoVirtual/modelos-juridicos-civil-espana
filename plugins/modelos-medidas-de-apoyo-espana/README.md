@@ -42,119 +42,22 @@ El resultado es un borrador para que lo revise un profesional antes de presentar
 
 ## Antes de empezar
 
-- **Dónde funciona:** en Claude Code, en la terminal o en la pestaña Code de la app de Claude. Desde esta carpeta no se puede instalar en el chat ni en Cowork: para eso habría que publicarlo en un repositorio de GitHub.
+- **Dónde funciona:** en Claude Code y en Claude (web, escritorio y Cowork).
 - **Jurisprudenciator es imprescindible:** el plugin trae el conector y cada skill trabaja siempre con él, igual que los plugins de Jurisprudenciator del directorio de Claude. Sin una cuenta de Jurisprudenciator conectada, las skills se paran y no redactan nada. La primera vez hay que iniciar sesión (en Claude Code, con `/mcp`; o con tu URL personal: https://jurisprudenciator.lexiaipro.org/instalacion). Si ya tienes Jurisprudenciator conectado en Claude, las skills usan ese.
-- **Espacio que ocupa:** unos 5.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-medidas-de-apoyo-espana@plugins-dv`).
+- **Espacio que ocupa:** unos 5.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-medidas-de-apoyo-espana@modelos-juridicos-civil-espana`).
 
 ## Instalación
 
-Solo la primera vez, añade el catálogo de plugins (sirve para todos). Cambia la ruta por la carpeta donde esté el catálogo (la que contiene `.claude-plugin`); si es un zip, descomprímelo antes en una ruta corta, porque hay nombres de archivo largos:
+**En Claude Code**, añade una vez el catálogo de este repositorio y después instala el plugin:
 
 ```bash
-claude plugin marketplace add "C:\plugins-dv"
+claude plugin marketplace add DerechoVirtual/modelos-juridicos-civil-espana
+claude plugin install modelos-medidas-de-apoyo-espana@modelos-juridicos-civil-espana
 ```
 
-Después, instala este plugin:
+Al terminar, abre una conversación nueva para que aparezcan sus skills.
 
-```bash
-claude plugin install modelos-medidas-de-apoyo-espana@plugins-dv
-```
-
-En la pestaña Code de la app de Claude también puedes pedírselo a Claude con esas palabras: «instala el plugin modelos-medidas-de-apoyo-espana del catálogo plugins-dv que está en C:\plugins-dv». Al terminar, abre una conversación nueva para que aparezcan sus skills.
-
-## Lista de formularios
-
-Para usar uno directamente: `/modelos-medidas-de-apoyo-espana:<skill>`.
-
-### Demandas, interposiciones y peticiones iniciales (6)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 74 | Demanda de nulidad de compraventa de inmueble sin autorización judicial del tutor o curador | 2023 | `demanda-nulidad-compraventa-inmueble-sin-autorizacion-74` |
-| 141 | Demanda de medidas voluntarias de apoyo: autocuratela | 2021 | `demanda-medidas-voluntarias-apoyo-autocuratela-141` |
-| 143 | Demanda de medidas judiciales de apoyo a persona con discapacidad: curatela | 2021 | `demanda-medidas-judiciales-apoyo-persona-discapacidad-143` |
-| 393 | Sustitución de tutor: demanda | 2019 | `sustitucion-tutor-demanda-393` |
-| 855 | Demanda de reintegración de la capacidad | 2013 | `demanda-reintegracion-capacidad-855` |
-| 1456 | Demanda de nulidad matrimonial por incapacidad (canon 1095.3) | 2014 | `demanda-nulidad-matrimonial-incapacidad-canon-1095-3-1456` |
-
-### Contestaciones, oposiciones y alegaciones (4)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 146 | Oposición a la provisión de medidas judiciales de apoyo | 2021 | `oposicion-provision-medidas-judiciales-apoyo-146` |
-| 236 | Oposición a la rendición final de cuentas del tutor por fallecimiento del tutelado | 2020 | `oposicion-rendicion-final-cuentas-tutor-fallecimiento-236` |
-| 1102 | Contestación a la demanda de medidas judiciales de apoyo a personas con discapacidad | 2013 | `contestacion-demanda-medidas-judiciales-apoyo-personas-1102` |
-| 1194 | Contestación a demanda de filiación por defensor judicial del menor | 2014 | `contestacion-demanda-filiacion-defensor-judicial-menor-1194` |
-
-### Solicitudes y expedientes (30)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 47 | Autorización judicial para vender inmuebles de persona con discapacidad (Cataluña) | 2023 | `autorizacion-judicial-vender-inmuebles-persona-47` |
-| 113 | Medidas de apoyo con curatela tras suprimirse la patria potestad prorrogada | 2022 | `medidas-apoyo-curatela-tras-suprimirse-patria-potestad-113` |
-| 126 | Defensor judicial y autorización para aceptar y adjudicar una herencia | 2022 | `defensor-judicial-autorizacion-aceptar-adjudicar-126` |
-| 144 | Aprobación judicial de la partición hecha por un defensor judicial | 2021 | `aprobacion-judicial-particion-hecha-defensor-judicial-144` |
-| 145 | Revisión de medidas de capacidad adoptadas antes de la Ley 8/2021: solicitud | 2021 | `revision-medidas-capacidad-adoptadas-antes-ley-8-2021-145` |
-| 147 | Jurisdicción voluntaria para medidas judiciales de apoyo: curatela | 2021 | `jurisdiccion-voluntaria-medidas-judiciales-apoyo-147` |
-| 148 | Revisión de medidas anteriores a la Ley 8/2021 en proceso de capacidad | 2021 | `revision-medidas-anteriores-ley-8-2021-proceso-capacidad-148` |
-| 149 | Medidas por guarda o administración inadecuada de bienes de persona con discapacidad | 2021 | `medidas-guarda-administracion-inadecuada-bienes-persona-149` |
-| 150 | Revisión de medidas de apoyo: extinguir la curatela o limitar los actos asistidos | 2021 | `revision-medidas-apoyo-extinguir-curatela-limitar-actos-150` |
-| 183 | Gravamen de bienes de menor o persona con apoyos: división de cosa común | 2021 | `gravamen-bienes-menor-persona-apoyos-division-cosa-comun-183` |
-| 364 | Defensor judicial como cautelar junto a la demanda de medidas de apoyo | 2019 | `defensor-judicial-como-cautelar-junto-demanda-medidas-364` |
-| 377 | Constitución de tutela (art. 213.1º CC) | 2019 | `constitucion-tutela-art-213-1o-cc-377` |
-| 392 | Autorización para aceptar una herencia en nombre de persona con discapacidad | 2019 | `autorizacion-aceptar-herencia-nombre-persona-392` |
-| 407 | Remoción del tutor | 2018 | `remocion-tutor-407` |
-| 474 | Medidas por ejercicio inadecuado de la guarda o administración de bienes (art. 158 CC) | 2017 | `medidas-ejercicio-inadecuado-guarda-administracion-474` |
-| 480 | Defensor judicial por conflicto de intereses con un progenitor | 2017 | `defensor-judicial-conflicto-intereses-progenitor-480` |
-| 514 | Constitución de tutela (art. 199.2º CC) | 2016 | `constitucion-tutela-art-199-2o-cc-514` |
-| 651 | Habilitación de edad y defensor judicial posterior | 2015 | `habilitacion-edad-defensor-judicial-posterior-651` |
-| 654 | Autorización para disponer o gravar bienes de persona con discapacidad | 2015 | `autorizacion-disponer-gravar-bienes-persona-discapacidad-654` |
-| 738 | Defensor judicial para administrar bienes | 2015 | `defensor-judicial-administrar-bienes-738` |
-| 748 | Medidas por ejercicio inadecuado de la guarda o administración de bienes (art. 164 CC) | 2015 | `medidas-ejercicio-inadecuado-guarda-administracion-748` |
-| 753 | Autorización de gravamen o extinción de derechos reales de menor o persona con apoyos | 2015 | `autorizacion-gravamen-extincion-derechos-reales-menor-753` |
-| 754 | Autorización para enajenar bienes de menores o personas con apoyos | 2015 | `autorizacion-enajenar-bienes-menores-personas-apoyos-754` |
-| 755 | Autorización para transigir sobre derechos de menores o personas con apoyos | 2015 | `autorizacion-transigir-sobre-derechos-menores-personas-755` |
-| 777 | Defensor judicial por no desempeño de funciones: inicio del expediente | 2015 | `defensor-judicial-no-desempeno-funciones-inicio-777` |
-| 781 | Defensor judicial por conflicto de intereses con el curador: inicio del expediente | 2015 | `defensor-judicial-conflicto-intereses-curador-inicio-781` |
-| 789 | Autorización judicial para vender bienes de menores o personas con apoyos | 2015 | `autorizacion-judicial-vender-bienes-menores-personas-789` |
-| 799 | Autorización judicial para el titular de la patria potestad menor no emancipado | 2015 | `autorizacion-judicial-titular-patria-potestad-menor-no-799` |
-| 1052 | Declaración o exhibición de documentos sobre capacidad, representación o legitimación | 2013 | `declaracion-exhibicion-documentos-sobre-capacidad-1052` |
-| 1420 | Pedir que se acredite la discapacidad | 2013 | `pedir-acredite-discapacidad-1420` |
-
-### Escritos de trámite (15)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 114 | Rendición de cuentas del tutor nombrado antes de la Ley 8/2021 | 2022 | `rendicion-cuentas-tutor-nombrado-antes-ley-8-2021-114` |
-| 117 | Rendición de cuentas del tutor o curador ante el Tribunal | 2022 | `rendicion-cuentas-tutor-curador-ante-tribunal-117` |
-| 247 | Excusa para ejercer la tutela (Cataluña) | 2020 | `excusa-ejercer-tutela-cataluna-247` |
-| 248 | Excusa para ejercer la tutela: modelo general | 2020 | `excusa-ejercer-tutela-modelo-general-248` |
-| 249 | Excusa para ejercer la tutela por causa sobrevenida | 2020 | `excusa-ejercer-tutela-causa-sobrevenida-249` |
-| 250 | Excusa sobrevenida para ejercer la tutela y nombramiento de nuevo tutor (Cataluña) | 2020 | `excusa-sobrevenida-ejercer-tutela-nombramiento-nuevo-250` |
-| 342 | Exhibición de documentos sobre capacidad o legitimación frente a una comunidad de bienes | 2019 | `exhibicion-documentos-sobre-capacidad-legitimacion-342` |
-| 433 | Autorización judicial al curador para demandar en nombre de la persona apoyada | 2018 | `autorizacion-judicial-curador-demandar-nombre-persona-433` |
-| 463 | Rendición de cuentas del defensor judicial al concluir su gestión | 2017 | `rendicion-cuentas-defensor-judicial-concluir-gestion-463` |
-| 588 | Aprobación judicial de la partición de herencia pedida por el curador | 2016 | `aprobacion-judicial-particion-herencia-pedida-curador-588` |
-| 681 | Oposición del tutor o curador a su remoción | 2015 | `oposicion-tutor-curador-remocion-681` |
-| 733 | Autorización del tutor o curador para aceptar sin beneficio de inventario o repudiar herencia | 2015 | `autorizacion-tutor-curador-aceptar-sin-beneficio-733` |
-| 791 | Informe del guardador de hecho sobre la persona y los bienes del menor o de la persona con apoyos | 2015 | `informe-guardador-hecho-sobre-persona-bienes-menor-791` |
-| 793 | Comunicación del defensor judicial de que ha desaparecido la causa de su nombramiento | 2015 | `comunicacion-defensor-judicial-ha-desaparecido-causa-793` |
-| 794 | Defensor judicial comunica que los representantes comparecen o acaba la habilitación | 2015 | `defensor-judicial-comunica-representantes-comparecen-794` |
-
-### Contratos, escrituras y documentos (2)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 294 | Demanda de medidas de apoyo y curador para ciudadana británica residente en España | 2020 | `demanda-medidas-apoyo-curador-ciudadana-britanica-294` |
-| 537 | Escritura de autotutela e instrucciones previas (Galicia) | 2016 | `escritura-autotutela-e-instrucciones-previas-galicia-537` |
-
-### Otros (3)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 986 | Alegación de defecto de capacidad en la audiencia previa | 2013 | `alegacion-defecto-capacidad-audiencia-previa-986` |
-| 1304 | Consentimiento del arrendador a obras de persona con discapacidad en la vivienda arrendada | 2013 | `consentimiento-arrendador-obras-persona-discapacidad-1304` |
-| 1419 | Discapacidad: acreditación | 2013 | `discapacidad-acreditacion-1419` |
+**En Claude (web y escritorio)** también puedes subirlo como ZIP desde **Personalizar → Plugins**. El ZIP de este plugin está en la página de versiones del repositorio: https://github.com/DerechoVirtual/modelos-juridicos-civil-espana/releases/latest
 
 ## Qué hay dentro de cada skill
 

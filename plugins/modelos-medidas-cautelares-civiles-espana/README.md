@@ -41,74 +41,22 @@ El resultado es un borrador para que lo revise un profesional antes de presentar
 
 ## Antes de empezar
 
-- **Dónde funciona:** en Claude Code, en la terminal o en la pestaña Code de la app de Claude. Desde esta carpeta no se puede instalar en el chat ni en Cowork: para eso habría que publicarlo en un repositorio de GitHub.
+- **Dónde funciona:** en Claude Code y en Claude (web, escritorio y Cowork).
 - **Jurisprudenciator es imprescindible:** el plugin trae el conector y cada skill trabaja siempre con él, igual que los plugins de Jurisprudenciator del directorio de Claude. Sin una cuenta de Jurisprudenciator conectada, las skills se paran y no redactan nada. La primera vez hay que iniciar sesión (en Claude Code, con `/mcp`; o con tu URL personal: https://jurisprudenciator.lexiaipro.org/instalacion). Si ya tienes Jurisprudenciator conectado en Claude, las skills usan ese.
-- **Espacio que ocupa:** unos 2.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-medidas-cautelares-civiles-espana@plugins-dv`).
+- **Espacio que ocupa:** unos 2.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-medidas-cautelares-civiles-espana@modelos-juridicos-civil-espana`).
 
 ## Instalación
 
-Solo la primera vez, añade el catálogo de plugins (sirve para todos). Cambia la ruta por la carpeta donde esté el catálogo (la que contiene `.claude-plugin`); si es un zip, descomprímelo antes en una ruta corta, porque hay nombres de archivo largos:
+**En Claude Code**, añade una vez el catálogo de este repositorio y después instala el plugin:
 
 ```bash
-claude plugin marketplace add "C:\plugins-dv"
+claude plugin marketplace add DerechoVirtual/modelos-juridicos-civil-espana
+claude plugin install modelos-medidas-cautelares-civiles-espana@modelos-juridicos-civil-espana
 ```
 
-Después, instala este plugin:
+Al terminar, abre una conversación nueva para que aparezcan sus skills.
 
-```bash
-claude plugin install modelos-medidas-cautelares-civiles-espana@plugins-dv
-```
-
-En la pestaña Code de la app de Claude también puedes pedírselo a Claude con esas palabras: «instala el plugin modelos-medidas-cautelares-civiles-espana del catálogo plugins-dv que está en C:\plugins-dv». Al terminar, abre una conversación nueva para que aparezcan sus skills.
-
-## Lista de formularios
-
-Para usar uno directamente: `/modelos-medidas-cautelares-civiles-espana:<skill>`.
-
-### Contestaciones, oposiciones y alegaciones (2)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 1399 | Oposición a diligencias preliminares de propiedad horizontal | 2013 | `oposicion-diligencias-preliminares-propiedad-horizontal-1399` |
-| 1484 | Oposición a medidas cautelares acordadas por arbitraje pendiente sin audiencia del demandado | 2014 | `oposicion-medidas-cautelares-acordadas-arbitraje-1484` |
-
-### Solicitudes y expedientes (7)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 187 | Devolución de la caución prestada en diligencias preliminares | 2021 | `devolucion-caucion-prestada-diligencias-preliminares-187` |
-| 512 | Medida cautelar previa a la demanda: acceso a vivienda o local | 2016 | `medida-cautelar-previa-demanda-acceso-vivienda-local-512` |
-| 1040 | Medidas cautelares (general) | 2013 | `medidas-cautelares-general-1040` |
-| 1100 | Alzamiento de medidas cautelares por no presentar la demanda en plazo | 2013 | `alzamiento-medidas-cautelares-no-presentar-demanda-plazo-1100` |
-| 1107 | Medida cautelar con el proceso iniciado (general) | 2013 | `medida-cautelar-proceso-iniciado-general-1107` |
-| 1401 | Abono de gastos de diligencias preliminares de propiedad horizontal | 2013 | `abono-gastos-diligencias-preliminares-propiedad-1401` |
-| 1494 | Prórroga de anotación preventiva de demanda | 2014 | `prorroga-anotacion-preventiva-demanda-1494` |
-
-### Escritos de trámite (3)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 168 | Otrosí de medidas cautelares del art. 727 LEC: inventario y administrador judicial | 2021 | `otrosi-medidas-cautelares-art-727-lec-inventario-168` |
-| 634 | Impugnación de la oposición a las diligencias preliminares | 2015 | `impugnacion-oposicion-diligencias-preliminares-634` |
-| 1038 | Otrosí: caución | 2013 | `otrosi-caucion-1038` |
-
-### Actos y resoluciones de la Administración o del órgano judicial (1)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 1373 | Diligencias preliminares de propiedad horizontal para exhibir documentos de la comunidad | 2013 | `diligencias-preliminares-propiedad-horizontal-exhibir-1373` |
-
-### Otros (7)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 981 | Caución en sustitución de la medida de aseguramiento | 2013 | `caucion-sustitucion-medida-aseguramiento-981` |
-| 1022 | Audiencia de las partes sobre la caución en tercería de dominio | 2013 | `audiencia-partes-sobre-caucion-terceria-dominio-1022` |
-| 1054 | Caución ofrecida en sustitución de medidas (general) | 2013 | `caucion-ofrecida-sustitucion-medidas-general-1054` |
-| 1106 | Medida cautelar de depósito de cosa mueble con la demanda | 2013 | `medida-cautelar-deposito-cosa-mueble-demanda-1106` |
-| 1110 | Caución prestada por el demandante | 2013 | `caucion-prestada-demandante-1110` |
-| 1340 | Fijación de caución en diligencias preliminares de propiedad horizontal | 2013 | `fijacion-caucion-diligencias-preliminares-propiedad-1340` |
-| 1400 | Pérdida de la caución de diligencias preliminares por no presentar la demanda | 2013 | `perdida-caucion-diligencias-preliminares-no-presentar-1400` |
+**En Claude (web y escritorio)** también puedes subirlo como ZIP desde **Personalizar → Plugins**. El ZIP de este plugin está en la página de versiones del repositorio: https://github.com/DerechoVirtual/modelos-juridicos-civil-espana/releases/latest
 
 ## Qué hay dentro de cada skill
 

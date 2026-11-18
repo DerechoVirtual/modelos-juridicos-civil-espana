@@ -42,96 +42,22 @@ El resultado es un borrador para que lo revise un profesional antes de presentar
 
 ## Antes de empezar
 
-- **Dónde funciona:** en Claude Code, en la terminal o en la pestaña Code de la app de Claude. Desde esta carpeta no se puede instalar en el chat ni en Cowork: para eso habría que publicarlo en un repositorio de GitHub.
+- **Dónde funciona:** en Claude Code y en Claude (web, escritorio y Cowork).
 - **Jurisprudenciator es imprescindible:** el plugin trae el conector y cada skill trabaja siempre con él, igual que los plugins de Jurisprudenciator del directorio de Claude. Sin una cuenta de Jurisprudenciator conectada, las skills se paran y no redactan nada. La primera vez hay que iniciar sesión (en Claude Code, con `/mcp`; o con tu URL personal: https://jurisprudenciator.lexiaipro.org/instalacion). Si ya tienes Jurisprudenciator conectado en Claude, las skills usan ese.
-- **Espacio que ocupa:** unos 3.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-monitorio-espana@plugins-dv`).
+- **Espacio que ocupa:** unos 3.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-monitorio-espana@modelos-juridicos-civil-espana`).
 
 ## Instalación
 
-Solo la primera vez, añade el catálogo de plugins (sirve para todos). Cambia la ruta por la carpeta donde esté el catálogo (la que contiene `.claude-plugin`); si es un zip, descomprímelo antes en una ruta corta, porque hay nombres de archivo largos:
+**En Claude Code**, añade una vez el catálogo de este repositorio y después instala el plugin:
 
 ```bash
-claude plugin marketplace add "C:\plugins-dv"
+claude plugin marketplace add DerechoVirtual/modelos-juridicos-civil-espana
+claude plugin install modelos-monitorio-espana@modelos-juridicos-civil-espana
 ```
 
-Después, instala este plugin:
+Al terminar, abre una conversación nueva para que aparezcan sus skills.
 
-```bash
-claude plugin install modelos-monitorio-espana@plugins-dv
-```
-
-En la pestaña Code de la app de Claude también puedes pedírselo a Claude con esas palabras: «instala el plugin modelos-monitorio-espana del catálogo plugins-dv que está en C:\plugins-dv». Al terminar, abre una conversación nueva para que aparezcan sus skills.
-
-## Lista de formularios
-
-Para usar uno directamente: `/modelos-monitorio-espana:<skill>`.
-
-### Demandas, interposiciones y peticiones iniciales (12)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 49 | Petición inicial de monitorio contra la comunidad por honorarios del administrador | 2023 | `peticion-inicial-monitorio-contra-comunidad-honorarios-49` |
-| 555 | Demanda ordinaria contra el propietario tras oposición al monitorio | 2016 | `demanda-ordinaria-contra-propietario-tras-oposicion-555` |
-| 637 | Oposición por abusividad al juicio cambiario: demanda | 2015 | `oposicion-abusividad-juicio-cambiario-demanda-637` |
-| 876 | Monitorio con procurador y abogado | 2013 | `monitorio-procurador-abogado-876` |
-| 880 | Monitorio con intereses moratorios ya liquidados | 2013 | `monitorio-intereses-moratorios-ya-liquidados-880` |
-| 890 | Monitorio encabezado por el acreedor | 2013 | `monitorio-encabezado-acreedor-890` |
-| 1035 | Oposición al juicio cambiario: demanda | 2013 | `oposicion-juicio-cambiario-demanda-1035` |
-| 1240 | Monitorio tipo por rentas atrasadas | 2013 | `monitorio-tipo-rentas-atrasadas-1240` |
-| 1332 | Monitorio de la comunidad por certificado de impago de gastos, presentado por el presidente | 2013 | `monitorio-comunidad-certificado-impago-gastos-presentado-1332` |
-| 1370 | Monitorio por cuotas pendientes y gastos de requerimiento | 2013 | `monitorio-cuotas-pendientes-gastos-requerimiento-1370` |
-| 1404 | Monitorio por derramas extraordinarias | 2013 | `monitorio-derramas-extraordinarias-1404` |
-| 1405 | Monitorio de propiedad horizontal con procurador y abogado | 2013 | `monitorio-propiedad-horizontal-procurador-abogado-1405` |
-
-### Recursos e impugnaciones (3)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 623 | Impugnación de la oposición al monitorio | 2016 | `impugnacion-oposicion-monitorio-623` |
-| 635 | Apelación contra el auto que rechaza cláusulas abusivas en el monitorio | 2015 | `apelacion-contra-auto-rechaza-clausulas-abusivas-635` |
-| 716 | Impugnación de la oposición al monitorio por el trámite del verbal | 2015 | `impugnacion-oposicion-monitorio-tramite-verbal-716` |
-
-### Contestaciones, oposiciones y alegaciones (10)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 103 | Oposición al monitorio por prescripción de la deuda | 2022 | `oposicion-monitorio-prescripcion-deuda-103` |
-| 180 | Oposición al monitorio por cláusula rebus sic stantibus | 2021 | `oposicion-monitorio-clausula-rebus-sic-stantibus-180` |
-| 238 | Oposición al monitorio por cláusulas abusivas | 2020 | `oposicion-monitorio-clausulas-abusivas-238` |
-| 636 | Alegaciones del deudor en el incidente de abusividad de oficio en el monitorio | 2015 | `alegaciones-deudor-incidente-abusividad-oficio-monitorio-636` |
-| 719 | Alegaciones del demandado sobre cláusulas abusivas en el monitorio | 2015 | `alegaciones-demandado-sobre-clausulas-abusivas-monitorio-719` |
-| 1025 | Oposición al monitorio con paso al juicio ordinario | 2013 | `oposicion-monitorio-paso-juicio-ordinario-1025` |
-| 1326 | Oposición al monitorio por pluspetición | 2013 | `oposicion-monitorio-pluspeticion-1326` |
-| 1327 | Oposición al monitorio | 2013 | `oposicion-monitorio-1327` |
-| 1342 | Oposición al monitorio en propiedad horizontal | 2013 | `oposicion-monitorio-propiedad-horizontal-1342` |
-| 1369 | Oposición al monitorio por pluspetitio | 2013 | `oposicion-monitorio-pluspetitio-1369` |
-
-### Solicitudes y expedientes (4)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 275 | Inicio de expediente de título de crédito: cheque | 2020 | `inicio-expediente-titulo-credito-cheque-275` |
-| 492 | Monitorio por deuda de alquiler impagado | 2017 | `monitorio-deuda-alquiler-impagado-492` |
-| 711 | Inicio de expediente de título de crédito: letra de cambio | 2015 | `inicio-expediente-titulo-credito-letra-cambio-711` |
-| 1254 | Monitorio: petición | 2013 | `monitorio-peticion-1254` |
-
-### Escritos de trámite (5)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 76 | Impugnación de la oposición al monitorio (financiación de vehículo) | 2023 | `impugnacion-oposicion-monitorio-financiacion-vehiculo-76` |
-| 77 | Petición inicial de monitorio por contrato de financiación de vehículos | 2023 | `peticion-inicial-monitorio-contrato-financiacion-77` |
-| 78 | Petición inicial de monitorio por contrato de renting | 2023 | `peticion-inicial-monitorio-contrato-renting-78` |
-| 511 | Impugnación de la oposición cambiaria | 2017 | `impugnacion-oposicion-cambiaria-511` |
-| 1448 | Apelación contra el auto de inadmisión del monitorio | 2014 | `apelacion-contra-auto-inadmision-monitorio-1448` |
-
-### Contratos, escrituras y documentos (3)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 610 | Modelo normalizado de reclamación monitoria | 2016 | `modelo-normalizado-reclamacion-monitoria-610` |
-| 612 | Modelo normalizado de reclamación monitoria de gastos comunes de comunidad | 2016 | `modelo-normalizado-reclamacion-monitoria-gastos-comunes-612` |
-| 852 | Monitorio simplificado con documentación mercantil habitual | 2013 | `monitorio-simplificado-documentacion-mercantil-habitual-852` |
+**En Claude (web y escritorio)** también puedes subirlo como ZIP desde **Personalizar → Plugins**. El ZIP de este plugin está en la página de versiones del repositorio: https://github.com/DerechoVirtual/modelos-juridicos-civil-espana/releases/latest
 
 ## Qué hay dentro de cada skill
 
