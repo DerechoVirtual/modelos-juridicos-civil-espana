@@ -1,0 +1,25 @@
+{
+  "name": "modelos-divorcio-y-familia-espana",
+  "version": "1.0.0",
+  "description": "Familia: 216 formularios revisados el 17-11-2026, cada uno convertido en una skill que lo rellena paso a paso (divorcio, convenio regulador, medidas, custodia, alimentos, filiación, gananciales). Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Divorcio, custodia y pensiones · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "familia"
+  ],
+  "repository": "https://github.com/DerechoVirtual/modelos-juridicos-civil-espana",
+  "license": "SEE LICENSE IN LICENSE"
+}

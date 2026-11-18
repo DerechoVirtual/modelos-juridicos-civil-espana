@@ -1,0 +1,25 @@
+{
+  "name": "modelos-reclamaciones-y-consumo-espana",
+  "version": "1.0.0",
+  "description": "Contratos, consumo y responsabilidad civil: 183 formularios revisados el 17-11-2026, cada uno convertido en una skill que lo rellena paso a paso (reclamación de cantidad, cláusulas abusivas, seguros, daños). Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Reclamaciones: contratos, consumo, seguros y accidentes · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "contratos-y-responsabilidad-civil"
+  ],
+  "repository": "https://github.com/DerechoVirtual/modelos-juridicos-civil-espana",
+  "license": "SEE LICENSE IN LICENSE"
+}

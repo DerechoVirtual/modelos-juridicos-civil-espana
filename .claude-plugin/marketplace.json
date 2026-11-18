@@ -1,0 +1,208 @@
+{
+  "name": "modelos-juridicos-civil-espana",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Modelos de escritos jurídicos de España para Claude · Civil: 13 plugins por tema, una skill por modelo, cada una conectada a Jurisprudenciator para verificar normas y jurisprudencia.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "modelos-alquiler-y-desahucio-espana",
+      "source": "./plugins/modelos-alquiler-y-desahucio-espana",
+      "description": "Alquileres y desahucios (reforma 2026) · España (187 formularios). Sirve para los conflictos de alquiler (LAU, con las reformas de la Ley 12/2023 y del RDL 29/2026): desahucio por impago, por expiración del plazo o por precario (también contra grandes tenedores), reclamación de rentas y de la fianza, prórrogas, desistimiento del inquilino y determinación de la renta, además de arrendamientos de local, de temporada y rústicos. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "arrendamientos"
+      ]
+    },
+    {
+      "name": "modelos-comunidad-de-propietarios-espana",
+      "source": "./plugins/modelos-comunidad-de-propietarios-espana",
+      "description": "Comunidades de propietarios: juntas, acuerdos y morosos · España (78 formularios). Sirve para comunidades de propietarios: convocatorias, actas y certificados de la junta, impugnación de acuerdos, acción de cesación de actividades molestas o prohibidas, obras y accesibilidad, cuotas y relaciones con el administrador. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "propiedad-horizontal"
+      ]
+    },
+    {
+      "name": "modelos-divorcio-y-familia-espana",
+      "source": "./plugins/modelos-divorcio-y-familia-espana",
+      "description": "Divorcio, custodia y pensiones · España (216 formularios). Sirve para el derecho de familia de principio a fin: separación y divorcio (de mutuo acuerdo o contencioso), convenio regulador, medidas provisionales, custodia y régimen de visitas, pensión de alimentos, filiación, adopción, régimen económico matrimonial y liquidación de gananciales, con especialidades forales (Aragón, Cataluña, Galicia, País Vasco…). Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "familia"
+      ]
+    },
+    {
+      "name": "modelos-ejecucion-y-embargos-espana",
+      "source": "./plugins/modelos-ejecucion-y-embargos-espana",
+      "description": "Ejecutar sentencias: embargos, subastas e hipotecaria · España (128 formularios). Sirve para hacer cumplir sentencias y títulos: demanda ejecutiva, ejecución hipotecaria, oposición a la ejecución (también por cláusulas abusivas), embargos, subasta, tasación de costas y liquidación de intereses. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "ejecucion-civil"
+      ]
+    },
+    {
+      "name": "modelos-herencias-espana",
+      "source": "./plugins/modelos-herencias-espana",
+      "description": "Herencias: testamentos, partición y legítimas · España (87 formularios). Sirve para herencias: testamentos, declaración de herederos, aceptación y repudiación, partición y cuaderno particional, legítimas, desheredación y las acciones judiciales sobre la herencia. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "sucesiones"
+      ]
+    },
+    {
+      "name": "modelos-masc-mediacion-y-arbitraje-espana",
+      "source": "./plugins/modelos-masc-mediacion-y-arbitraje-espana",
+      "description": "MASC obligatorios (LO 1/2025), mediación y arbitraje · España (91 formularios). Sirve para lo que no es un pleito: el requisito de los MASC de la LO 1/2025 (negociación previa, conciliación ante el Letrado de la Administración de Justicia, el notario o el juez de paz), expedientes de jurisdicción voluntaria, mediación y arbitraje. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "jurisdiccion-voluntaria-masc-y-arbitraje"
+      ]
+    },
+    {
+      "name": "modelos-medidas-cautelares-civiles-espana",
+      "source": "./plugins/modelos-medidas-cautelares-civiles-espana",
+      "description": "Medidas cautelares y diligencias preliminares · España (20 formularios). Sirve para asegurar el pleito: medidas cautelares antes o durante el proceso (solicitud, oposición y alzamiento), caución, anotación preventiva de la demanda, y diligencias preliminares para preparar la demanda (en especial, las de propiedad horizontal). Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "cautelares-y-diligencias-preliminares"
+      ]
+    },
+    {
+      "name": "modelos-medidas-de-apoyo-espana",
+      "source": "./plugins/modelos-medidas-de-apoyo-espana",
+      "description": "Curatela y medidas de apoyo (Ley 8/2021) · España (60 formularios). Sirve para el sistema de apoyos a las personas con discapacidad de la Ley 8/2021: curatela y autocuratela, medidas voluntarias de apoyo, guarda de hecho, defensor judicial, y revisión de las medidas acordadas antes de la reforma. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "capacidad-y-apoyos"
+      ]
+    },
+    {
+      "name": "modelos-monitorio-espana",
+      "source": "./plugins/modelos-monitorio-espana",
+      "description": "Cobrar deudas: monitorio y cambiario · España (37 formularios). Sirve para el proceso monitorio y el juicio cambiario: petición inicial, oposición del deudor (prescripción, pluspetición, cláusulas abusivas…), impugnación de la oposición y paso al declarativo, y oposición en el juicio cambiario. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "monitorio-y-cambiario"
+      ]
+    },
+    {
+      "name": "modelos-proceso-civil-espana",
+      "source": "./plugins/modelos-proceso-civil-espana",
+      "description": "Escritos del proceso civil (LO 1/2025) · España (343 formularios). Sirve para los escritos del proceso civil (LEC y LO 1/2025): demandas y contestaciones, encabezamientos ante las Secciones del Tribunal de Instancia, audiencia previa y vista, proposición de prueba, conclusiones, suspensión, recusación y el resto de escritos de trámite. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "escritos-procesales-civiles"
+      ]
+    },
+    {
+      "name": "modelos-propiedad-y-posesion-espana",
+      "source": "./plugins/modelos-propiedad-y-posesion-espana",
+      "description": "Propiedad, posesión, ocupaciones y servidumbres · España (15 formularios). Sirve para defender la propiedad y la posesión: demanda posesoria para retener o recuperar la posesión, suspensión de obra nueva, deslinde, tercería de dominio, retracto, usufructo, servidumbres y la declaración judicial de falta de derecho para ocupar. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "propiedad-y-derechos-reales"
+      ]
+    },
+    {
+      "name": "modelos-reclamaciones-y-consumo-espana",
+      "source": "./plugins/modelos-reclamaciones-y-consumo-espana",
+      "description": "Reclamaciones: contratos, consumo, seguros y accidentes · España (183 formularios). Sirve para reclamaciones civiles y de consumo: incumplimiento de contratos (compraventa, obra, depósito…), cláusulas abusivas, reclamaciones a aseguradoras, accidentes de circulación, responsabilidad civil por daños y la acción de regreso del socio contra la sociedad. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "contratos-y-responsabilidad-civil"
+      ]
+    },
+    {
+      "name": "modelos-recursos-civiles-espana",
+      "source": "./plugins/modelos-recursos-civiles-espana",
+      "description": "Apelación, casación y recursos civiles · España (75 formularios). Sirve para impugnar resoluciones civiles: recurso de reposición y de revisión, apelación y oposición a la apelación, casación y oposición a la casación, queja y nulidad de actuaciones. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "recursos-civiles"
+      ]
+    }
+  ]
+}
