@@ -65,3 +65,43 @@ Al terminar, abre una conversación nueva para que aparezcan sus skills.
 
 La guía del tema, con las reglas y plazos vigentes comprobados en el BOE, es común a todas las skills del plugin y está en `skills/indice/marco.md`.
 
+## Lista completa de formularios
+
+Cada formulario es una skill. Puedes pedirlo con tus palabras o llamarlo por su nombre (`/modelos-medidas-cautelares-civiles-espana:<skill>`). Son 20, agrupados por tipo de escrito:
+
+- **Índice del plugin** (`indice`): te ayuda a elegir el formulario adecuado cuando no sabes cuál usar; le cuentas el caso y te propone uno, o dos o tres para que elijas.
+
+### Contestaciones, oposiciones y alegaciones (2)
+
+- **Oposición a diligencias preliminares de propiedad horizontal** (`oposicion-diligencias-preliminares-propiedad-horizontal-1399`). Escrito de oposición a las diligencias preliminares solicitadas en materia de propiedad horizontal, con las razones por las que no deben practicarse, ante la Sección Civil del Tribunal de Instancia.
+- **Oposición a medidas cautelares acordadas por arbitraje pendiente sin audiencia del demandado** (`oposicion-medidas-cautelares-acordadas-arbitraje-1484`). Escrito del demandado que se opone a las medidas cautelares acordadas, sin oírle, en apoyo de un arbitraje pendiente, y pide que se alcen o se modifiquen, ante el Tribunal de Instancia.
+
+### Solicitudes y expedientes (7)
+
+- **Abono de gastos de diligencias preliminares de propiedad horizontal** (`abono-gastos-diligencias-preliminares-propiedad-1401`). Escrito para pedir el abono de los gastos y costas generados en unas diligencias preliminares de propiedad horizontal, ante la Sección Civil del Tribunal de Instancia.
+- **Alzamiento de medidas cautelares por no presentar la demanda en plazo** (`alzamiento-medidas-cautelares-no-presentar-demanda-plazo-1100`). Escrito para pedir el alzamiento de las medidas cautelares acordadas antes de la demanda porque el solicitante no la presentó dentro del plazo, ante la Sección Civil del Tribunal de Instancia.
+- **Devolución de la caución prestada en diligencias preliminares** (`devolucion-caucion-prestada-diligencias-preliminares-187`). Escrito para pedir que se devuelva la caución prestada en unas diligencias preliminares, una vez cumplida su finalidad, ante la Sección Civil del Tribunal de Instancia.
+- **Medida cautelar con el proceso iniciado (general)** (`medida-cautelar-proceso-iniciado-general-1107`). Solicitud de medida cautelar formulada con el proceso ya iniciado, con la justificación de su necesidad y de la caución, dentro de un juicio ordinario ante el Tribunal de Instancia.
+- **Medida cautelar previa a la demanda: acceso a vivienda o local** (`medida-cautelar-previa-demanda-acceso-vivienda-local-512`). Solicitud de medida cautelar, previa a la demanda y sin oír al demandado, para acceder a una vivienda o local y hacer obras en régimen de propiedad horizontal.
+- **Medidas cautelares (general)** (`medidas-cautelares-general-1040`). Escrito del procurador que solicita medidas cautelares en nombre de su representado, con la apariencia de buen derecho, el riesgo de demora y la caución, ante el Tribunal de Instancia.
+- **Prórroga de anotación preventiva de demanda** (`prorroga-anotacion-preventiva-demanda-1494`). Escrito para pedir la prórroga de la anotación preventiva de demanda en el Registro de la Propiedad antes de que caduque, conforme a la Ley Hipotecaria, ante el Tribunal de Instancia.
+
+### Escritos de trámite (3)
+
+- **Impugnación de la oposición a las diligencias preliminares** (`impugnacion-oposicion-diligencias-preliminares-634`). Escrito del solicitante que impugna la oposición a las diligencias preliminares y pide que se acuerde su práctica, ante la Sección Civil del Tribunal de Instancia.
+- **Otrosí de medidas cautelares del art. 727 LEC: inventario y administrador judicial** (`otrosi-medidas-cautelares-art-727-lec-inventario-168`). Otrosí de la demanda que pide como medidas cautelares formar inventario de los bienes gananciales y nombrar un administrador judicial, con base en el art. 727 LEC.
+- **Otrosí: caución** (`otrosi-caucion-1038`). Otrosí de la demanda sobre la caución: bien renuncia a exigirla al demandado, bien pide que la preste por la cuantía que se calcula provisionalmente para responder de frutos, daños y costas.
+
+### Actos y resoluciones de la Administración o del órgano judicial (1)
+
+- **Diligencias preliminares de propiedad horizontal para exhibir documentos de la comunidad** (`diligencias-preliminares-propiedad-horizontal-exhibir-1373`). Escrito del procurador de una comunidad de propietarios que pide diligencias preliminares para que se exhiban los documentos de la comunidad, ante la Sección Civil del Tribunal de Instancia.
+
+### Otros (7)
+
+- **Audiencia de las partes sobre la caución en tercería de dominio** (`audiencia-partes-sobre-caucion-terceria-dominio-1022`). Escrito con el que las partes se pronuncian sobre la caución que debe prestar el tercerista en una tercería de dominio, ante la Sección Civil del Tribunal de Instancia, para aceptarla, discutirla o pedir que se ajuste.
+- **Caución en sustitución de la medida de aseguramiento** (`caucion-sustitucion-medida-aseguramiento-981`). Escrito para ofrecer una caución que sustituya la medida de aseguramiento acordada, con la cuantía y la forma de prestarla, ante la Sección Civil del Tribunal de Instancia.
+- **Caución ofrecida en sustitución de medidas (general)** (`caucion-ofrecida-sustitucion-medidas-general-1054`). Escrito de la parte que ofrece una caución para evitar o sustituir las medidas cautelares solicitadas o acordadas, dirigido a la Sección Civil del Tribunal de Instancia, concretando su clase y su cuantía.
+- **Caución prestada por el demandante** (`caucion-prestada-demandante-1110`). Escrito del demandante que presta o ofrece la caución exigida para que se adopte una medida cautelar, indicando su forma y su importe ante la Sección Civil del Tribunal de Instancia que conoce del juicio.
+- **Fijación de caución en diligencias preliminares de propiedad horizontal** (`fijacion-caucion-diligencias-preliminares-propiedad-1340`). Escrito dentro de las diligencias preliminares en materia de propiedad horizontal para que el tribunal fije la caución que debe prestar quien las solicita, antes de acordar las diligencias pedidas.
+- **Medida cautelar de depósito de cosa mueble con la demanda** (`medida-cautelar-deposito-cosa-mueble-demanda-1106`). Otrosí de la demanda para pedir, como medida cautelar, el depósito de una cosa mueble litigiosa, con o sin audiencia previa de la parte contraria, ante la Sección Civil del Tribunal de Instancia.
+- **Pérdida de la caución de diligencias preliminares por no presentar la demanda** (`perdida-caucion-diligencias-preliminares-no-presentar-1400`). Escrito para solicitar que se declare perdida la caución prestada en unas diligencias preliminares porque el solicitante no ha presentado la demanda en plazo, pidiendo su aplicación a los daños y gastos del requerido.
